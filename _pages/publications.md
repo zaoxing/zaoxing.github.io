@@ -11,55 +11,55 @@ author_profile: true
 Antonis Manousis, Zhuo Cheng, Ran Ben Basat, Zaoxing Liu, Vyas Sekar  
 *to appear in VLDB'22*
 
-[**NSDI**] [HeteroSketch: Coordinating Network-wide Monitoring in Heterogeneous and Dynamic Networks](https://zaoxing.github.io/papers/2022/NSDI2022_HeteroSketch.pdf)  
+[**NSDI**] [HeteroSketch: Coordinating Network-wide Monitoring in Heterogeneous and Dynamic Networks](/papers/2022/NSDI2022_HeteroSketch.pdf)  
 Anup Agarwal, Zaoxing Liu, Srinivasan Seshan  
 *in USENIX NSDI'22*
 
-[**NSDI**] [SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches](https://zaoxing.github.io/papers/2022/NSDI2022_SketchLib.pdf)  
+[**NSDI**] [SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches](/papers/2022/NSDI2022_SketchLib.pdf)  
 Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste  
 *in USENIX NSDI'22*
 
 2021
 ---
-[**USENIX Security**] [Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches](https://zaoxing.github.io/papers/2021/USENIX_Security21_Jaqen.pdf)  
+[**USENIX Security**] [Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches](/papers/2021/USENIX_Security21_Jaqen.pdf)  
 Zaoxing Liu, Hun Namkung, Georgios Nikolaidis, Jeongkeun Lee, Changhoon Kim, Xin Jin, Vladimir Braverman, Minlan Yu, Vyas Sekar  
 *in USENIX Security'21*
 
-[**IMC**] [Precise Error Estimation for Sketch-based Flow Measurement](https://zaoxing.github.io/papers/2021/IMC21_ErrorEstimation.pdf)  
+[**IMC**] [Precise Error Estimation for Sketch-based Flow Measurement](/papers/2021/IMC21_ErrorEstimation.pdf)  
 Peiqing Chen, Yuhan Wu, Tong Yang, Junchen Jiang, Zaoxing Liu   
 *in ACM/SIGCOMM IMC'21*
 
-[**SIGCOMM**] [CocoSketch: High-Performance Sketch-based Measurement over Arbitrary Partial Key Query](https://zaoxing.github.io/papers/2021/SIGCOMM21-CocoSketch.pdf)  
+[**SIGCOMM**] [CocoSketch: High-Performance Sketch-based Measurement over Arbitrary Partial Key Query](/papers/2021/SIGCOMM21-CocoSketch.pdf)  
 Yinda Zhang, Zaoxing Liu, Ruixin Wang, Tong Yang, Jizhou Li, Ruijie Miao, Peng Liu, Ruwen Zhang, Junchen Jiang  
 *in ACM SIGCOMM'21*
 
-[**SOSR**] [Telemetry Retrieval Inaccuracy in Programmable Switches: Analysis and Recommendations](https://zaoxing.github.io/papers/2021/SOSR21_CounterRetrieval.pdf)  
+[**SOSR**] [Telemetry Retrieval Inaccuracy in Programmable Switches: Analysis and Recommendations](/papers/2021/SOSR21_CounterRetrieval.pdf)  
 Hun Namkung, Daehyeok Kim, Zaoxing Liu, Vyas Sekar, Peter Steenkiste    
 *in ACM SOSR'21*
 
-[**TaPoPF**] [Sketchy With a Chance of Adoption: Can Sketch-Based Telemetry Be Ready for Prime Time?](https://zaoxing.github.io/papers/2021/TaPoPF21_Sketching.pdf)  
+[**TaPoPF**] [Sketchy With a Chance of Adoption: Can Sketch-Based Telemetry Be Ready for Prime Time?](/papers/2021/TaPoPF21_Sketching.pdf)  
 Zaoxing Liu, Hun Namkung, Anup Agarwal, Antonis Manousis, Peter Steenkiste, Srinivasan Seshan, Vyas Sekar    
 *in 1st IEEE TaPoPF Workshop (NetSoft). [This is an open-problem paper] *
 
-[**IoTDI**] [SecDeep: Secure and Performant On-device Deep Learning Inference Framework for Mobile and IoT Devices](https://zaoxing.github.io/papers/2021/IoTDI21_SecDeep.pdf)  
+[**IoTDI**] [SecDeep: Secure and Performant On-device Deep Learning Inference Framework for Mobile and IoT Devices](/papers/2021/IoTDI21_SecDeep.pdf)  
 Renju Liu, Luis Garcia, Zaoxing Liu, Botong Ou, Mani Srivastava    
 *in ACM/IEEE IoTDI 2021*
 
 2020
 ---
-[**SIGCOMM**] [TEA: Enabling State-Intensive Network Functions on Programmable Switches](https://zaoxing.github.io/papers/2020/SIGCOMM20_TEA.pdf)  
+[**SIGCOMM**] [TEA: Enabling State-Intensive Network Functions on Programmable Switches](/papers/2020/SIGCOMM20_TEA.pdf)  
 Daehyeok Kim, Zaoxing Liu, Yibo Zhu, Changhoon Kim, Jeongkeun Lee, Vyas Sekar, Srinivasan Seshan   
 *in ACM SIGCOMM 2020*
 
-[**MobiCom**] [Joltik: Enabling Energy-Efficient "Future-Proof" Analytics on Low-Power Wide-Area Networks](https://zaoxing.github.io/papers/2020/MobiCom20_Joltik.pdf)  
+[**MobiCom**] [Joltik: Enabling Energy-Efficient "Future-Proof" Analytics on Low-Power Wide-Area Networks](/papers/2020/MobiCom20_Joltik.pdf)  
 Mingran Yang, Junbo Zhang, Akshay Gadre, Zaoxing Liu, Swarun Kumar, Vyas Sekar    
 *in ACM MobiCom 2020*
 
-[**APoCS**] [Memory-Efficient Performance Monitoring on Programmable Switches with Lean Algorithms](https://zaoxing.github.io/papers/2020/APoCS20_Lean.pdf)  
+[**APoCS**] [Memory-Efficient Performance Monitoring on Programmable Switches with Lean Algorithms](/papers/2020/APoCS20_Lean.pdf)  
 Zaoxing Liu, Samson Zhou, Ori Rottenstreich, Vladimir Braverman, Jennifer Rexford    
 *in SIAM ACM APoCS 2020 (Co-held with SODA 2020)*
 
-[**SIGMETRICS**] [I Know What You Did Last Summer: Network Monitoring using Interval Queries](https://zaoxing.github.io/papers/2020/SIGMETRICS20_Interval_Query.pdf)  
+[**SIGMETRICS**] [I Know What You Did Last Summer: Network Monitoring using Interval Queries](/papers/2020/SIGMETRICS20_Interval_Query.pdf)  
 Nikita Ivkin, Ran Ben Basat, Zaoxing Liu, Gil Einziger, Roy Friedman, Vladimir Braverman    
 *in ACM SIGMETRICS 2020*
 
@@ -69,11 +69,11 @@ Daehyeok Kim, Ankush Jain, Zaoxing Liu, George Amvrosiadis, Damian Hazen, Bradle
 
 2019
 ---
-[**SIGCOMM**] [NitroSketch: Robust and General Sketch-based Monitoring in Software Switches](https://zaoxing.github.io/papers/2019/SIGCOMM19_NitroSketch.pdf)  
+[**SIGCOMM**] [NitroSketch: Robust and General Sketch-based Monitoring in Software Switches](/papers/2019/SIGCOMM19_NitroSketch.pdf)  
 Zaoxing Liu, Ran Ben-Basat, Gil Einziger, Yaron Kassner, Vladimir Braverman, Roy Friedman, Vyas Sekar        
 *in ACM SIGCOMM 2019*
 
-[**FAST**] [DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching](https://zaoxing.github.io/papers/2019/FAST19_DistCache.pdf)  
+[**FAST**] [DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching](/papers/2019/FAST19_DistCache.pdf)  
 Zaoxing Liu, Zhihao Bai, Zhenming Liu, Xiaozhou Li, Changhoon Kim, Vladimir Braverman, Xin Jin, Ion Stoica          
 *in USENIX FAST 2019, <font color="green">Best Paper Award</font>*
 
@@ -83,41 +83,41 @@ Zaoxing Liu, Tian Li, Virginia Smith, Vyas Sekar
 
 2018
 ---
-[**OSDI**] [ASAP: Fast, Approximate Pattern Mining at Scale](https://zaoxing.github.io/papers/2018/OSDI18_ASAP.pdf)  
+[**OSDI**] [ASAP: Fast, Approximate Pattern Mining at Scale](/papers/2018/OSDI18_ASAP.pdf)  
 Zaoxing Liu* (Co-first author), Anand Iyer* , Xin Jin, Shivaram Venkataraman, Vladimir Braverman, Ion Stoica              
 *in USENIX OSDI 2018*  [[Blog:the morning paper](https://blog.acolyer.org/2018/11/07/asap-fast-approximate-graph-pattern-mining-at-scale/)]
 
-[**HotCloud**] [Towards Fast and Scalable Graph Pattern Mining](https://zaoxing.github.io/papers/2018/HotCloud18_Graph.pdf)  
+[**HotCloud**] [Towards Fast and Scalable Graph Pattern Mining](/papers/2018/HotCloud18_Graph.pdf)  
 Anand Iyer* , Zaoxing Liu* (Co-first author), Xin Jin, Shivaram Venkataraman, Vladimir Braverman, Ion Stoica              
 *in USENIX HotCloud 2018*
 
-[**Astro. & Comp.**] [Scalable Streaming Tools for Analyzing N-body Simulations: Finding Halos and Investigating Excursion Sets in One Pass](https://zaoxing.github.io/papers/2018/astro_com.pdf)  
+[**Astro. & Comp.**] [Scalable Streaming Tools for Analyzing N-body Simulations: Finding Halos and Investigating Excursion Sets in One Pass](/papers/2018/astro_com.pdf)  
 Nikita Ivkin, Zaoxing Liu, Lin F. Yang, Srinivas Suresh Kumara, Gerard Lemsona, Mark Neyrinckc, Alexander S. Szalay, Vladimir Bravermana, Tamas Budavari           
 *in Astronomy and Computing 2018*
 
 2017
 ---
-[**Algorithmica**] [New Bounds for the CLIQUE-GAP Problem using Graph Decomposition Theory](https://zaoxing.github.io/papers/2017/alg17.pdf)  
+[**Algorithmica**] [New Bounds for the CLIQUE-GAP Problem using Graph Decomposition Theory](/papers/2017/alg17.pdf)  
 Vladimir Braverman, Zaoxing Liu, Tejasvam Singh, N.V. Vinodchandran and Lin Yang (Alphabetical)           
 *in Algorithmica 2017*
 
 2016
 ---
-[**SIGCOMM**] [One Sketch to Rule Them All: Rethinking Network Flow Monitoring with UnivMon](https://zaoxing.github.io/papers/2016/SIGCOMM16_UnivMon.pdf)  
+[**SIGCOMM**] [One Sketch to Rule Them All: Rethinking Network Flow Monitoring with UnivMon](/papers/2016/SIGCOMM16_UnivMon.pdf)  
 Zaoxing Liu, Antonis Manousis, Greg Vorsanger, Vyas Sekar, Vladimir Braverman          
 *in ACM SIGCOMM 2016, Selected as Plenary Talk ("<font color="green">Best of Theory</font>") at STOC 2018.*
 
 2015
 ---
-[**HotNets**] [Enabling a "RISC" Approach for Software-Defined Monitoring using Universal Streaming](https://zaoxing.github.io/papers/2015/HotNets15.pdf)  
+[**HotNets**] [Enabling a "RISC" Approach for Software-Defined Monitoring using Universal Streaming](/papers/2015/HotNets15.pdf)  
 Zaoxing Liu, Greg Vorsanger, Vladimir Braverman, Vyas Sekar         
 *in ACM HotNets 2015. <font color="green">Best Poster Award</font> at AT&T Research Summit 2016.*
 
-[**HotNets**] [Streaming Algorithms for Halo Findersg](https://zaoxing.github.io/papers/2015/eScience15_Halo.pdf)  
+[**HotNets**] [Streaming Algorithms for Halo Findersg](/papers/2015/eScience15_Halo.pdf)  
 Zaoxing Liu, Nikita Ivkin, Lin F. Yang, Mark Neyrinck, Gerard Lemson, Alexander S. Szalay, Vladimir Braverman, Tamas Budavari, Randal Burns, and Xin Wang           
 *in IEEE eScience 2015*
 
-[**MFCS**] [New Bounds for the CLIQUE-GAP Problem using Graph Decomposition Theory](https://zaoxing.github.io/papers/2015/MFCS15.pdf)  
+[**MFCS**] [New Bounds for the CLIQUE-GAP Problem using Graph Decomposition Theory](/papers/2015/MFCS15.pdf)  
 Vladimir Braverman, Zaoxing Liu, Tejasvam Singh, N.V. Vinodchandran and Lin Yan (Alphabetical)           
 *in MFCS 2015*
 

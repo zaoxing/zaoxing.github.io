@@ -42,20 +42,20 @@ Research
 I'm broadly interested in systems and networking. I design, implement, evaluate systems and algorithmic tools for telemetry, in-network computing, ML/analytics, and network security.
 
 **Network Telemetry and Management**
-- Sketch-based Telemetry for Heterogeneous and Dynamic Networks [[HeteroSketch, NSDI'22](https://zaoxing.github.io/papers/2022/NSDI2022_HeteroSketch.pdf)]
-- Efficient Library to Deploy Sketches on Hardware [[SketchLib, NSDI'22](https://zaoxing.github.io/papers/2022/NSDI2022_SketchLib.pdf)]
-- Arbitary Partial Key Queries on Network Hardware [[CocoSketch, SIGCOMM'21](https://zaoxing.github.io/papers/2021/SIGCOMM21-CocoSketch.pdf)]
-- Precise Error Estimation for Sketch Queries [[ErrorEstimator, IMC'21](https://zaoxing.github.io/papers/2021/IMC21_ErrorEstimation.pdf)]
-- Sketch-based Telemetry for High-Speed Networks [[NitroSketch, SIGCOMM'19](https://zaoxing.github.io/papers/2019/SIGCOMM19_NitroSketch.pdf)]
-- Interval-based Network Queries [[IQ-Sketch, SIGMETRICS'20](https://zaoxing.github.io/papers/2020/SIGMETRICS20_Interval_Query.pdf)]
-- Future-Proof Sketch-based Telemetry [[UnivMon, SIGCOMM'16](https://zaoxing.github.io/papers/2016/SIGCOMM16_UnivMon.pdf)]
+- Sketch-based Telemetry for Heterogeneous and Dynamic Networks [[HeteroSketch, NSDI'22](/papers/2022/NSDI2022_HeteroSketch.pdf)]
+- Efficient Library to Deploy Sketches on Hardware [[SketchLib, NSDI'22](/papers/2022/NSDI2022_SketchLib.pdf)]
+- Arbitary Partial Key Queries on Network Hardware [[CocoSketch, SIGCOMM'21](/papers/2021/SIGCOMM21-CocoSketch.pdf)]
+- Precise Error Estimation for Sketch Queries [[ErrorEstimator, IMC'21](/papers/2021/IMC21_ErrorEstimation.pdf)]
+- Sketch-based Telemetry for High-Speed Networks [[NitroSketch, SIGCOMM'19](/papers/2019/SIGCOMM19_NitroSketch.pdf)]
+- Interval-based Network Queries [[IQ-Sketch, SIGMETRICS'20](/papers/2020/SIGMETRICS20_Interval_Query.pdf)]
+- Future-Proof Sketch-based Telemetry [[UnivMon, SIGCOMM'16](/papers/2016/SIGCOMM16_UnivMon.pdf)]
 
 **Programmable Networks / In-Network Computing and Security**
-- High-Performance Switch-Native DDoS Defense [[Jaqen, Security'21](https://zaoxing.github.io/papers/2021/USENIX_Security21_Jaqen.pdf)]
-- Table Extension Architecture for Programmable Switches [[TEA, SIGCOMM'20](https://zaoxing.github.io/papers/2020/SIGCOMM20_TEA.pdf)]
-- Distributed Load Balancing for Data Centers [[DistCache, FAST'19](https://zaoxing.github.io/papers/2019/FAST19_DistCache.pdf)]
+- High-Performance Switch-Native DDoS Defense [[Jaqen, Security'21](/papers/2021/USENIX_Security21_Jaqen.pdf)]
+- Table Extension Architecture for Programmable Switches [[TEA, SIGCOMM'20](/papers/2020/SIGCOMM20_TEA.pdf)]
+- Distributed Load Balancing for Data Centers [[DistCache, FAST'19](/papers/2019/FAST19_DistCache.pdf)]
 
 **Data Analytics Systems**
 - General Multidimensional Subpopulation (Data Cube) Analytics [[Hydra, VLDB'22](https://zaoxing.github.io/)]
-- Future-Proof Analytics for Low-Power Sensors [[Joltik, MobiCom'20](https://zaoxing.github.io/papers/2020/MobiCom20_Joltik.pdf)]
-- Distributed Approximate Graph Mining [[ASAP, OSDI'18](https://zaoxing.github.io/papers/2018/OSDI18_ASAP.pdf)]
+- Future-Proof Analytics for Low-Power Sensors [[Joltik, MobiCom'20](/papers/2020/MobiCom20_Joltik.pdf)]
+- Distributed Approximate Graph Mining [[ASAP, OSDI'18](/papers/2018/OSDI18_ASAP.pdf)]
