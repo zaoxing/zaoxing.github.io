@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alan Liu"
 title_separator          : "-"
-name                     : &name "Alan Liu - Home"
+name                     : &name "Alan Zaoxing Liu - Home - Boston University"
 description              : &description "Professor"
 url                      : https://zaoxing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,8 +83,8 @@ author:
   name             : "&nbsp; Alan (Zaoxing) Liu"
   avatar           : "profile.jpg"
   bio              : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor"
-  location         : "Boston University"
-  employer         :
+  location         : 
+  employer         : "Boston University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qvK1_5wAAAAJ"
   email            : "zaoxing@bu.edu"
