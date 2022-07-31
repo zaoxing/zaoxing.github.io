@@ -12,10 +12,11 @@ The course aims to explore several fundamental topics of cloud computing, includ
 
 Instructors
 ------
-- Instructor: Prof. Alan (Zaoxing) Liu
+- Instructor: [Prof. Alan (Zaoxing) Liu](https://www.bu.edu/eng/profile/alan-liu/)
   - Office Hours: TBA
 - TA: Zeying Zhu, PhD Student
   - Office Hours: TBA
+- Many thanks to [Prof. Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/) for his materials from previous years.
 
 Tentative Syllabus
 ------
