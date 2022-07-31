@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alan Liu"
 title_separator          : "-"
-name                     : &name "Alan Zaoxing Liu - Home - Boston University"
+name                     : &name "Alan Liu"
 description              : &description "Professor"
 url                      : https://zaoxing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

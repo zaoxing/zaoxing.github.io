@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: ""
+layout: archive-notitle
+title: "Service"
 permalink: /service/
 author_profile: true
 ---
