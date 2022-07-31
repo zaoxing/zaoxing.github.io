@@ -1,8 +1,8 @@
 ---
+layout: single-notitle
 permalink: /
 title: "Alan Zaoxing Liu - Homepage - Boston University"
 excerpt: "About me"
-layout: single-notitle
 author_profile: true
 redirect_from: 
   - /about/

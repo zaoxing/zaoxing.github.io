@@ -22,19 +22,19 @@ Tentative Syllabus
 
 | Date    | Topics  | Readings | Notes|
 | :------: | :------: | :------:  | :----: |
-| Week 1  | Course Overview | [How to Read](https://zaoxing.github.io/files/course/CCR07_HowToRead.pdf), [You and Your Research](https://zaoxing.github.io/files/course/Bell86_YouAndYourResearch.pdf) | [Project Template](), [Project Management Guidelines](), [Example Projects]() |
+| Week 1  | Course Overview | [How to Read](/files/course/CCR07_HowToRead.pdf), [You and Your Research](/files/course/Bell86_YouAndYourResearch.pdf) | [Project Template](), [Project Management Guidelines](), [Example Projects]() |
 | Week 2  | Overview of Cloud Computing | [The Datacenter as a Computer](https://www.morganclaypool.com/doi/abs/10.2200/S00874ED3V01Y201809CAC046) | Sign up for projects |
-| Week 3  | Overview of Virtualization | [Container-based OS virtualization](https://zaoxing.github.io/files/course/EuroSys07_Container.pdf), [Xen](https://zaoxing.github.io/files/course/SOSP03_Xen.pdf)| Project descriptions Due |
+| Week 3  | Overview of Virtualization | [Container-based OS virtualization](/files/course/EuroSys07_Container.pdf), [Xen](/files/course/SOSP03_Xen.pdf)| Project descriptions Due |
 | Week 4 | Agile Methods | [Agile-1](), [Agile-2]()  | Sprint project demos |
-| Week 5 | Distributed Systems | [Google File System](https://zaoxing.github.io/files/course/SOSP03_GFS.pdf), [MapReduce](https://zaoxing.github.io/files/course/CACM_MapReduce.pdf) | Sprint project demos | 
-| Week 6 | Datacenter Architectures | [VL2](https://zaoxing.github.io/files/course/SIGCOMM09_VL2.pdf), [Aquila](https://zaoxing.github.io/files/course/NSDI22_Aquila.pdf) | Sprint project demos |
-| Week 7 | Storage Systems | [Ceph](https://zaoxing.github.io/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](https://zaoxing.github.io/files/course/OSDI12_FDS.pdf)| Sprint project demos |
-| Week 8 | Resource Management | [Borg](https://zaoxing.github.io/files/course/EuroSys15_Borg.pdf), [Mesos](https://zaoxing.github.io/files/course/NSDI11_Mesos.pdf), [Kubernetes]() | Invited talk |
-| Week 9 | Big Data Frameworks | [Spark](https://zaoxing.github.io/files/course/NSDI12_Spark.pdf), [Hive](https://zaoxing.github.io/files/course/VLDB09_Hive.pdf) | Sprint project demos |
-| Week 10 | Datacenter Networking | [DCTCP](https://zaoxing.github.io/files/course/SIGCOMM10_DCTCP.pdf), [P4](https://zaoxing.github.io/files/course/CCR14_P4.pdf) | Invited talk |
-| Week 11 | Resource Disaggregation | [InfiniSwap](https://zaoxing.github.io/files/course/NSDI17_InfiniSwap.pdf), [LegoOS](https://zaoxing.github.io/files/course/OSDI18_LegoOS.pdf) |  Sprint project demos |
-| Week 12 | Distributed Systems II (Thanksgiving) | [Dynamo](https://zaoxing.github.io/files/course/SOSP07_Dynamo.pdf), [Kafka](https://zaoxing.github.io/files/course/NetDB11_Kafka.pdf) | Sprint project demos |
-| Week 13 | Beyond the Cloud | [Serverless](https://zaoxing.github.io/files/course/Berkeley_Serverless.pdf), [Sky Computing](https://zaoxing.github.io/files/course/HotOS21_Sky.pdf) | Sprint project demos |
+| Week 5 | Distributed Systems | [Google File System](/files/course/SOSP03_GFS.pdf), [MapReduce](/files/course/CACM_MapReduce.pdf) | Sprint project demos | 
+| Week 6 | Datacenter Architectures | [VL2](/files/course/SIGCOMM09_VL2.pdf), [Aquila](/files/course/NSDI22_Aquila.pdf) | Sprint project demos |
+| Week 7 | Storage Systems | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| Sprint project demos |
+| Week 8 | Resource Management | [Borg](/files/course/EuroSys15_Borg.pdf), [Mesos](/files/course/NSDI11_Mesos.pdf), [Kubernetes]() | Invited talk |
+| Week 9 | Big Data Frameworks | [Spark](/files/course/NSDI12_Spark.pdf), [Hive](/files/course/VLDB09_Hive.pdf) | Sprint project demos |
+| Week 10 | Datacenter Networking | [DCTCP](/files/course/SIGCOMM10_DCTCP.pdf), [P4](/files/course/CCR14_P4.pdf) | Invited talk |
+| Week 11 | Resource Disaggregation | [InfiniSwap](/files/course/NSDI17_InfiniSwap.pdf), [LegoOS](/files/course/OSDI18_LegoOS.pdf) |  Sprint project demos |
+| Week 12 | Distributed Systems II (Thanksgiving) | [Dynamo](/files/course/SOSP07_Dynamo.pdf), [Kafka](/files/course/NetDB11_Kafka.pdf) | Sprint project demos |
+| Week 13 | Beyond the Cloud | [Serverless](/files/course/Berkeley_Serverless.pdf), [Sky Computing](/files/course/HotOS21_Sky.pdf) | Sprint project demos |
 | Week 14 | Final Presentations | 
 | Week 15 | Final Project Review |
 
