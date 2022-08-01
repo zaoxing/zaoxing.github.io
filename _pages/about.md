@@ -57,6 +57,6 @@ I'm broadly interested in systems and networking. I design, implement, evaluate 
 - Distributed Load Balancing for Data Centers [[DistCache, FAST'19](/papers/2019/FAST19_DistCache.pdf)]
 
 **Data Analytics Systems**
-- General Multidimensional Subpopulation (Data Cube) Analytics [[Hydra, VLDB'22](https://zaoxing.github.io/)]
+- General Multidimensional Subpopulation (Data Cube) Analytics [[Hydra, VLDB'22](/papers/2022/VLDB22_Hydra.pdf)]
 - Future-Proof Analytics for Low-Power Sensors [[Joltik, MobiCom'20](/papers/2020/MobiCom20_Joltik.pdf)]
 - Distributed Approximate Graph Mining [[ASAP, OSDI'18](/papers/2018/OSDI18_ASAP.pdf)]

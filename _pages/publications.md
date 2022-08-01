@@ -7,7 +7,7 @@ author_profile: true
 
 2022
 ---
-[**VLDB**] [Enabling Efficient and General Subpopulation Analytics In Multidimensional Data Streams]()  
+[**VLDB**] [Enabling Efficient and General Subpopulation Analytics In Multidimensional Data Streams](/papers/2022/VLDB22_Hydra.pdf)  
 Antonis Manousis, Zhuo Cheng, Ran Ben Basat, Zaoxing Liu, Vyas Sekar  
 *to appear in VLDB'22*
 
