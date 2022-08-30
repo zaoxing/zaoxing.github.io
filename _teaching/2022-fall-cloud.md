@@ -8,7 +8,7 @@ date: 2022-09-01
 location: "Boston, MA"
 ---
 
-The course aims to explore several fundamental topics of cloud computing, including IaaS (e.g., Open Stack), key big data platforms, and datacenter networking. The course combines group reading and discussion of influential publications in the field, lectures by the instructor, talks by invited speakers, and a large project. In particular, the students will be a part of an agile team, with extensive experience with GitHub, agile tools, and various technologies. The project will be done by teams of 3 to 5 students working with a mentor, depending on the project, an industry leader and/or engineer with a relevant project, or a senior graduate student or a postdoc working on a relevant research project. Projects may use the Mass Open Cloud or industry clouds (Amazon AWS, Microsoft AWS, Rackspace, etc.)
+The course aims to explore several fundamental topics of cloud computing, including IaaS (e.g., Open Stack), key big data platforms, and datacenter networking. The course combines group reading and discussion of influential publications in the field, lectures by the instructor, talks by invited speakers, and a large project. In particular, the students will be a part of an agile team, with extensive experience with GitHub, agile tools, and various technologies. The project will be done by teams of 3 to 5 students working with a mentor, depending on the project, an industry leader and/or engineer with a relevant project, or a senior graduate student or a postdoc working on a relevant research project. Projects may use the Mass Open Cloud or industry clouds (Amazon AWS, Microsoft Azure, Rackspace, etc.)
 
 Instructors
 ------
