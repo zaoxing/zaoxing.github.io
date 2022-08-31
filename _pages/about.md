@@ -12,7 +12,7 @@ About me
 ======
 I'm a computer systems enthusiast working on networks, systems, and security. I like to hack the systems with robust algorithms! More professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Prior to BU, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
 
-**I'm looking for self-motivated students who are interested in systems and networking research.** My group has 2 PhD positions available! If you are interested in joining forces with me, feel free to drop me an email with your CV.
+**I'm looking for self-motivated students who are interested in systems and networking research.** My group has 2-3 PhD positions available! If you are interested in joining forces with me, feel free to drop me an email with your CV.
 
 **Feel free to contact me if you are interested in research internship opportunites.**
 
