@@ -17,8 +17,8 @@ People
 ------
 * Lead PI: Alan (Zaoxing) Liu
 * Other PIs: Srinivas Seshan (Co-PI, CMU), Manuel Egele (Co-PI, BU)
-* PhD Students: Peiqing Chen (BU), Anup Agarwal (CMU)
-* Ugrad Students: TBD
+* PhD Students: Zeying Zhu (BU), Peiqing Chen (BU), Anup Agarwal (CMU)
+* Ugrad Students: Jualia Hua (BU)
 
 Publications
 ------
