@@ -13,7 +13,7 @@ The course aims to explore several fundamental topics of cloud computing, includ
 Instructors
 ------
 - Instructor: [Prof. Alan (Zaoxing) Liu](https://www.bu.edu/eng/profile/alan-liu/)
-  - Office Hours: TBA
+  - Office Hours: Tuesday 4PM.
 - TA: Zeying Zhu, PhD Student
   - Office Hours: TBA
 - Many thanks to [Prof. Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/) for his materials from previous years.
@@ -60,19 +60,19 @@ Some example final demos:
 
 Grading
 ------
-- 65%: Project
+- 70%: Project
 Team members typically receive the same project grades, but individual grades may be scaled based on feedback we solicit from your mentor and teammates.
-   - 5%: project description
+   - 10%: project description
    - 30%: bi-weekly project demo and status (5 x 6%)
    - 25%: final project result and report
    - 5%: project quizzes (checking if you listened to your classmates' presentations)
 
-- 35%: Paper quizzes and Piazza discussion
+- 30%: Paper quizzes and Piazza discussion
   Brief quizzes on reading assignments will be open during first 5 minutes of class.
    - PhD students: must complete all
    - MS students: must complete 80%
-   - Undergrad: TBD (5)
+   - Undergrad: must complete 50%
 
-There is no final exam.
+There is no mid-term or final exam.
 
 Evaluation of the project will involve evaluation of your demo, poster, bi-weekly status reports, code reviews, and mentor and project partner reviews.
