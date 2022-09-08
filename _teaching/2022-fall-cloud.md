@@ -14,6 +14,7 @@ The course aims to explore several fundamental topics of cloud computing, includ
 Annoucements
 ------
 - Please join our Piazza discussion channel via [piazza.com/bu/fall2022/eccs528](https://piazza.com/bu/fall2022/eccs528). The access code is `cloudcomputing`.
+- We have an active waitlist for this class. If you have a strong interest in joining this class, email the instructor, and we will try to enroll you with a higher priority.
 
 Instructors
 ------
@@ -28,7 +29,7 @@ Tentative Syllabus
 
 | Date    | Topics  | Readings | Notes|
 | :------: | :------: | :------:  | :----: |
-| Week 1  | Course Overview | [How to Read](/files/course/CCR07_HowToRead.pdf), [You and Your Research](/files/course/Bell86_YouAndYourResearch.pdf) | [Project Template](), [Project Management Guidelines](), [Example Projects]() |
+| Week 1  | Course Overview ([slide]()) | [How to Read](/files/course/CCR07_HowToRead.pdf), [You and Your Research](/files/course/Bell86_YouAndYourResearch.pdf) | [Project Template](), [Project Management Guidelines](), [Example Projects](/files/slides/Lecture1.pdf) |
 | Week 2  | Overview of Cloud Computing | [The Datacenter as a Computer](https://www.morganclaypool.com/doi/abs/10.2200/S00874ED3V01Y201809CAC046) | Sign up for projects |
 | Week 3  | Overview of Virtualization | [Container-based OS virtualization](/files/course/EuroSys07_Container.pdf), [Xen](/files/course/SOSP03_Xen.pdf)| Project descriptions Due |
 | Week 4 | Agile Methods | [Agile-1](), [Agile-2]()  | Sprint project demos |
