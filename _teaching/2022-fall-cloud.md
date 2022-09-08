@@ -19,9 +19,9 @@ Annoucements
 Instructors
 ------
 - Instructor: [Prof. Alan (Zaoxing) Liu](https://www.bu.edu/eng/profile/alan-liu/)
-  - Office Hours: Tuesday 4PM.
+  - Office Hours: Tuesday 4-5PM.
 - TA: Zeying Zhu, PhD Student
-  - Office Hours: TBA
+  - Office Hours: Thursday 7-8PM.
 - Many thanks to [Prof. Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/) for his materials from previous years.
 
 Tentative Syllabus
@@ -29,7 +29,7 @@ Tentative Syllabus
 
 | Date    | Topics  | Readings | Notes|
 | :------: | :------: | :------:  | :----: |
-| Week 1  | Course Overview ([slide]()) | [How to Read](/files/course/CCR07_HowToRead.pdf), [You and Your Research](/files/course/Bell86_YouAndYourResearch.pdf) | [Project Template](), [Project Management Guidelines](), [Example Projects](/files/slides/Lecture1.pdf) |
+| Week 1  | Course Overview ([slide](/files/slides/lecture1.pdf)) | [How to Read](/files/course/CCR07_HowToRead.pdf), [You and Your Research](/files/course/Bell86_YouAndYourResearch.pdf) | [Project Template](), [Project Management Guidelines](), [Example Projects]() |
 | Week 2  | Overview of Cloud Computing | [The Datacenter as a Computer](https://www.morganclaypool.com/doi/abs/10.2200/S00874ED3V01Y201809CAC046) | Sign up for projects |
 | Week 3  | Overview of Virtualization | [Container-based OS virtualization](/files/course/EuroSys07_Container.pdf), [Xen](/files/course/SOSP03_Xen.pdf)| Project descriptions Due |
 | Week 4 | Agile Methods | [Agile-1](), [Agile-2]()  | Sprint project demos |
