@@ -13,7 +13,7 @@ The course aims to explore several fundamental topics of cloud computing, includ
 
 Annoucements
 ------
-- Please fill out the [account and user skill survey](https://docs.google.com/forms/d/e/1FAIpQLSe-6rylhna2YiovEiNMmm1BrmjkacraWC3sxALCcL2XNKV0uQ/viewform?usp=sf_link) to help us assign you with a project.
+- Please fill out the [account and user skill survey](https://docs.google.com/forms/d/e/1FAIpQLSe-6rylhna2YiovEiNMmm1BrmjkacraWC3sxALCcL2XNKV0uQ/viewform?usp=sf_link) to help us assign you with a project. Note that, project descriptions require BU email logins.
 - Please join our Piazza discussion channel via [piazza.com/bu/fall2022/eccs528](https://piazza.com/bu/fall2022/eccs528). The access code is `cloudcomputing`.
 - We have an active waitlist for this class. If you have a strong interest in joining this class, email the instructor, and we will try to enroll you with a higher priority.
 
