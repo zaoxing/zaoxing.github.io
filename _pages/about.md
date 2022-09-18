@@ -10,7 +10,7 @@ redirect_from:
 ---
 About me
 ======
-I'm a computer systems enthusiast working on networks, systems, and security. I like to hack the systems with robust algorithms! More professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Prior to BU, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
+I'm a computer systems enthusiast working on systems, networks, and security. I like to hack the systems with robust algorithms! More professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Prior to BU, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
 
 **I'm looking for self-motivated students who are interested in systems and networking research.** My group has 2 fully-funded PhD positions available! If you are interested in joining forces with me, feel free to drop me an email with your CV.
 
@@ -42,7 +42,7 @@ Research
 ------
 I'm broadly interested in systems and networking. I design, implement, evaluate systems and algorithmic tools for telemetry, in-network computing, ML/analytics, and network security.
 
-**Network Telemetry and Management**
+**Telemetry Systems and Algorithms**
 - Sketch-based Telemetry for Heterogeneous and Dynamic Networks [[HeteroSketch, NSDI'22](/papers/2022/NSDI2022_HeteroSketch.pdf)]
 - Efficient Library to Deploy Sketches on Hardware [[SketchLib, NSDI'22](/papers/2022/NSDI2022_SketchLib.pdf)]
 - Arbitary Partial Key Queries on Network Hardware [[CocoSketch, SIGCOMM'21](/papers/2021/SIGCOMM21-CocoSketch.pdf)]
