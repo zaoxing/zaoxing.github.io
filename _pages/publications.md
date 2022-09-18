@@ -75,7 +75,8 @@ Zaoxing Liu, Ran Ben-Basat, Gil Einziger, Yaron Kassner, Vladimir Braverman, Roy
 
 [**FAST**] [DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching](/papers/2019/FAST19_DistCache.pdf)  
 Zaoxing Liu, Zhihao Bai, Zhenming Liu, Xiaozhou Li, Changhoon Kim, Vladimir Braverman, Xin Jin, Ion Stoica          
-*in USENIX FAST 2019, <font color="green">Best Paper Award</font>*
+*in USENIX FAST 2019*     
+*<font color="green">Best Paper Award</font>*
 
 [**CoRR**] [Enhancing the Privacy of Federated Learning with Sketching](https://arxiv.org/abs/1911.01812)  
 Zaoxing Liu, Tian Li, Virginia Smith, Vyas Sekar            
@@ -85,7 +86,8 @@ Zaoxing Liu, Tian Li, Virginia Smith, Vyas Sekar
 ---
 [**OSDI**] [ASAP: Fast, Approximate Pattern Mining at Scale](/papers/2018/OSDI18_ASAP.pdf)  
 Zaoxing Liu* (Co-first author), Anand Iyer* , Xin Jin, Shivaram Venkataraman, Vladimir Braverman, Ion Stoica              
-*in USENIX OSDI 2018*  [[Blog:the morning paper](https://blog.acolyer.org/2018/11/07/asap-fast-approximate-graph-pattern-mining-at-scale/)]
+*in USENIX OSDI 2018*    
+[[Blog:the morning paper](https://blog.acolyer.org/2018/11/07/asap-fast-approximate-graph-pattern-mining-at-scale/)]
 
 [**HotCloud**] [Towards Fast and Scalable Graph Pattern Mining](/papers/2018/HotCloud18_Graph.pdf)  
 Anand Iyer* , Zaoxing Liu* (Co-first author), Xin Jin, Shivaram Venkataraman, Vladimir Braverman, Ion Stoica              
@@ -105,7 +107,8 @@ Vladimir Braverman, Zaoxing Liu, Tejasvam Singh, N.V. Vinodchandran and Lin Yang
 ---
 [**SIGCOMM**] [One Sketch to Rule Them All: Rethinking Network Flow Monitoring with UnivMon](/papers/2016/SIGCOMM16_UnivMon.pdf)  
 Zaoxing Liu, Antonis Manousis, Greg Vorsanger, Vyas Sekar, Vladimir Braverman          
-*in ACM SIGCOMM 2016, Selected as Plenary Talk ("<font color="green">Best of Theory</font>") at STOC 2018.*
+*in ACM SIGCOMM 2016*     
+*Selected as Plenary Talk ("<font color="green">Best of Theory</font>") at STOC 2018.*
 
 2015
 ---

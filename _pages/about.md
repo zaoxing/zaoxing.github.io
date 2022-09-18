@@ -24,7 +24,7 @@ News
 * [05/2022]  Excited to co-chair the Telemetry Working Group via MOC and Red Hat. We are calling for participation and committeed to open telemetry!  
 * [05/2022]  Zeying will be interning at Microsoft Research this summer.  
 * [04/2022]  [NSDI'22](https://www.usenix.org/conference/nsdi22) will be my first in-person conference since a while ago. Let's meet up!  
-* [03/2022]  I'm co-organizing the 3rd [FFSPIN](https://conferences.sigcomm.org/sigcomm/2022/workshop-ffspin.html) workshop at SIGCOMM'22. Submit your work!  
+* [03/2022]  I'm co-organizing the 3rd [FFSPIN](https://conferences.sigcomm.org/sigcomm/2022/workshop-ffspin.html) workshop at [SIGCOMM'22](https://conferences.sigcomm.org/sigcomm/2022/). Submit your work!  
 * [12/2021]  Thanks Red Hat for the 2022 Red Hat Collaboratory Research Incubation Award!  
 * [11/2021]  Excited to receive research grant from Microsoft to work on data-driven optimization for 5G at BU. Thanks, Microsoft!  
 * [08/2021]  Excited to lead a NSF CNS medium project on future-proof telemetry. Thanks, NSF!  
