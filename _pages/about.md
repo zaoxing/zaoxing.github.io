@@ -10,7 +10,7 @@ redirect_from:
 ---
 About me
 ======
-I'm a computer systems enthusiast working on systems, networks, and security. I like to hack the systems with robust algorithms! More professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Prior to BU, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
+I'm a computer scientist working on systems, networks, and applied algorithms. I like to hack the systems with robust algorithms! More professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Prior to BU, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
 
 **I'm looking for self-motivated students who are interested in systems and networking research.** My group has 2 fully-funded PhD positions available! If you are interested in joining forces with me, feel free to drop me an email with your CV.
 
@@ -19,6 +19,7 @@ I'm a computer systems enthusiast working on systems, networks, and security. I 
 
 News
 ------
+* [09/2022]  I'm teaching [Cloud Computing](https://vldb.org/2022/) at BU. Please reach out to me if you are interested in mentoring student projects.
 * [07/2022]  Hydra to appear in [VLDB'22](https://vldb.org/2022/). Congrats to the team!
 * [06/2022]  Ran, Vova, Michael, and I are giving a tutorial about data-plane algorithms at [SIGMETRICS'22](https://www.sigmetrics.org/sigmetrics2022/tutorials.html).
 * [05/2022]  Excited to co-chair the Telemetry Working Group via MOC and Red Hat. We are calling for participation and committeed to open telemetry!  
