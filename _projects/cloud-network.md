@@ -10,3 +10,10 @@ This project aims to address this gap in effective cloud management and operatio
 
 
 **Funding Source**: Red Hat [Enabling Intelligent In-Network Computing for Cloud Systems](https://research.redhat.com/blog/research_project/enabling-intelligent-in-network-computing-for-cloud-systems/), 1/1/2022 to 12/31/2022
+
+
+Publications
+------
+[**VLDB**] [Enabling Efficient and General Subpopulation Analytics In Multidimensional Data Streams](/papers/2022/VLDB22_Hydra.pdf)  
+Antonis Manousis, Zhuo Cheng, Ran Ben Basat, Zaoxing Liu, Vyas Sekar  
+*in VLDB'22*

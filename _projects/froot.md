@@ -34,7 +34,10 @@ Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste
 Peiqing Chen, Yuhan Wu, Tong Yang, Junchen Jiang, Zaoxing Liu   
 *in ACM/SIGCOMM IMC'21*
 
-
 Software
 ------
 [**SketchLib**] [Github](https://github.com/SketchLib/P4_SketchLib)
+
+Outreach
+------
+[Red Hat Summer Research Award](https://www.bu.edu/rhcollab/2022/04/14/red-hat-collaboratory-announces-2022-student-research-projects/)
