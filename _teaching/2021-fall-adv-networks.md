@@ -24,6 +24,22 @@ Textbook
 ------
 There are no mandatory textbooks for this course, but every class will have corresponding readings from research papers. A reading list with links to the papers will be provided.
 
+Course Overview
+------
+1. **Lectures:** In each topic, the instructor will give one or two introductory lectures, followed by paper presentations by class participants.
+
+2. **Paper Reviews:** Each student reviews 1 paper/class from top conferences or journals. Submit reviews before the class in four sections, including summary, paper strengths paper weaknesses, and  detailed comments.
+
+3. **Paper Presentations:** Each student will select papers from the paper reading list (the list will be provided, selections are first-come first-serve) and present that paper during a lecture. The presentation will be followed by a technical discussion.
+
+4. **Programming Assignments:** There will be (tentatively) two programming assignments during the class. These assignments assume basic networking knowledge and some familiarity with network programming.
+
+5. **Project:** This class has a final project:  
+    a.	Topic: Reproduce a paper discussed in class, or novel research with a system-building component.  
+    b.	Can work alone, or in groups of two students. Must involve writing some code.  
+    c.	Can overlap with other research projects, with permission.
+
+
 Academic Conduct Statement
 ------
  Academic Conduct Statement including expectations for academic honesty, reference to consequences for cheating or plagiarism, course-specific guidelines for, e.g., extent of allowable collaboration on assignments, and URL for [Academic Conduct Code](https://www.bu.edu/academics/policies/academic-conduct-code/).
@@ -43,34 +59,21 @@ Late Policy: Programming assignments receive 25% off grades for each 24 hours la
 Course Schedule
 ------
 
-| Date    | Topics  | Readings |
-| :------: | :------: | :------:  |
-| Tue 01/26 | Introduction |  |
-| Thu 01/28	| Basics about Networking| 1.1, 1.3, 1.4 |
-| Tue 02/02 | Protocol Layering	| 1.5 |
-| Thu 02/04	| HTTP and the Web	| 2.2 |
-| Tue 02/09	| CDN and DNS | 2.4 |
-| Thu 02/11	| Exercise and Lab | Tutorial
-| Tue 02/16	| Cancelled	|  |
-| Thu 02/18	| Transport Layer | 3.1, 3.2, 3.3, 3.4 |
-| Tue 02/23	| TCP Basics | 3.5 |
-| Thu 02/25	| Flow and Congestion Control | 3.6 |
-| Tue 03/02	| Congestion Control | 3.7 |
-| Thu 03/04	| Network Layer and IP | 4.1, 4.3 |
-| Tue 03/09	| Routers and Switches | 4.2 |
-| Thu 03/11	| Midterm Review |	
-| Tue 03/16	| Midterm Exam |
-| Thu 03/18	| Cancelled: wellness day |
-| Tue 03/23	| Routing Fundamentals | 5.1 |
-| Thu 03/25	| Routing Algorithms | 5.2, 5.3 |
-| Tue 03/30	| Midterm Recap and other topics |	
-| Thu 04/01	| IP Addressing and Inter-Domain Routing | 4.3 |
-| Tue 04/06	| BGP | 5.4 |
-| Thu 04/08	| Programmable Networks | 2017 Turing Award Lecture |
-| Tue 04/13	| Visitor Lecture (TBD)	|
-| Thu 04/15	| Link Layer | 6.1, 6.3 |
-| Tue 04/20	| Switched LAN | 6.4 |
-| Thu 04/22	| Wireless Network | 7.1, 7.2, 7.3 |
-| Tue 04/27	| Security | 8.1, 8.3, 8.6 |
-| Tue 04/29	| Research topics in Networking |
-| Final Review |
+| Topics  | Readings |
+| :------: | :------: |
+| Course Overview |  “How to Read a Paper?”, S.Keshav; “You and Your Research”, J.F. Kaiser |
+| End-host System |  “A Protocol for Packet Network Intercommunication”, Vint Cerf and Bobert Kahn;     “End-to-End Arguments in System Design”,  J. H. Saltzer, D. P. Reed, D. D. Clark |
+| Control Plane |  “The Design Philosophy of The DARPA Internet Protocols”, David D. Clark; “End-to-End Routing Behavior in the Internet”, Vern Paxson |
+| Data Plane |  “The Click Modular Router”, Eddie Kohler, Robert Morris et al., TOCS’00; “P4: Programming Protocol-Independent Packet Processors”, Pat Bosshart et al., SIGCOMM CCR’14; -Additional Reading: “Forwarding Metamorphosis: Fast Programmable Match-Action Processing in Hardware for SDN”, Pat Bosshart et al., SIGCOMM’13 |
+| Overlay Networks |  “Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications”, Ion Stoica et al., SIGCOMM’01; “A Scalable Content-Addressable Network”, Sylvia Ratnasamy et al., SIGCOMM’01 |
+| Looking Forward: The Big Picture |  “A New Golden Age for Computer Architecture”, John Hnnessy and David Patterson; “Attack of the Killer Microseconds”, Luiz Barroso et al. |
+| Data Center Networking: Architectures | “VL2: A Scalable and Flexible Data Center Network”, Albert Greenberg et al., SIGCOMM’09; “Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network”, Arjun Singh et al., SIGCOMM’15 |
+| Data Center Optical Networks | “Helios: A Hybrid Electrical/Optical Switch Architecture for Modular Data Center”, Nathan Farrington et al., SIGCOMM’10; “ProjecToR: Agile Reconfigurable Data Center Interconnect”, Monia Ghobadi et al., SIGCOMM’16 |
+| Network Measurement/Sketch | “One Sketch to Rule Them All: Rethinking Network Flow Monitoring with UnivMon”, Zaoxing Liu at al., SIGCOMM’16; “NitroSketch: Robust and General Sketch-based Monitoring in Software Switches”, Zaoxing Liu at al., SIGCOMM’19 |
+| Congestion Control | “Data Center TCP (DCTCP)”, Mohammad Alizadeh et al., SIGCOMM’10; “pFabric: Minimal Near-Optimal Datacenter Transport”, Mohammad Alizadeh et al., SIGCOMM’13; -Additional Reading: “HPCC: High Precision Congestion Control”, Yuliang Li et al., SIGCOMM’19 |
+| Resource Disaggregation |  “LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation”, Yizhou Shan et al., OSDI’18 |
+| Software-defined Networking | “Ethane: Taking Control of the Enterprise”, Martin Casado et al., SIGCOMM’07; “Onix: A Distributed Control Platform for Large-scale Production Networks”, Teemu Koponen et al., OSDI’07 |
+| Wide Area Networks | “B4: Experience with a Globally-Deployed Software Defined WAN”, Sushant Jain et al., SIGCOMM’13; “Achieving High Utilization with Software-Driven WAN”, Chi-Yao Hong et al., SIGCOMM’13 |
+| Programmable Networks and Applications | -Caching: “NetCache: Balancing Key-Value Stores with Fast In-Network Caching”, Xin Jin et al., SOSP’17; “DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching”, Zaoxing Liu et al., FAST’19; -Consensus: “Just Say NO to Paxos Overhead: Replacing Consensus with Network Ordering”, Jialin Li et al., OSDI’16; “Eris: Coordination-Free Consistent Transactions Using In-Network Concurrency Control”, Jialin Li et al., SOSP’17; -Telemetry: “PINT: Probabilistic In-band Network Telemetry”,  Ran Ben Basat et al., SIGCOMM’20; “Sonata: Query-Driven Streaming Network Telemetry”, Arpit Gupta et al., SIGCOMM’18; -Security: “Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches”, Zaoxing Liu et al., USENIX Security’21; “Ripple: A Programmable, Decentralized Link-Flooding Defense Against Adaptive Adversaries”,  Jiarong Xing et al., USENIX Security’21 |
+| ML and Networks | - ML for Networked Systems: “Neural Adaptive Video Streaming with Pensieve”, Hongzi Mao et al., SIGCOMM’17; “Network Planning with Deep Reinforcement Learning”, Hang Zhu et al., SIGCOMM’21; “A Deep Reinforcement Learning Perspective on Internet Congestion Control”, Nathan Jay et al., ICML’19; - Networked Systems for ML: “A Generic Communication Scheduuler for Distributed DNN Training Acceleration”, Yanghua Peng et al., SOSP’19; “PipeDream: Generalized Pipeline Parallelism for DNN Training”, Deepak Narayanan et al., SOSP’19; “A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters”, Yimin Jiang et al., OSDI’20 |
+| Middleboxes | - NFV Framworks “E2: A Framework for NFV Applications”, Shoumik Palkar et al., SOSP’15; “NetBricks: Taking the V out of NFV”, Aurojit Panda et al., OSDI’16; - Load Balancer “Ananta: Cloud Scale Load Balancing”, Parveen Patel et al., SIGCOMM’13; “SilkRoad: Making Stateful Layer-4 Load Balancing Fast and Cheap Using Switching ASICs”, Rui Miao et al., SIGCOMM’17 |
