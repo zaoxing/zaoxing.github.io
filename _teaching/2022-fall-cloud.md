@@ -33,9 +33,9 @@ Tentative Syllabus
 | Week 1  | Course Overview ([slide](/files/slides/lecture1.pdf)) | [How to Read](/files/course/CCR07_HowToRead.pdf), [You and Your Research](/files/course/Bell86_YouAndYourResearch.pdf) | [Project Template](https://github.com/zaoxing/cloudcourse22/blob/main/Project_Description_Template.md), [Project Management Guidelines](), [Example Projects]() |
 | Week 2  | Overview of Cloud Computing ([Mon](/files/slides/lecture2.pdf),[Wed](/files/slides/week2_2.pdf)) | [The Datacenter as a Computer](https://www.morganclaypool.com/doi/abs/10.2200/S00874ED3V01Y201809CAC046) | Sign up for projects |
 | Week 3  | Overview of Virtualization ([Mon](/files/slides/week3_1.pdf),[Wed](/files/slides/week3_2.pdf)) | [Xen](/files/course/SOSP03_Xen.pdf), [Container-based OS virtualization](/files/course/EuroSys07_Container.pdf)| Project descriptions Due |
-| Week 4 | Agile Methods (Invited lectures) | [Agile-1](https://youtu.be/RJaF4owQDgg), [Agile-1.1](https://billmoyers.com/content/how-to-tell-your-story-of-self/) [Agile-2](http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/)  | Sprint project demos |
-| Week 5 | Distributed Systems | [Google File System](/files/course/SOSP03_GFS.pdf), [MapReduce](/files/course/CACM_MapReduce.pdf) | Sprint project demos | 
-| Week 6 | Datacenter Architectures | [VL2](/files/course/SIGCOMM09_VL2.pdf), [Aquila](/files/course/NSDI22_Aquila.pdf) | Sprint project demos |
+| Week 4 | Agile Methods | [Agile-1](https://youtu.be/RJaF4owQDgg), [Agile-1.1](https://billmoyers.com/content/how-to-tell-your-story-of-self/) [Agile-2](http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/)  | Invited lectures (Michael Daitzman) |
+| Week 5 | Distributed Systems | [Google File System](/files/course/SOSP03_GFS.pdf), [MapReduce](/files/course/CACM_MapReduce.pdf) | Lecture (Ata Turk) | 
+| Week 6 | Datacenter Architectures | [VL2](/files/course/SIGCOMM09_VL2.pdf), [Aquila](/files/course/NSDI22_Aquila.pdf) | Invited talk (Wei Bai) |
 | Week 7 | Storage Systems | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| Sprint project demos |
 | Week 8 | Resource Management | [Borg](/files/course/EuroSys15_Borg.pdf), [Mesos](/files/course/NSDI11_Mesos.pdf), [Kubernetes]() | Invited talk |
 | Week 9 | Big Data Frameworks | [Spark](/files/course/NSDI12_Spark.pdf), [Hive](/files/course/VLDB09_Hive.pdf) | Sprint project demos |
