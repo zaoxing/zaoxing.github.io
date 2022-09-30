@@ -19,6 +19,11 @@ Anup Agarwal, Zaoxing Liu, Srinivasan Seshan
 Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste  
 *in USENIX NSDI'22*
 
+[**SOSR**] [Flow-Level Loss Detection with Δ-Sketches](/papers/2022/SOSR22_MIDST.pdf)  
+Shir Landau Feibish, Zaoxing Liu, Nikita Ivkin, Xiaoqi Chen, Vladimir Braverman, Jennifer Rexford  
+*in ACM SOSR'22*
+
+
 2021
 ---
 [**USENIX Security**] [Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches](/papers/2021/USENIX_Security21_Jaqen.pdf)  
