@@ -13,6 +13,7 @@ The course aims to explore several fundamental topics of cloud computing, includ
 
 Annoucements
 ------
+- The first demo video will be due on Mon (10/10). Project demos will be presented on Mon/Wed lectures.
 - Please fill out the [account and user skill survey](https://docs.google.com/forms/d/e/1FAIpQLSe-6rylhna2YiovEiNMmm1BrmjkacraWC3sxALCcL2XNKV0uQ/viewform?usp=sf_link) to help us assign you with a project. Note that, project descriptions require BU email logins.
 - Please join our Piazza discussion channel via [piazza.com/bu/fall2022/eccs528](https://piazza.com/bu/fall2022/eccs528). The access code is `cloudcomputing`.
 - We have an active waitlist for this class. If you have a strong interest in joining this class, email the instructor, and we will try to enroll you with a higher priority.
@@ -34,7 +35,7 @@ Tentative Syllabus
 | Week 2  | Overview of Cloud Computing ([Mon](/files/slides/lecture2.pdf),[Wed](/files/slides/week2_2.pdf)) | [The Datacenter as a Computer](https://www.morganclaypool.com/doi/abs/10.2200/S00874ED3V01Y201809CAC046) | Sign up for projects |
 | Week 3  | Overview of Virtualization ([Mon](/files/slides/week3_1.pdf),[Wed](/files/slides/week3_2.pdf)) | [Xen](/files/course/SOSP03_Xen.pdf), [Container-based OS virtualization](/files/course/EuroSys07_Container.pdf)| Project descriptions Due |
 | Week 4 | Agile Methods | [Agile-1](https://youtu.be/RJaF4owQDgg), [Agile-1.1](https://billmoyers.com/content/how-to-tell-your-story-of-self/) [Agile-2](http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/)  | Invited lectures (Michael Daitzman) |
-| Week 5 | Distributed Systems | [Google File System](/files/course/SOSP03_GFS.pdf), [MapReduce](/files/course/CACM_MapReduce.pdf) | Lecture (Ata Turk) | 
+| Week 5 | Distributed Systems ([Mon](/files/slides/week5_1.pdf)) | [Google File System](/files/course/SOSP03_GFS.pdf), [MapReduce](/files/course/CACM_MapReduce.pdf) | Lecture (Ata Turk) | 
 | Week 6 | Datacenter Architectures | [VL2](/files/course/SIGCOMM09_VL2.pdf), [Aquila](/files/course/NSDI22_Aquila.pdf) | Invited talk (Wei Bai) |
 | Week 7 | Storage Systems | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| Sprint project demos |
 | Week 8 | Resource Management | [Borg](/files/course/EuroSys15_Borg.pdf), [Mesos](/files/course/NSDI11_Mesos.pdf), [Kubernetes]() | Invited talk |
