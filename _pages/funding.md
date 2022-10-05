@@ -8,7 +8,7 @@ Our research cannot happen without generous sponsorship from government, industr
 
 Acknowledgements:
 ------
-We are grateful to National Science Foundation, Microsoft, and Red Hat for their generous support. The findings, positions, or opinions of our research projects do not necessarily reflect the official policy of any of these organizations.
+We are grateful to National Science Foundation, Red Hat, Microsoft, MOC Alliance for their generous support. The findings, positions, or opinions of our research projects do not necessarily reflect the official policy of any of these organizations.
 
 <p float="left">
   <img src="/images/NSF.png" width="100" />
@@ -16,8 +16,19 @@ We are grateful to National Science Foundation, Microsoft, and Red Hat for their
   <img src="/images/RedHat.png" width="100" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="/images/ms.png" width="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/images/MOC_small.png" width="200" />
 </p>
 
+Ongoing Projects:
+------
+* [NSF CNS-2107086](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107086)
+* [NSF SaTC-2132643](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2132643)
+* [NSF CNS-2106946](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106946)
+* [Red Hat AI for Cloud Ops](https://research.redhat.com/blog/research_project/ai-for-cloud-ops/)
+* [Red Hat Enabling Intelligent In-Network Computing](https://research.redhat.com/blog/research_project/enabling-intelligent-in-network-computing-for-cloud-systems/)]
+* Microsoft Sponsored Research
+* Open Telemetry - MOC Alliance
 
 
 <!-- {% include base_path %}
