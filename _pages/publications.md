@@ -44,7 +44,8 @@ Hun Namkung, Daehyeok Kim, Zaoxing Liu, Vyas Sekar, Peter Steenkiste
 
 [**TaPoPF**] [Sketchy With a Chance of Adoption: Can Sketch-Based Telemetry Be Ready for Prime Time?](/papers/2021/TaPoPF21_Sketching.pdf)  
 Zaoxing Liu, Hun Namkung, Anup Agarwal, Antonis Manousis, Peter Steenkiste, Srinivasan Seshan, Vyas Sekar    
-*in 1st IEEE TaPoPF Workshop (NetSoft). [This is an open-problem paper] *
+*in 1st IEEE TaPoPF Workshop (NetSoft).   
+[This is an open-problem paper] *
 
 [**IoTDI**] [SecDeep: Secure and Performant On-device Deep Learning Inference Framework for Mobile and IoT Devices](/papers/2021/IoTDI21_SecDeep.pdf)  
 Renju Liu, Luis Garcia, Zaoxing Liu, Botong Ou, Mani Srivastava    
