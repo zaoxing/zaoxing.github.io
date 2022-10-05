@@ -10,7 +10,7 @@ redirect_from:
 ---
 About me
 ======
-I'm a computer scientist working on systems, networks, and security, with robust algorithms. I like to hack the systems with (randomized) algorithms! More professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Prior to BU, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
+I'm a computer scientist working on systems, networks, and security, by designing robust algorithms. I like to hack the systems with (usually randomized) algorithms! More professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Prior to BU, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
 
 **I'm looking for self-motivated students who are interested in systems and networking research.** My group has 2 fully-funded PhD positions available! If you are interested in joining forces with me, feel free to drop me an email with your CV.
 
@@ -41,23 +41,25 @@ News
 
 Research
 ------
-I'm broadly interested in systems and networking. I design, implement, evaluate systems and algorithmic tools for telemetry, in-network computing, ML/analytics, and network security.
+I'm broadly interested in applied algorithms for systems and networking. I design, implement, evaluate systems and algorithmic tools for telemetry/analytics, in-network computing, ML, and network security.
 
-**Telemetry Systems and Algorithms**
+**Data Analytics Algorithms and Systems**
 - Sketch-based Telemetry for Heterogeneous and Dynamic Networks [[HeteroSketch, NSDI'22](/papers/2022/NSDI2022_HeteroSketch.pdf)]
-- Efficient Library to Deploy Sketches on Hardware [[SketchLib, NSDI'22](/papers/2022/NSDI2022_SketchLib.pdf)]
 - Arbitary Partial Key Queries on Network Hardware [[CocoSketch, SIGCOMM'21](/papers/2021/SIGCOMM21-CocoSketch.pdf)]
-- Precise Error Estimation for Sketch Queries [[ErrorEstimator, IMC'21](/papers/2021/IMC21_ErrorEstimation.pdf)]
-- Sketch-based Telemetry for High-Speed Networks [[NitroSketch, SIGCOMM'19](/papers/2019/SIGCOMM19_NitroSketch.pdf)]
+- Precise Error Estimation for Sketch Analytical Queries [[ErrorEstimator, IMC'21](/papers/2021/IMC21_ErrorEstimation.pdf)]
+- Future-Proof Analytics for Low-Power Sensors [[Joltik, MobiCom'20](/papers/2020/MobiCom20_Joltik.pdf)]
 - Interval-based Network Queries [[IQ-Sketch, SIGMETRICS'20](/papers/2020/SIGMETRICS20_Interval_Query.pdf)]
+- Sketch-based Telemetry for High-Speed Networks [[NitroSketch, SIGCOMM'19](/papers/2019/SIGCOMM19_NitroSketch.pdf)]
 - Future-Proof Sketch-based Telemetry [[UnivMon, SIGCOMM'16](/papers/2016/SIGCOMM16_UnivMon.pdf)]
 
-**Programmable Networks / In-Network Computing and Security**
+**Approximate Computing Systems**
+- General Multidimensional Subpopulation (Data Cube) Analytics [[Hydra, VLDB'22](/papers/2022/VLDB22_Hydra.pdf)]
+- Efficient Library to Deploy Various Sketches on Hardware [[SketchLib, NSDI'22](/papers/2022/NSDI2022_SketchLib.pdf)]
+- Distributed Load Balancing for Data Centers [[DistCache, FAST'19](/papers/2019/FAST19_DistCache.pdf)]
+- Distributed Approximate Graph Mining [[ASAP, OSDI'18](/papers/2018/OSDI18_ASAP.pdf)]
+
+**Programmable Networks / In-Network Security**
 - High-Performance Switch-Native DDoS Defense [[Jaqen, Security'21](/papers/2021/USENIX_Security21_Jaqen.pdf)]
 - Table Extension Architecture for Programmable Switches [[TEA, SIGCOMM'20](/papers/2020/SIGCOMM20_TEA.pdf)]
-- Distributed Load Balancing for Data Centers [[DistCache, FAST'19](/papers/2019/FAST19_DistCache.pdf)]
 
-**Data Analytics Systems**
-- General Multidimensional Subpopulation (Data Cube) Analytics [[Hydra, VLDB'22](/papers/2022/VLDB22_Hydra.pdf)]
-- Future-Proof Analytics for Low-Power Sensors [[Joltik, MobiCom'20](/papers/2020/MobiCom20_Joltik.pdf)]
-- Distributed Approximate Graph Mining [[ASAP, OSDI'18](/papers/2018/OSDI18_ASAP.pdf)]
+
