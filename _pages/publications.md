@@ -120,7 +120,8 @@ Zaoxing Liu, Antonis Manousis, Greg Vorsanger, Vyas Sekar, Vladimir Braverman
 ---
 [**HotNets**] [Enabling a "RISC" Approach for Software-Defined Monitoring using Universal Streaming](/papers/2015/HotNets15.pdf)  
 Zaoxing Liu, Greg Vorsanger, Vladimir Braverman, Vyas Sekar         
-*in ACM HotNets 2015. <font color="green">Best Poster Award</font> at AT&T Research Summit 2016.*
+*in ACM HotNets 2015.*   
+*<font color="green">Best Poster Award</font> at AT&T Research Summit 2016.*
 
 [**HotNets**] [Streaming Algorithms for Halo Findersg](/papers/2015/eScience15_Halo.pdf)  
 Zaoxing Liu, Nikita Ivkin, Lin F. Yang, Mark Neyrinck, Gerard Lemson, Alexander S. Szalay, Vladimir Braverman, Tamas Budavari, Randal Burns, and Xin Wang           

@@ -26,7 +26,7 @@ Ongoing Projects:
 * [NSF SaTC-2132643](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2132643)
 * [NSF CNS-2106946](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106946)
 * [Red Hat AI for Cloud Ops](https://research.redhat.com/blog/research_project/ai-for-cloud-ops/)
-* [Red Hat Enabling Intelligent In-Network Computing](https://research.redhat.com/blog/research_project/enabling-intelligent-in-network-computing-for-cloud-systems/)]
+* [Red Hat Enabling Intelligent In-Network Computing](https://research.redhat.com/blog/research_project/enabling-intelligent-in-network-computing-for-cloud-systems/)
 * Microsoft Sponsored Research
 * Open Telemetry - MOC Alliance
 
