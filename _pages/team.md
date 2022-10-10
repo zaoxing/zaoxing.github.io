@@ -32,4 +32,4 @@ I have also worked closely with:
 [Hun Namkung](https://hnamkung.github.io/) (CMU, advised by Peter Steenkiste and Vyas Sekar)   
 [Mingran Yang](https://mingrany.github.io/) (UChicago -> UPenn, advised by Manya Ghobadi)    
 [Yinda Zhang](https://yindazhang.github.io/) (UChicago -> UPenn, advised by Vincent Liu)    
-[Zhuo Cheng] (CMU, advised by Vyas Sekar)
+[Zhuo Cheng]() (CMU, advised by Vyas Sekar)
