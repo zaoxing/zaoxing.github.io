@@ -28,9 +28,9 @@ News
 * [03/2022]  I'm co-organizing the 3rd [FFSPIN](https://conferences.sigcomm.org/sigcomm/2022/workshop-ffspin.html) workshop at [SIGCOMM'22](https://conferences.sigcomm.org/sigcomm/2022/). Submit your work!  
 * [12/2021]  Thanks Red Hat for the 2022 Red Hat Collaboratory Research Incubation Award!  
 * [11/2021]  Excited to receive research grant from Microsoft to work on data-driven optimization for 5G at BU. Thanks, Microsoft!  
-* [08/2021]  Excited to lead a NSF CNS medium project on future-proof telemetry. Thanks, NSF!  
+* [08/2021]  Excited to lead a *NSF CNS medium* project on future-proof telemetry. Thanks, NSF!  
 * [08/2021]  Precise telemetry error estimation paper to appear in [IMC'21](https://conferences.sigcomm.org/imc/2021/). Congrats to Peiqing!  
-* [08/2021]  Excited to receive NSF SaTC and CNS grants to work on optics-enabled defense and data-driven network management. Thanks, NSF!
+* [08/2021]  Excited to receive *NSF SaTC and CNS* grants to work on optics-enabled defense and data-driven network management. Thanks, NSF!
 * [06/2021]  HeteroSketch and SketchLib papers to appear in [NSDI'22](https://www.usenix.org/conference/nsdi22). Congrats to the team!  
 * [05/2021]  CocoSketch to appear in [SIGCOMM'21](https://conferences.sigcomm.org/sigcomm/2021/). Congrats to the team!  
 * [03/2021]  NitroSketch is integrated into Intel DPDK load balancer product! Check out Yipeng and Chenmin's talk ([slides](https://static.sched.com/hosted_files/dpdksummitapac2021/35/Handling%20Elephant%20Flow%20on%20a%20DPDK-Based%20Load%20Balancer.pdf)) at [DPDK Summit](https://sched.co/hdLm).  
@@ -43,7 +43,7 @@ Research
 ------
 I'm broadly interested in applied algorithms for systems and networking. I design, implement, evaluate systems and algorithmic tools for telemetry/analytics, in-network computing, ML, and network security.
 
-**Data Analytics Algorithms and Systems**
+**Analytics Algorithms and Data Systems**
 - Sketch-based Telemetry for Heterogeneous and Dynamic Networks [[HeteroSketch, NSDI'22](/papers/2022/NSDI2022_HeteroSketch.pdf)]
 - Arbitary Partial Key Queries on Network Hardware [[CocoSketch, SIGCOMM'21](/papers/2021/SIGCOMM21-CocoSketch.pdf)]
 - Precise Error Estimation for Sketch Analytical Queries [[ErrorEstimator, IMC'21](/papers/2021/IMC21_ErrorEstimation.pdf)]
