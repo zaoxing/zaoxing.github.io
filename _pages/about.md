@@ -10,9 +10,9 @@ redirect_from:
 ---
 About me
 ======
-I'm a computer scientist working on systems, networks, and security, by *designing robust algorithms*. I like to hack the systems with (usually randomized) algorithms! More professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Prior to BU, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
+I'm a computer scientist working on systems, networks, and security, by *designing robust algorithms*. I like to hack the systems with (sometimes randomized) algorithms! More professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Prior to BU, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
 
-**I'm looking for self-motivated students (ugrad, master's, phd) who are interested in systems, networking, and algorithm research.** My group has 2+ fully-funded PhD positions available! If you are interested in joining forces with me, drop me an email with your CV.
+**I'm looking for self-motivated students (ugrad, master's, phd) who are interested in systems, networking, and applied algorithms research.** My group has 2+ fully-funded PhD positions available! If you are interested in joining forces with me, drop me an email with your CV.
 
 **Feel free to contact me if you are interested in research internship opportunites.**
 
@@ -43,7 +43,7 @@ Research
 ------
 I'm broadly interested in applied algorithms for systems and networking. I design, implement, evaluate systems and algorithmic tools for telemetry/analytics, in-network computing, ML, and network security.
 
-**Analytics Algorithms and Data Systems**
+**(Network) Analytics Algorithms and Data Systems**
 - Sketch-based Telemetry for Heterogeneous and Dynamic Networks [[HeteroSketch, NSDI'22](/papers/2022/NSDI2022_HeteroSketch.pdf)]
 - Arbitary Partial Key Queries on Network Hardware [[CocoSketch, SIGCOMM'21](/papers/2021/SIGCOMM21-CocoSketch.pdf)]
 - Precise Error Estimation for Sketch Analytical Queries [[ErrorEstimator, IMC'21](/papers/2021/IMC21_ErrorEstimation.pdf)]
