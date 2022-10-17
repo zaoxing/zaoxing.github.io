@@ -6,14 +6,14 @@ author_profile: true
 ---
 PhD Students
 ---
-Peiqing Chen  
-Mingji Han  
-Yajie (Lesley) Zhou  
-Zeying Zhu  
+Peiqing Chen (2021-)  
+Mingji Han  (2022-)  
+Yajie (Lesley) Zhou (2021-)    
+Zeying Zhu (2021-)  
 
 Undergraduate Students
 ---
-Yaroslav Diachenko  
+Yaroslav Diachenko
 Julia Hua  
 Sam Qiu  
 Haoming Yi  
