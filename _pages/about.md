@@ -19,7 +19,7 @@ I'm a computer scientist working on systems, networks, and security, by *designi
 
 News
 ------
-* [09/2022]  I'm teaching [Cloud Computing](https://zaoxing.github.io/teaching/2022-fall-cloud) at BU. Please reach out to me if you are interested in mentoring student projects.
+* [09/2022]  I'm teaching [Cloud Computing](/teaching/2022-fall-cloud) at BU. Please reach out to me if you are interested in mentoring student projects.
 * [07/2022]  Hydra to appear in [VLDB'22](https://vldb.org/2022/). Congrats to the team!
 * [06/2022]  Ran, Vova, Michael, and I are giving a tutorial about data-plane algorithms at [SIGMETRICS'22](https://www.sigmetrics.org/sigmetrics2022/tutorials.html).
 * [05/2022]  Excited to co-chair the Telemetry Working Group via MOC and Red Hat. We are calling for participation and committeed to open telemetry!  
