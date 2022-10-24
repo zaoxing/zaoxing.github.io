@@ -38,7 +38,7 @@ Tentative Syllabus
 | Week 5 | Distributed Systems ([Mon](/files/slides/week5_1.pdf)) | [Google File System](/files/course/SOSP03_GFS.pdf), [MapReduce](/files/course/CACM_MapReduce.pdf) | Lecture (Ata Turk) | 
 | Week 6 | Datacenter Architectures | [VL2](/files/course/SIGCOMM09_VL2.pdf), [Aquila](/files/course/NSDI22_Aquila.pdf) | Invited talk (Wei Bai) |
 | Week 7 | Storage Systems | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| Sprint project demos |
-| Week 8 | Resource Management | [Borg](/files/course/EuroSys15_Borg.pdf), [Mesos](/files/course/NSDI11_Mesos.pdf), [Kubernetes]() | Invited talk |
+| Week 8 | Resource Management | [Borg](/files/course/EuroSys15_Borg.pdf), [Mesos](/files/course/NSDI11_Mesos.pdf), [Kubernetes](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/pivotal/vmware-demystifying-kubernetes-overcoming-misconceptions-whitepaper.pdf) | Invited talk |
 | Week 9 | Big Data Frameworks | [Spark](/files/course/NSDI12_Spark.pdf), [Hive](/files/course/VLDB09_Hive.pdf) | Sprint project demos |
 | Week 10 | Datacenter Networking | [DCTCP](/files/course/SIGCOMM10_DCTCP.pdf), [P4](/files/course/CCR14_P4.pdf) | Invited talk |
 | Week 11 | Resource Disaggregation | [InfiniSwap](/files/course/NSDI17_InfiniSwap.pdf), [LegoOS](/files/course/OSDI18_LegoOS.pdf) |  Sprint project demos |
