@@ -1,7 +1,7 @@
 ---
 title: "AI for Cloud Ops"
 collection: projects
-permalink: /projects/ai4cloudops
+permalink: /projects/proj-ai4cloudops
 ---
 
 Today’s Continuous Integration/Continuous Development (CI/CD) trends encourage rapid design of software using a wide range of customized, off-the-shelf, and legacy software components, followed by frequent updates that are immediately deployed on the cloud. Altogether, this component diversity and breakneck pace of development amplify the difficulty in identifying, localizing, or fixing problems related to performance, resilience, and security. Existing approaches that rely on human experts have limited applicability to modern CI/CD processes, as they are fragile, costly, and often not scalable.
