@@ -13,15 +13,15 @@ Zeying Zhu (2021-)
 
 Undergraduate Students
 ---
-Yaroslav Diachenko
-Julia Hua  
-Sam Qiu  
-Haoming Yi  
-Nengneng Yu  
+Yaroslav Diachenko (Summer 2022)  
+Julia Hua (Summer/Fall 2022)
+Sam Qiu  (Summer 2022 -)
+Haoming Yi  (Spring 2022 -)
+Nengneng Yu  (Spring 2022 -)
 
 RISE High School Students
 ---
-Emmett Forrestel  
+Emmett Forrestel (Summer 2022)
 Anthony Wang (Summer 2021 -> MIT)  
 
 Others
