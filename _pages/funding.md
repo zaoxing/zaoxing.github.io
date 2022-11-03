@@ -20,14 +20,14 @@ We are grateful to National Science Foundation, Red Hat, Microsoft, MOC Alliance
   <img src="/images/MOC_small.png" width="200" />
 </p>
 
-Ongoing Projects:
+Some Ongoing Projects:
 ------
 * [NSF CNS-2107086](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107086)
 * [NSF SaTC-2132643](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2132643)
 * [NSF CNS-2106946](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106946)
-* [Red Hat AI for Cloud Ops](https://research.redhat.com/blog/research_project/ai-for-cloud-ops/)
-* [Red Hat Enabling Intelligent In-Network Computing](https://research.redhat.com/blog/research_project/enabling-intelligent-in-network-computing-for-cloud-systems/)
-* Microsoft Sponsored Research
+* [Red Hat-AI for Cloud Ops](https://research.redhat.com/blog/research_project/ai-for-cloud-ops/)
+* [Red Hat-Enabling Intelligent In-Network Computing](https://research.redhat.com/blog/research_project/enabling-intelligent-in-network-computing-for-cloud-systems/)
+* Data-driven Optimization For 5G Mobile Edge Computing (Microsoft)
 * Open Telemetry - MOC Alliance
 
 
