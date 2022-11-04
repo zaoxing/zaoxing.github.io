@@ -29,7 +29,7 @@ Others
 I have also worked closely with:   
 [Anup Agarwal](https://108anup.github.io/) (CMU, advised by Srini Seshan)   
 [Tian Li](https://www.cs.cmu.edu/~litian/) (CMU, advised by Virginia Smith)   
-[Antonis Manousis](https://www.andrew.cmu.edu/user/amanousi/) (CMU -> Meta, advised by Vyas Sekar) 
+[Antonis Manousis](https://www.andrew.cmu.edu/user/amanousi/) (CMU -> Meta, advised by Vyas Sekar)    
 [Hun Namkung](https://hnamkung.github.io/) (CMU, advised by Peter Steenkiste and Vyas Sekar)   
 [Mingran Yang](https://mingrany.github.io/) (CMU -> MIT, advised by Manya Ghobadi)    
 [Yinda Zhang](https://yindazhang.github.io/) (UChicago -> UPenn, advised by Vincent Liu)    
