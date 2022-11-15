@@ -24,7 +24,7 @@ Some Ongoing Projects:
 ------
 * [NSF CNS-2107086](/projects/froot)
 * [NSF SaTC-2132643](/projects/onset)
-* [NSF CNS-2106946](/projects/onset)
+* [NSF CNS-2106946](/projects/scalable-learning)
 * [Red Hat-AI for Cloud Ops](/projects/proj-ai4cloudops)
 * [Red Hat-Enabling Intelligent In-Network Computing](/projects/proj-cloud-network)
 * Data-driven Optimization For 5G Mobile Edge Computing (Microsoft)
