@@ -5,11 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+2023
+---
+[Panakos: Chasing the Tails for Multidimensional Data Streams]()  
+Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, Zaoxing Liu  
+*under revision*
+
 2022
 ---
 [**VLDB**] [Enabling Efficient and General Subpopulation Analytics In Multidimensional Data Streams](/papers/2022/VLDB22_Hydra.pdf)  
 Antonis Manousis, Zhuo Cheng, Ran Ben Basat, Zaoxing Liu, Vyas Sekar  
-*to appear in VLDB'22*
+*in VLDB'22*
 
 [**NSDI**] [HeteroSketch: Coordinating Network-wide Monitoring in Heterogeneous and Dynamic Networks](/papers/2022/NSDI2022_HeteroSketch.pdf)  
 Anup Agarwal, Zaoxing Liu, Srinivasan Seshan  
