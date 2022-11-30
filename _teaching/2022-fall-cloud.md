@@ -42,7 +42,7 @@ Tentative Syllabus
 | Week 8 | Resource Management ([Mon](/files/slides/week8_1.pdf)) | [Borg](/files/course/EuroSys15_Borg.pdf), [Mesos](/files/course/NSDI11_Mesos.pdf), [Kubernetes](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/pivotal/vmware-demystifying-kubernetes-overcoming-misconceptions-whitepaper.pdf) | Invited talk |
 | Week 9 | Big Data Frameworks ([Mon](/files/slides/week9_1.pdf)) | [Spark](/files/course/NSDI12_Spark.pdf), [Hive](/files/course/VLDB09_Hive.pdf) | Sprint project demos |
 | Week 10 | Datacenter Networking | [DCTCP](/files/course/SIGCOMM10_DCTCP.pdf), [P4](/files/course/CCR14_P4.pdf) | Invited talk |
-| Week 11 | Resource Disaggregation | [InfiniSwap](/files/course/NSDI17_Infiniswap.pdf), [LegoOS](/files/course/OSDI18_LegoOS.pdf) |  Sprint project demos |
+| Week 11 | Resource Disaggregation | [InfiniSwap](/files/course/NSDI17_Infiniswap.pdf)([slides](/files/course/nsdi17_slides_gu.pdf)), [LegoOS](/files/course/OSDI18_LegoOS.pdf) |  Sprint project demos |
 | Week 12 | Distributed Systems II (Thanksgiving) | [Dynamo](/files/course/SOSP07_Dynamo.pdf), [Kafka](/files/course/NetDB11_Kafka.pdf) | Sprint project demos |
 | Week 13 | Beyond the Cloud | [Serverless](/files/course/Berkeley_Serverless.pdf), [Sky Computing](/files/course/HotOS21_Sky.pdf) | Sprint project demos |
 | Week 14 | Final Presentations | 
