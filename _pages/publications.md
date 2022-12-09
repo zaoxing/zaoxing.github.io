@@ -7,7 +7,15 @@ author_profile: true
 
 2023
 ---
-[Panakos: Chasing the Tails for Multidimensional Data Streams]()  
+[**NSDI**] [Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling]()  
+Zeying Zhu, Kan Wu, Zaoxing Liu   
+*to appear in USENIX NSDI'23*
+
+[**NSDI**] [Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches]()  
+Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste   
+*to appear in USENIX NSDI'23*
+
+[**Revision**] [Panakos: Chasing the Tails for Multidimensional Data Streams]()  
 Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, Zaoxing Liu  
 *under revision*
 
@@ -129,7 +137,7 @@ Zaoxing Liu, Greg Vorsanger, Vladimir Braverman, Vyas Sekar
 *in ACM HotNets 2015.*   
 *<font color="green">Best Poster Award</font> at AT&T Research Summit 2016.*
 
-[**HotNets**] [Streaming Algorithms for Halo Findersg](/papers/2015/eScience15_Halo.pdf)  
+[**eScience**] [Streaming Algorithms for Halo Findersg](/papers/2015/eScience15_Halo.pdf)  
 Zaoxing Liu, Nikita Ivkin, Lin F. Yang, Mark Neyrinck, Gerard Lemson, Alexander S. Szalay, Vladimir Braverman, Tamas Budavari, Randal Burns, and Xin Wang           
 *in IEEE eScience 2015*
 
