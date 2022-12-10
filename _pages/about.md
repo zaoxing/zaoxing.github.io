@@ -19,6 +19,7 @@ I'm a computer scientist working on systems, networks, and security. I like to h
 
 News
 ------
+* [12/2022]  Two systems Arya and Sketchovsky to appear in NSDI'23. Congrats to the team! 
 * [09/2022]  I'm teaching [Cloud Computing](/teaching/2022-fall-cloud) at BU. Please reach out to me if you are interested in mentoring student projects.
 * [07/2022]  Hydra to appear in [VLDB'22](https://vldb.org/2022/). Congrats to the team!
 * [06/2022]  Ran, Vova, Michael, and I are giving a tutorial about data-plane algorithms at [SIGMETRICS'22](https://www.sigmetrics.org/sigmetrics2022/tutorials.html).
@@ -44,7 +45,7 @@ Research
 I'm broadly interested in applied algorithms for systems and networking. I design, implement, evaluate systems and algorithmic tools for telemetry/analytics, in-network computing, ML, and network security.
 
 **(Network) Analytics Algorithms and Data Systems**
-- Sketch-based Telemetry for Heterogeneous and Dynamic Networks [[HeteroSketch, NSDI'22](/papers/2022/NSDI2022_HeteroSketch.pdf)]
+- Sketch-based Telemetry for Heterogeneous/Dynamic Networks [[HeteroSketch, NSDI'22](/papers/2022/NSDI2022_HeteroSketch.pdf)]
 - Arbitary Partial Key Queries on Network Hardware [[CocoSketch, SIGCOMM'21](/papers/2021/SIGCOMM21-CocoSketch.pdf)]
 - Precise Error Estimation for Sketch Analytical Queries [[ErrorEstimator, IMC'21](/papers/2021/IMC21_ErrorEstimation.pdf)]
 - Future-Proof Analytics for Low-Power Sensors [[Joltik, MobiCom'20](/papers/2020/MobiCom20_Joltik.pdf)]
@@ -53,6 +54,8 @@ I'm broadly interested in applied algorithms for systems and networking. I desig
 - Future-Proof Sketch-based Telemetry [[UnivMon, SIGCOMM'16](/papers/2016/SIGCOMM16_UnivMon.pdf)]
 
 **Approximate Computing Systems**
+- Apprximate Graph Mining with Decomposition-based Sampling [[Arya, NSDI'23]()]
+- General Ensembles of Sketch-Based Analytics on Hardware [[Sketchovsky, NSDI'23]()]
 - General Multidimensional Subpopulation (Data Cube) Analytics [[Hydra, VLDB'22](/papers/2022/VLDB22_Hydra.pdf)]
 - Efficient Library to Deploy Various Sketches on Hardware [[SketchLib, NSDI'22](/papers/2022/NSDI2022_SketchLib.pdf)]
 - Distributed Load Balancing for Data Centers [[DistCache, FAST'19](/papers/2019/FAST19_DistCache.pdf)]
