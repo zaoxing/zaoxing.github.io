@@ -21,9 +21,6 @@ Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, 
 
 2022
 ---
-[**VLDB**] [Enabling Efficient and General Subpopulation Analytics In Multidimensional Data Streams](/papers/2022/VLDB22_Hydra.pdf)  
-Antonis Manousis, Zhuo Cheng, Ran Ben Basat, Zaoxing Liu, Vyas Sekar  
-*in VLDB'22*
 
 [**NSDI**] [HeteroSketch: Coordinating Network-wide Monitoring in Heterogeneous and Dynamic Networks](/papers/2022/NSDI2022_HeteroSketch.pdf)  
 Anup Agarwal, Zaoxing Liu, Srinivasan Seshan  
@@ -32,6 +29,10 @@ Anup Agarwal, Zaoxing Liu, Srinivasan Seshan
 [**NSDI**] [SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches](/papers/2022/NSDI2022_SketchLib.pdf)  
 Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste  
 *in USENIX NSDI'22*
+
+[**VLDB**] [Enabling Efficient and General Subpopulation Analytics In Multidimensional Data Streams](/papers/2022/VLDB22_Hydra.pdf)  
+Antonis Manousis, Zhuo Cheng, Ran Ben Basat, Zaoxing Liu, Vyas Sekar  
+*in VLDB'22*
 
 [**SOSR**] [Flow-Level Loss Detection with Δ-Sketches](/papers/2022/SOSR22_MIDST.pdf)  
 Shir Landau Feibish, Zaoxing Liu, Nikita Ivkin, Xiaoqi Chen, Vladimir Braverman, Jennifer Rexford  
