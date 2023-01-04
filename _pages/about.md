@@ -19,7 +19,8 @@ I'm a computer scientist working on systems, networks, and security. I like to h
 
 News
 ------
-* [12/2022]  Two systems Arya and Sketchovsky to appear in NSDI'23. Congrats to the team! 
+* [01/2023]  Thanks Red Hat for the 2023 Red Hat Collaboratory Research Awards!   
+* [12/2022]  Two systems Arya and Sketchovsky to appear in [NSDI'23](https://www.usenix.org/conference/nsdi23). Congrats to the team! 
 * [09/2022]  I'm teaching [Cloud Computing](/teaching/2022-fall-cloud) at BU. Please reach out to me if you are interested in mentoring student projects.
 * [07/2022]  Hydra to appear in [VLDB'22](https://vldb.org/2022/). Congrats to the team!
 * [06/2022]  Ran, Vova, Michael, and I are giving a tutorial about data-plane algorithms at [SIGMETRICS'22](https://www.sigmetrics.org/sigmetrics2022/tutorials.html).
@@ -42,7 +43,7 @@ News
 
 Research
 ------
-I'm broadly interested in applied algorithms for systems and networking. I design, implement, evaluate systems and algorithmic tools for telemetry/analytics, in-network computing, ML, and network security.
+I'm broadly interested in systems. I design, implement, evaluate systems and algorithmic tools for telemetry/analytics, in-network computing, ML, and network security.
 
 **(Network) Analytics Algorithms and Data Systems**
 - Sketch-based Telemetry for Heterogeneous/Dynamic Networks [[HeteroSketch, NSDI'22](/papers/2022/NSDI2022_HeteroSketch.pdf)]
