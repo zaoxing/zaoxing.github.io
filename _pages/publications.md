@@ -15,9 +15,9 @@ Zeying Zhu, Kan Wu, Zaoxing Liu
 Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste   
 *to appear in USENIX NSDI'23 (available soon)*
 
-[**Revision**] [Panakos: Chasing the Tails for Multidimensional Data Streams]()  
+[**VLDB**] [Panakos: Chasing the Tails for Multidimensional Data Streams]()  
 Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, Zaoxing Liu  
-*under revision*
+*to appear in VLDB'23 (available soon)*
 
 [**Revision**] [(Scalable, General Host-based Software Sketch Analytics)]()  
 Yinda Zhang, Peiqing Chen, Zaoxing Liu  

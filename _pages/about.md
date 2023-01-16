@@ -19,6 +19,7 @@ I'm a computer scientist working on systems, networks, and security. I like to h
 
 News
 ------
+* [01/2023]  Panakos to appear in [VLDB'23](https://vldb.org/2023/). Congrats to the team!
 * [01/2023]  Thanks Red Hat for the 2023 Red Hat Collaboratory Research Awards!   
 * [12/2022]  Two systems Arya and Sketchovsky to appear in [NSDI'23](https://www.usenix.org/conference/nsdi23). Congrats to the team! 
 * [09/2022]  I'm teaching [Cloud Computing](/teaching/2022-fall-cloud) at BU. Please reach out to me if you are interested in mentoring student projects.
@@ -46,6 +47,7 @@ Research
 I'm broadly interested in networked and data-intensive systems. I design, implement, evaluate systems and algorithmic tools for telemetry/analytics, in-network computing, ML, and network security.
 
 **(Network) Analytics Algorithms and Data Systems**
+- Quantile and Tail Measurements for Multidimensional Data Streams [[Panakos, VLDB'23]()]
 - Sketch-based Telemetry for Heterogeneous/Dynamic Networks [[HeteroSketch, NSDI'22](/papers/2022/NSDI2022_HeteroSketch.pdf)]
 - Arbitary Partial Key Queries on Network Hardware [[CocoSketch, SIGCOMM'21](/papers/2021/SIGCOMM21-CocoSketch.pdf)]
 - Precise Error Estimation for Sketch Analytical Queries [[ErrorEstimator, IMC'21](/papers/2021/IMC21_ErrorEstimation.pdf)]
