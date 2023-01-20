@@ -88,7 +88,7 @@ Zaoxing Liu, Samson Zhou, Ori Rottenstreich, Vladimir Braverman, Jennifer Rexfor
 Nikita Ivkin, Ran Ben Basat, Zaoxing Liu, Gil Einziger, Roy Friedman, Vladimir Braverman    
 *in ACM SIGMETRICS 2020*
 
-[**CoRR**] [Unleashing In-network Computing on Scientific Workloadss](https://arxiv.org/abs/2009.02457)  
+[**CoRR**] [Unleashing In-network Computing on Scientific Workloads](https://arxiv.org/abs/2009.02457)  
 Daehyeok Kim, Ankush Jain, Zaoxing Liu, George Amvrosiadis, Damian Hazen, Bradley Settlemyer, Vyas Sekar      
 *in arXiv*
 
@@ -150,7 +150,7 @@ Zaoxing Liu, Nikita Ivkin, Lin F. Yang, Mark Neyrinck, Gerard Lemson, Alexander 
 Vladimir Braverman, Zaoxing Liu, Tejasvam Singh, N.V. Vinodchandran and Lin Yan (Alphabetical)           
 *in MFCS 2015*
 
-Last update: Sep. 2022
+Last update: Jan. 2023
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
