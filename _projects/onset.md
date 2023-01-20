@@ -20,7 +20,11 @@ Publications
 ------
 [**NSDI**] [Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches]()  
 Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste   
-*to appear in USENIX NSDI'23*
+*to appear in USENIX NSDI'23*  
+
+[**USENIX Security**] [Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches](/papers/2021/USENIX_Security21_Jaqen.pdf)  
+Zaoxing Liu, Hun Namkung, Georgios Nikolaidis, Jeongkeun Lee, Changhoon Kim, Xin Jin, Vladimir Braverman, Minlan Yu, Vyas Sekar  
+*in USENIX Security'21*
 
 Software
 ------
