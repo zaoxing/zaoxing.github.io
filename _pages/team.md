@@ -11,6 +11,11 @@ Mingji Han  (2022-)
 Yajie (Lesley) Zhou (2021-)    
 Zeying Zhu (2021-)  
 
+1st-Year PhD Rotation
+---
+Ayesha Naeem (2023-)    
+Shaun Ghosh (2023-)
+
 Undergraduate Students
 ---
 Yaroslav Diachenko (Summer 2022)  
