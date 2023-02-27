@@ -76,11 +76,11 @@ Team members typically receive the same project grades, but individual grades ma
    - 25%: final project result and report
    - 5%: project quizzes (checking if you listened to your classmates' presentations)
 
-- 30%: Paper quizzes and Piazza discussion
+- 30%: Paper quizzes, Piazza discussion, and required project forms      
   Brief quizzes on reading assignments will be open during first 5 minutes of class.
    - PhD students: must complete all
-   - MS students: must complete 80%
-   - Undergrad: must complete 50%
+   - MS students: must complete 80% (Fall 2023: 3)
+   - Undergrad: must complete 50% (Fall 2023: 3)
 
 There is no mid-term or final exam.
 
