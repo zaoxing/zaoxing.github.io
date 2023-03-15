@@ -22,6 +22,7 @@ News
 * [01/2023]  Panakos to appear in [VLDB'23](https://vldb.org/2023/). Congrats to the team!
 * [01/2023]  Thanks Red Hat for the 2023 Red Hat Collaboratory Research Awards!   
 * [12/2022]  Two systems Arya and Sketchovsky to appear in [NSDI'23](https://www.usenix.org/conference/nsdi23). Congrats to the team! 
+* [09/2022]  NitroSketch and its SIMD variation have been deployed in [DPDK](https://patches.dpdk.org/project/dpdk/patch/20220916030317.3111820-2-leyi.rong@intel.com/). We would like to seek your feedback on the performance! 
 * [09/2022]  I'm teaching [Cloud Computing](/teaching/2022-fall-cloud) at BU. Please reach out to me if you are interested in mentoring student projects.
 * [07/2022]  Hydra to appear in [VLDB'22](https://vldb.org/2022/). Congrats to the team!
 * [06/2022]  Ran, Vova, Michael, and I are giving a tutorial about data-plane algorithms at [SIGMETRICS'22](https://www.sigmetrics.org/sigmetrics2022/tutorials.html).
