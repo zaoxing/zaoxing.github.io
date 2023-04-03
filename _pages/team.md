@@ -14,7 +14,6 @@ Zeying Zhu (2021-)
 1st-Year PhD Rotation
 ---
 Ayesha Naeem (2023-)    
-Shaun Ghosh (2023-)
 
 Undergraduate Students
 ---
