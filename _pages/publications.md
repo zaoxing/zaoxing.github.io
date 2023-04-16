@@ -7,13 +7,13 @@ author_profile: true
 
 2023
 ---
-[**NSDI**] [Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling]()  
+[**NSDI**] [Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling](/papers/2023/NSDI23_Arya.pdf)  
 Zeying Zhu, Kan Wu, Zaoxing Liu   
-*to appear in USENIX NSDI'23 (available soon)*
+*in USENIX NSDI'23*
 
 [**NSDI**] [Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches]()  
 Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste   
-*to appear in USENIX NSDI'23 (available soon)*
+*in USENIX NSDI'23 (available soon)*
 
 [**VLDB**] [Panakos: Chasing the Tails for Multidimensional Data Streams](/papers/2023/VLDB23_Panakos.pdf)  
 Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, Zaoxing Liu  
