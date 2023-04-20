@@ -11,9 +11,9 @@ author_profile: true
 Zeying Zhu, Kan Wu, Zaoxing Liu   
 *in USENIX NSDI'23*
 
-[**NSDI**] [Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches]()  
+[**NSDI**] [Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches](/papers/2023/NSDI23_Sketchovsky.pdf)  
 Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste   
-*in USENIX NSDI'23 (available soon)*
+*in USENIX NSDI'23*
 
 [**VLDB**] [Panakos: Chasing the Tails for Multidimensional Data Streams](/papers/2023/VLDB23_Panakos.pdf)  
 Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, Zaoxing Liu  
