@@ -1,5 +1,5 @@
 ---
-title: "Privacy-Preserving, Automated Open Tracing and Telemetry Framework"
+title: "Privacy-Preserving, Automated Data Sharing Framework"
 collection: projects
 permalink: /projects/proj-private
 ---
