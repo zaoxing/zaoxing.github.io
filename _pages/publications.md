@@ -17,7 +17,7 @@ Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste
 
 [**VLDB**] [Panakos: Chasing the Tails for Multidimensional Data Streams](/papers/2023/VLDB23_Panakos.pdf)  
 Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, Zaoxing Liu  
-*to appear in VLDB'23*
+*in VLDB'23*
 
 [**Revision**] [(Scalable, General Host-based Software Sketch Analytics)]()(Title altered)          
 Yinda Zhang, Peiqing Chen, Zaoxing Liu   
@@ -49,13 +49,13 @@ Shir Landau Feibish, Zaoxing Liu, Nikita Ivkin, Xiaoqi Chen, Vladimir Braverman,
 Zaoxing Liu, Hun Namkung, Georgios Nikolaidis, Jeongkeun Lee, Changhoon Kim, Xin Jin, Vladimir Braverman, Minlan Yu, Vyas Sekar  
 *in USENIX Security'21*
 
-[**IMC**] [Precise Error Estimation for Sketch-based Flow Measurement](/papers/2021/IMC21_ErrorEstimation.pdf)  
-Peiqing Chen, Yuhan Wu, Tong Yang, Junchen Jiang, Zaoxing Liu   
-*in ACM/SIGCOMM IMC'21*
-
 [**SIGCOMM**] [CocoSketch: High-Performance Sketch-based Measurement over Arbitrary Partial Key Query](/papers/2021/SIGCOMM21-CocoSketch.pdf)  
 Yinda Zhang, Zaoxing Liu, Ruixin Wang, Tong Yang, Jizhou Li, Ruijie Miao, Peng Liu, Ruwen Zhang, Junchen Jiang  
 *in ACM SIGCOMM'21*
+
+[**IMC**] [Precise Error Estimation for Sketch-based Flow Measurement](/papers/2021/IMC21_ErrorEstimation.pdf)  
+Peiqing Chen, Yuhan Wu, Tong Yang, Junchen Jiang, Zaoxing Liu   
+*in ACM/SIGCOMM IMC'21*
 
 [**SOSR**] [Telemetry Retrieval Inaccuracy in Programmable Switches: Analysis and Recommendations](/papers/2021/SOSR21_CounterRetrieval.pdf)  
 Hun Namkung, Daehyeok Kim, Zaoxing Liu, Vyas Sekar, Peter Steenkiste    
