@@ -7,26 +7,26 @@ author_profile: true
 PhD Students
 ---
 Peiqing Chen (2021-)  
-Mingji Han  (2022-)  
+Mingji Han  (2022-)   
+Ayesha Naeem (2023-)     
 Yajie (Lesley) Zhou (2021-)    
-Zeying Zhu (2021-)  
-
-1st-Year PhD Rotation
----
-Ayesha Naeem (2023-)    
+Zeying Zhu (2021-)        
 
 Undergraduate Students
 ---
-Yaroslav Diachenko (Summer 2022)  
-Julia Hua (Summer/Fall 2022)   
-Sam Qiu  (Summer 2022 -)   
-Haoming Yi  (Spring 2022 -)   
-Nengneng Yu  (Spring 2022 -)  
+Sam Qiu  (Summer 2022 -)    
+Nengneng Yu  (Spring 2022 -), --> BU CE PhD.   
 
 RISE High School Students
 ---
 Emmett Forrestel (Summer 2022)   
 Anthony Wang (Summer 2021 -> MIT)  
+
+Alumni
+---
+Yaroslav Diachenko (BU Ugrad, Summer 2022), Purdue CS.     
+Julia Hua (BU Ugrad, Summer/Fall 2022)      
+Haoming Yi  (BU Ugrad, Spring 2022 - Spring 2023), MS student at Rice CS.     
 
 Others
 ---
