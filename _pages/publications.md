@@ -23,9 +23,9 @@ Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste
 Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, Zaoxing Liu  
 *in VLDB'23*
 
-[**Revision**] [(Scalable, General Host-based Software Sketch Analytics)]()(Title altered)          
+<!-- [**Revision**] [(Scalable, General Host-based Software Sketch Analytics)]()(Title altered)          
 Yinda Zhang, Peiqing Chen, Zaoxing Liu   
-*under revision*
+*under revision* -->
 
 2022
 ---
