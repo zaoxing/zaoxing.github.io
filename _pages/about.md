@@ -10,15 +10,18 @@ redirect_from:
 ---
 About me
 ======
-I'm a computer scientist working broadly on systems, networks, and security. I like to hack large-scale systems with *robust algorithms*! Professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Prior to BU, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
+I'm a computer scientist interested in everything hackable: from networked systems and their security issues to robust algorithms that can hack large-scale problems. I lead the FROOT lab to make systems faster, more future-proof, and more trustworthy.
 
-**I'm looking for self-motivated students (ugrad, master's, phd) who are interested in systems, networking, and applied algorithms research.** My team has several PhD positions available! If you are interested in joining forces with me, drop an email with your CV.
+Professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Previously, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
 
-**Feel free to contact me if you are interested in research internship opportunites.**
+I will be joining the [University of Maryland, College Park](https://www.cs.umd.edu/) as an Assistant Professor of Computer Science in Fall 2023. **I'm looking for self-motivated students (ugrad, master's, phd) who are interested in systems, networking, and applied algorithms research.** If you are interested in working with me, drop an email with your CV. Check out our [PhD program](https://www.cs.umd.edu/grad/apply) at UMD CS! 
+
+<!-- **Feel free to contact me if you are interested in research internship opportunites.** -->
 
 
 News
 ------
+* [05/2023]  Tulkun to appear in [SIGCOMM'23](https://conferences.sigcomm.org/sigcomm/2023/). Congrats to the team!
 * [01/2023]  Panakos to appear in [VLDB'23](https://vldb.org/2023/). Congrats to the team!
 * [01/2023]  Thanks Red Hat for the 2023 Red Hat Collaboratory Research Awards!   
 * [12/2022]  Two systems Arya and Sketchovsky to appear in [NSDI'23](https://www.usenix.org/conference/nsdi23). Congrats to the team! 
