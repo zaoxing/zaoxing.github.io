@@ -14,7 +14,7 @@ I'm a computer scientist interested in everything hackable: from networked syste
 
 Professionally, I'm an Assistant Professor in [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Previously, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
 
-I will be joining the [University of Maryland, College Park](https://www.cs.umd.edu/) as an Assistant Professor of Computer Science in Fall 2023. **I'm looking for self-motivated students (ugrad, master's, phd) who are interested in systems, networking, and applied algorithms research.** If you are interested in working with me, drop an email with your CV. Check out our [PhD program](https://www.cs.umd.edu/grad/apply) at UMD CS! 
+I will be joining the [University of Maryland, College Park](https://www.umd.edu/) as an Assistant Professor of Computer Science in Fall 2023. **I'm looking for self-motivated students (ugrad, master's, phd) who are interested in systems, networking, and applied algorithms research.** If you are interested in working with me, drop an email with your CV. Check out our [PhD program](https://www.cs.umd.edu/grad/apply) at UMD CS! 
 
 <!-- **Feel free to contact me if you are interested in research internship opportunites.** -->
 
