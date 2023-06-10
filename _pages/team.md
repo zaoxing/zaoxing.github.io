@@ -12,10 +12,10 @@ Yajie (Lesley) Zhou (2021-)
 Zeying Zhu (2021-)        
 
 Undergraduate Students/Visitors
----
-Yibo Zhao (ShanghaiTech, Spring 2022 - )      
+---     
 Sam Qiu  (BU, Summer 2022 -)     
 Nengneng Yu  (BU, Spring 2022 -) --> UMD CS.   
+Yibo Zhao (ShanghaiTech, Spring 2022 - )     
 
 High School Students
 ---
