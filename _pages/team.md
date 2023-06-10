@@ -6,24 +6,25 @@ author_profile: true
 ---
 PhD Students
 ---
-Peiqing Chen (2021-)  
-Mingji Han  (2022-)   
+Peiqing Chen (2021-)    
 Ayesha Naeem (2023-)     
 Yajie (Lesley) Zhou (2021-)    
 Zeying Zhu (2021-)        
 
-Undergraduate Students
+Undergraduate Students/Visitors
 ---
-Sam Qiu  (Summer 2022 -)    
-Nengneng Yu  (Spring 2022 -), --> BU CE PhD.   
+Yibo Zhao (ShanghaiTech, Spring 2022 - )      
+Sam Qiu  (BU, Summer 2022 -)     
+Nengneng Yu  (BU, Spring 2022 -) --> UMD CS.   
 
-RISE High School Students
+High School Students
 ---
 Emmett Forrestel (Summer 2022)   
 Anthony Wang (Summer 2021 -> MIT)  
 
 Alumni
 ---
+Mingji Han  (2022-2023), BU ECE.      
 Yaroslav Diachenko (BU Ugrad, Summer 2022), Purdue CS.     
 Julia Hua (BU Ugrad, Summer/Fall 2022)      
 Haoming Yi  (BU Ugrad, Spring 2022 - Spring 2023), MS student at Rice CS.     
@@ -32,7 +33,7 @@ Others
 ---
 I have also worked closely with:   
 [Anup Agarwal](https://108anup.github.io/) (CMU, advised by Srini Seshan)   
-[Tian Li](https://www.cs.cmu.edu/~litian/) (CMU, advised by Virginia Smith)   
+[Tian Li](https://www.cs.cmu.edu/~litian/) (CMU -> UChicago)   
 [Antonis Manousis](https://www.andrew.cmu.edu/user/amanousi/) (CMU -> Meta, advised by Vyas Sekar)    
 [Hun Namkung](https://hnamkung.github.io/) (CMU, joined Conviva)   
 [Mingran Yang](https://mingrany.github.io/) (CMU -> MIT, advised by Manya Ghobadi)  
