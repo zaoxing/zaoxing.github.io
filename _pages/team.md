@@ -6,15 +6,14 @@ author_profile: true
 ---
 PhD Students
 ---
-Peiqing Chen (2021-)    
-Ayesha Naeem (2023-)     
-Yajie (Lesley) Zhou (2021-)    
-Zeying Zhu (2021-)        
+Peiqing Chen (2021-)           
+Nengneng Yu  (2023-)      
+Yajie (Lesley) Zhou (2021-)       
+Zeying Zhu (2021-)       
 
 Undergraduate Students/Visitors
 ---     
-Sam Qiu  (BU, Summer 2022 -)     
-Nengneng Yu  (BU, Spring 2022 -) --> UMD CS.   
+Sam Qiu  (BU, Summer 2022 -)       
 Yibo Zhao (ShanghaiTech, Spring 2022 - )     
 
 High School Students
@@ -24,7 +23,8 @@ Anthony Wang (Summer 2021 -> MIT)
 
 Alumni
 ---
-Mingji Han  (2022-2023), BU ECE.      
+Ayesha Naeem (2023), BU ECE.       
+Mingji Han  (2022-2023), BU ECE.       
 Yaroslav Diachenko (BU Ugrad, Summer 2022), Purdue CS.     
 Julia Hua (BU Ugrad, Summer/Fall 2022)      
 Haoming Yi  (BU Ugrad, Spring 2022 - Spring 2023), MS student at Rice CS.     
