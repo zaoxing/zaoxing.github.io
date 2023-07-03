@@ -7,8 +7,9 @@ author_profile: true
 PhD Students
 ---
 Peiqing Chen (2021-)           
-Nengneng Yu  (2023-)      
-Yajie (Lesley) Zhou (2021-)       
+Nengneng Yu  (2023-)   
+Ayesha Naeem (2023-), co-advised    
+Yajie (Lesley) Zhou (2021-)         
 Zeying Zhu (2021-)       
 
 Undergraduate Students/Visitors
@@ -22,8 +23,7 @@ Emmett Forrestel (Summer 2022)
 Anthony Wang (Summer 2021 -> MIT)  
 
 Alumni
----
-Ayesha Naeem (2023), BU ECE.       
+---       
 Mingji Han  (2022-2023), BU ECE.       
 Yaroslav Diachenko (BU Ugrad, Summer 2022), Purdue CS.     
 Julia Hua (BU Ugrad, Summer/Fall 2022)      
