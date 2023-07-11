@@ -48,7 +48,7 @@ News
 
 Research
 ------
-I'm broadly interested in networked and data-intensive systems. I design, implement, evaluate systems and algorithmic tools for telemetry/analytics, in-network computing, ML, and network security.
+I'm broadly interested in networked and data-intensive systems. I design, implement, evaluate systems and algorithmic tools for telemetry/analytics, machine learning, and network security.
 
 **(Network) Analytics Algorithms and Data Systems**
 - Quantile and Tail Measurements for Multidimensional Data Streams [[Panakos, VLDB'23]()]

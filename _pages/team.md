@@ -8,7 +8,7 @@ PhD Students
 ---
 Peiqing Chen (2021-)           
 Nengneng Yu  (2023-)   
-Ayesha Naeem (2023-), co-advised    
+Ayesha Naeem (2023-), co-advised with Orran Krieger 
 Yajie (Lesley) Zhou (2021-)         
 Zeying Zhu (2021-)       
 
