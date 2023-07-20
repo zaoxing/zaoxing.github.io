@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+2024
+---
+[**NSDI**] [OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores]()     
+Yinda Zhang, Peiqing Chen, Zaoxing Liu       
+*to appear in USENIX NSDI'24*
+
+
 2023
 ---
 [**SIGCOMM**] [Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, On-Device Verification]()  
