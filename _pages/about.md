@@ -21,6 +21,7 @@ I will be joining the [University of Maryland, College Park](https://www.umd.edu
 
 News
 ------
+* [07/2023]  OctoSketch to appear in [NSDI'24](https://www.usenix.org/conference/nsdi24Y). Congrats to Yinda and Peiqing!    
 * [05/2023]  Tulkun to appear in [SIGCOMM'23](https://conferences.sigcomm.org/sigcomm/2023/). Congrats to the team!
 * [01/2023]  Panakos to appear in [VLDB'23](https://vldb.org/2023/). Congrats to the team!
 * [01/2023]  Thanks Red Hat for the 2023 Red Hat Collaboratory Research Awards!   
