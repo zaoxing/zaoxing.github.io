@@ -1,7 +1,7 @@
 ---
 layout: single-notitle
 permalink: /
-title: "Alan Zaoxing Liu - Homepage - Boston University"
+title: "Alan Zaoxing Liu - Homepage - University of Maryland"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,9 +12,9 @@ About me
 ======
 I love everything networked and (might be) hackable: from networked systems and their security issues to robust algorithms that can hack large-scale problems. I lead the FROOT lab to make systems <u>F</u>aster, more Future-p<u>ROO</u>f, and more <u>T</u>rustworthy.
 
-Professionally, I'm an Assistant Professor of [ECE](https://www.bu.edu/eng/departments/ece/) and [CS](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Previously, I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University.
+Professionally, I am an incoming Assistant Professor of [Computer Science](https://www.cs.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Previously, I was an Assistant Professor of ECE at Boston University. I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University. 
 
-I will be joining the [University of Maryland, College Park](https://www.umd.edu/) as an Assistant Professor of [Computer Science](https://www.cs.umd.edu/) in Fall 2023. **I'm looking for self-motivated students (ugrad, master's, phd) who are interested in systems, networking, and applied algorithms research.** If you are interested in working with me, drop me an email with your CV. Check out our [PhD programs](https://www.cs.umd.edu/grad/apply) at UMD CS! 
+**I'm looking for self-motivated students (ugrad, master's, phd) who are interested in systems, networking, and applied algorithms research.** If you are interested in working with me, drop me an email with your CV. Check out our [PhD programs](https://www.cs.umd.edu/grad/apply) at UMD CS! 
 
 <!-- **Feel free to contact me if you are interested in research internship opportunites.** -->
 
@@ -62,8 +62,8 @@ I'm broadly interested in networked and data-intensive systems. I design, implem
 - Future-Proof Sketch-based Telemetry [[UnivMon, SIGCOMM'16](/papers/2016/SIGCOMM16_UnivMon.pdf)]
 
 **Approximate Computing Systems**
-- Apprximate Graph Mining with Decomposition-based Sampling [[Arya, NSDI'23]()]
-- General Ensembles of Sketch-Based Analytics on Hardware [[Sketchovsky, NSDI'23]()]
+- Apprximate Graph Mining with Decomposition-based Sampling [[Arya, NSDI'23](/papers/2023/NSDI23_Arya.pdf)]
+- General Ensembles of Sketch-Based Analytics on Hardware [[Sketchovsky, NSDI'23](/papers/2023/NSDI23_Sketchovsky.pdf)]
 - General Multidimensional Subpopulation (Data Cube) Analytics [[Hydra, VLDB'22](/papers/2022/VLDB22_Hydra.pdf)]
 - Efficient Library to Deploy Various Sketches on Hardware [[SketchLib, NSDI'22](/papers/2022/NSDI2022_SketchLib.pdf)]
 - Distributed Load Balancing for Data Centers [[DistCache, FAST'19](/papers/2019/FAST19_DistCache.pdf)]
