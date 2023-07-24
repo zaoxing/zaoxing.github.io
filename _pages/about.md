@@ -21,7 +21,7 @@ Professionally, I am an incoming Assistant Professor of [Computer Science](https
 
 News
 ------
-* [07/2023]  OctoSketch to appear in [NSDI'24](https://www.usenix.org/conference/nsdi24Y). Congrats to Yinda and Peiqing!    
+* [07/2023]  OctoSketch to appear in [NSDI'24](https://www.usenix.org/conference/nsdi24). Congrats to Yinda and Peiqing!    
 * [05/2023]  Tulkun to appear in [SIGCOMM'23](https://conferences.sigcomm.org/sigcomm/2023/). Congrats to the team!
 * [01/2023]  Panakos to appear in [VLDB'23](https://vldb.org/2023/). Congrats to the team!
 * [01/2023]  Thanks Red Hat for the 2023 Red Hat Collaboratory Research Awards!   
@@ -52,6 +52,7 @@ Research
 I'm broadly interested in networked and data-intensive systems. I design, implement, evaluate systems and algorithmic tools for telemetry/analytics, machine learning, and network security.
 
 **(Network) Analytics Algorithms and Data Systems**
+- Sketch-based Telemetry for Multicore and Distributed Systems [[OctoSketch, NSDI'24](/papers/2024/NSDI24_OctoSketch.pdf)]
 - Quantile and Tail Measurements for Multidimensional Data Streams [[Panakos, VLDB'23]()]
 - Sketch-based Telemetry for Heterogeneous/Dynamic Networks [[HeteroSketch, NSDI'22](/papers/2022/NSDI2022_HeteroSketch.pdf)]
 - Arbitary Partial Key Queries on Network Hardware [[CocoSketch, SIGCOMM'21](/papers/2021/SIGCOMM21-CocoSketch.pdf)]
