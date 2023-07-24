@@ -8,7 +8,7 @@ PhD Students
 ---
 Peiqing Chen (2021-)           
 Nengneng Yu  (2023-)   
-Ayesha Naeem (2023-), co-advised with Orran Krieger 
+Ayesha Naeem (2023-), co-advised with Orran Krieger       
 Yajie (Lesley) Zhou (2021-)         
 Zeying Zhu (2021-)       
 
@@ -19,7 +19,7 @@ Yibo Zhao (ShanghaiTech, Spring 2022 - )
 
 High School Students
 ---
-Emmett Forrestel (Summer 2022)   
+Emmett Forrestel (Summer 2022 -> Brown)   
 Anthony Wang (Summer 2021 -> MIT)  
 
 Alumni
