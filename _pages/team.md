@@ -8,7 +8,7 @@ PhD Students
 ---
 Peiqing Chen (2021-)           
 Nengneng Yu  (2023-)   
-Ayesha Naeem (2023-), co-advised with Orran Krieger       
+Ayesha Naeem (2023-), co-advised w/ Orran Krieger       
 Yajie (Lesley) Zhou (2021-)         
 Zeying Zhu (2021-)       
 
@@ -23,8 +23,7 @@ Emmett Forrestel (Summer 2022 -> Brown)
 Anthony Wang (Summer 2021 -> MIT)  
 
 Alumni
----       
-Mingji Han  (2022-2023), BU ECE.       
+---            
 Yaroslav Diachenko (BU Ugrad, Summer 2022), Purdue CS.     
 Julia Hua (BU Ugrad, Summer/Fall 2022)      
 Haoming Yi  (BU Ugrad, Spring 2022 - Spring 2023), MS student at Rice CS.     
