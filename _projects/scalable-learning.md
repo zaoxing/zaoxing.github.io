@@ -20,6 +20,14 @@ People
 
 Publications
 ------
+[**NSDI**] [Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches](/papers/2023/NSDI23_Sketchovsky.pdf)  
+Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste   
+*in USENIX NSDI'23*
+
+[**VLDB**] [Panakos: Chasing the Tails for Multidimensional Data Streams](/papers/2023/VLDB23_Panakos.pdf)  
+Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, Zaoxing Liu  
+*in VLDB'23*
+
 [**VLDB**] [Enabling Efficient and General Subpopulation Analytics In Multidimensional Data Streams](/papers/2022/VLDB22_Hydra.pdf)  
 Antonis Manousis, Zhuo Cheng, Ran Ben Basat, Zaoxing Liu, Vyas Sekar  
 *in VLDB'22*
@@ -36,3 +44,5 @@ Peiqing Chen, Yuhan Wu, Tong Yang, Junchen Jiang, Zaoxing Liu
 Software
 ------
 [**Hydra**] [Github](https://github.com/antonis-m/HYDRA_VLDB)
+
+[**Sketchovsky**] [Github](https://github.com/Sketchovsky)
