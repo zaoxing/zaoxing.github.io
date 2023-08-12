@@ -7,14 +7,18 @@ author_profile: true
 
 2024
 ---
-[**NSDI**] [OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores]()     
+[**NSDI**] OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores      
 Yinda Zhang, Peiqing Chen, Zaoxing Liu       
 *to appear in USENIX NSDI'24*
+
+[**NDSS**] TrustSketch: Trustworthy Sketch-based Telemetry on Cloud Hosts       
+Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar         
+*to appear in NDSS Symposium'24*
 
 
 2023
 ---
-[**SIGCOMM**] [Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, On-Device Verification]()  
+[**SIGCOMM**] Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, On-Device Verification   
 Qiao Xiang, Chenyang Huang, Ridi Wen, Yuxin Wang, Xiwen Fan, Zaoxing Liu, Linghe Kong, Dennis Duan, Franck Le, Wei Sun     
 *to appear in ACM SIGCOMM'23*
 
