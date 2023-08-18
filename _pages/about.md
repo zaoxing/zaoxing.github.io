@@ -21,6 +21,7 @@ Professionally, I am an incoming Assistant Professor of [Computer Science](https
 
 News
 ------
+* [08/2023]  TrustSketch to appear in [NDSS'24](https://www.ndss-symposium.org/ndss2024/). Congrats to the team!
 * [07/2023]  OctoSketch to appear in [NSDI'24](https://www.usenix.org/conference/nsdi24). Congrats to Yinda and Peiqing!    
 * [05/2023]  Tulkun to appear in [SIGCOMM'23](https://conferences.sigcomm.org/sigcomm/2023/). Congrats to the team!
 * [01/2023]  Panakos to appear in [VLDB'23](https://vldb.org/2023/). Congrats to the team!
@@ -43,7 +44,7 @@ News
 * [05/2021]  CocoSketch to appear in [SIGCOMM'21](https://conferences.sigcomm.org/sigcomm/2021/). Congrats to the team!  
 * [03/2021]  NitroSketch is integrated into Intel DPDK load balancer product! Check out Yipeng and Chenmin's talk ([slides](https://static.sched.com/hosted_files/dpdksummitapac2021/35/Handling%20Elephant%20Flow%20on%20a%20DPDK-Based%20Load%20Balancer.pdf)) at [DPDK Summit](https://sched.co/hdLm).  
 * [02/2021]  Jaqen to appear in [USENIX Security'21](https://www.usenix.org/conference/usenixsecurity21). Valar dohaeris!
-* [01/2021]  Started at Boston for a new adventure.
+<!-- * [01/2021]  Started at Boston for a new adventure. -->
 
 
 
@@ -71,6 +72,7 @@ I'm broadly interested in networked and data-intensive systems. I design, implem
 - Distributed Approximate Graph Mining [[ASAP, OSDI'18](/papers/2018/OSDI18_ASAP.pdf)]
 
 **Programmable Networks / In-Network Security**
+- Trustworthy Network Telemetry on the Cloud Host [[TrustSketch, NDSS'24](/papers/2024/NDSS24_TrustSketch.pdf)]
 - High-Performance Switch-Native DDoS Defense [[Jaqen, Security'21](/papers/2021/USENIX_Security21_Jaqen.pdf)]
 - Table Extension Architecture for Programmable Switches [[TEA, SIGCOMM'20](/papers/2020/SIGCOMM20_TEA.pdf)]
 
