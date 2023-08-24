@@ -63,15 +63,15 @@ Tentative Course Schedule
 | Week 1  | Administrative delay | No Class |
 | Week 2  | Administrative delay | No Class |
 | Week 3  | Course Overview | *[How to Read](/files/course/CCR07_HowToRead.pdf), *[The New Frontier of Machine Learning Systems](https://arxiv.org/pdf/1904.03257.pdf) |
-| Week 4  | New Architecture | *[A Datacenter Infrastructure Perspective for ML](), *[Optimized Network Architectures for Large Language Model Training with Billions of Parameters](https://arxiv.org/pdf/2307.12169.pdf) |
-| Week 5  | Data Parallelism | *[PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://arxiv.org/pdf/2304.11277.pdf),  *[A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855.pdf) |
-| Week 6  | Model Parallelism | *[PipeDream: Generalized Pipeline Parallelism for DNN Training](), *[GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism]() |
-| Week 7  | Tensor and Automated Parallelism | *[Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](), *[Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning]() |
-| Week 8  | Communicaton Library | *[A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters](), *[NCCL Communication Primitives](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/overview.html) |
-| Week 9  | Congestion Control | *[Congestion Control in Machine Learning Clusters](), *[Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon Formation]() |
-| Week 10  | ML Workflow: Data| *[Understanding data storage and ingestion for large-scale deep recommendation model training](), *[Check-N-Run: a Checkpointing System for Training Deep Learning Recommendation Models]() |
-| Week 11  | ML Workflow: Preproessing | *[Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines](), *[FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline]() |
-| Week 12  | ML Workflow: Job Scheduling and Energy | *[Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines](), *[Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters]() |
+| Week 4  | New Architecture | *[A Datacenter Infrastructure Perspective for ML](/files/course/HPCA18_FacebookDCInfra.pdf), *[Optimized Network Architectures for Large Language Model Training with Billions of Parameters](https://arxiv.org/pdf/2307.12169) |
+| Week 5  | Data Parallelism | *[PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://arxiv.org/pdf/2304.11277),  *[A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855) |
+| Week 6  | Model Parallelism | *[PipeDream: Generalized Pipeline Parallelism for DNN Training](https://arxiv.org/pdf/1806.03377), *[GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965) |
+| Week 7  | Tensor and Automated Parallelism | *[Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053), *[Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/2201.12023) |
+| Week 8  | Communicaton Library | *[A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters](https://www.usenix.org/system/files/osdi20-jiang.pdf), *[NCCL Communication Primitives](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/overview.html) |
+| Week 9  | Congestion Control | *[Congestion Control in Machine Learning Clusters](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_rajasekaran.pdf), *[Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon Formation](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_pan.pdf) |
+| Week 10  | ML Workflow: Data| *[Understanding data storage and ingestion for large-scale deep recommendation model training](https://arxiv.org/pdf/2108.09373), *[Check-N-Run: a Checkpointing System for Training Deep Learning Recommendation Models](https://www.usenix.org/system/files/nsdi22-paper-eisenman.pdf) |
+| Week 11  | ML Workflow: Preproessing | *[Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines](https://arxiv.org/pdf/2202.08679), *[FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline](/files/course/VLDB23_FastFlow.pdf) |
+| Week 12  | ML Workflow: Job Scheduling and Energy | *[Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines](https://arxiv.org/pdf/2202.08679), *[Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters](https://www.usenix.org/system/files/osdi22-mohan.pdf) |
 | Week 13  | ML Workflow: Model Serving | TBD |
-| Week 14  | New Hardware |  |
+| Week 14  | New Hardware | *[TPUv4](https://arxiv.org/pdf/2304.01433), *[Jupiter Evolving](https://research.google/pubs/pub51587.pdf)|
 | Week 15  | Final Presentations |
