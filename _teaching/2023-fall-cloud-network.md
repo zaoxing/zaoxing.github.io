@@ -63,7 +63,7 @@ Tentative Course Schedule
 | Week 1  | Administrative delay | No Class |
 | Week 2  | Administrative delay | No Class |
 | Week 3  | Course Overview | *[How to Read](/files/course/CCR07_HowToRead.pdf), *[The New Frontier of Machine Learning Systems](https://arxiv.org/pdf/1904.03257.pdf) |
-| Week 4  | New Architecture | *[A Datacenter Infrastructure Perspective for ML](/files/course/HPCA18_FacebookDCInfra.pdf), *[Optimized Network Architectures for Large Language Model Training with Billions of Parameters](https://arxiv.org/pdf/2307.12169) |
+| Week 4  | New Architecture | *[Empowering Azure Storage with RDMA](https://www.usenix.org/system/files/nsdi23-bai.pdf) *[A Datacenter Infrastructure Perspective for ML](/files/course/HPCA18_FacebookDCInfra.pdf), *[Optimized Network Architectures for Large Language Model Training with Billions of Parameters](https://arxiv.org/pdf/2307.12169) |
 | Week 5  | Data Parallelism | *[PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://arxiv.org/pdf/2304.11277),  *[A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855) |
 | Week 6  | Model Parallelism | *[PipeDream: Generalized Pipeline Parallelism for DNN Training](https://arxiv.org/pdf/1806.03377), *[GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965) |
 | Week 7  | Tensor and Automated Parallelism | *[Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053), *[Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/2201.12023) |
