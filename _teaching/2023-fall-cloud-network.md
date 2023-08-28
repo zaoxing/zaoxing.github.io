@@ -36,9 +36,9 @@ Course Overview
 4. **Programming Assignments:** There will be (tentatively) two programming assignments during the class. These assignments assume basic computer systems knowledge and some familiarity with network programming.
 
 5. **Project:** This class has a final project:  
-    a.	Topic: Reproduce a paper discussed in class, or novel research with a system-building component.  
-    b.	Can work alone, or in groups of two students. Must involve writing some code.  
-    c.	Can overlap with other research projects, with permission.
+    * Topic: Reproduce a paper discussed in class, or novel research with a system-building component.  
+    * Can work alone, or in groups of two students. Must involve writing some code or conducting some measurement studies.  
+    * Can overlap with other research projects, with permission.
 
 
 Academic Conduct Statement
@@ -49,8 +49,9 @@ Grading
 ------
 - Class participation: 10% 
 - Paper reviews: 20% 
+- Paper presentation: 10%
 - Programming/measurement assignments: 20% 
-- Paper and project presentations: 50%
+- Project: 40%
 
 Late Policy: Programming/measurement assignments receive 10% off grades for each 24 hours late, rounded up.
 
@@ -62,16 +63,51 @@ Tentative Course Schedule
 | :------: | :------: | :------  |
 | Week 1  | Administrative delay | No Class |
 | Week 2  | Administrative delay | No Class |
-| Week 3  | Course Overview | *[How to Read](/files/course/CCR07_HowToRead.pdf), *[The New Frontier of Machine Learning Systems](https://arxiv.org/pdf/1904.03257.pdf) |
-| Week 4  | New Architecture | *[Empowering Azure Storage with RDMA](https://www.usenix.org/system/files/nsdi23-bai.pdf) *[A Datacenter Infrastructure Perspective for ML](/files/course/HPCA18_FacebookDCInfra.pdf), *[Optimized Network Architectures for Large Language Model Training with Billions of Parameters](https://arxiv.org/pdf/2307.12169) |
-| Week 5  | Data Parallelism | *[PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://arxiv.org/pdf/2304.11277),  *[A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855) |
-| Week 6  | Model Parallelism | *[PipeDream: Generalized Pipeline Parallelism for DNN Training](https://arxiv.org/pdf/1806.03377), *[GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965) |
-| Week 7  | Tensor and Automated Parallelism | *[Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053), *[Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/2201.12023) |
-| Week 8  | Communicaton Library | *[A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters](https://www.usenix.org/system/files/osdi20-jiang.pdf), *[NCCL Communication Primitives](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/overview.html) |
-| Week 9  | Congestion Control | *[Congestion Control in Machine Learning Clusters](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_rajasekaran.pdf), *[Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon Formation](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_pan.pdf) |
-| Week 10  | ML Workflow: Data| *[Understanding data storage and ingestion for large-scale deep recommendation model training](https://arxiv.org/pdf/2108.09373), *[Check-N-Run: a Checkpointing System for Training Deep Learning Recommendation Models](https://www.usenix.org/system/files/nsdi22-paper-eisenman.pdf) |
-| Week 11  | ML Workflow: Preproessing | *[Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines](https://arxiv.org/pdf/2202.08679), *[FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline](/files/course/VLDB23_FastFlow.pdf) |
-| Week 12  | ML Workflow: Job Scheduling and Energy | *[Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines](https://arxiv.org/pdf/2202.08679), *[Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters](https://www.usenix.org/system/files/osdi22-mohan.pdf) |
-| Week 13  | ML Workflow: Model Serving | TBD |
-| Week 14  | New Hardware | *[TPUv4](https://arxiv.org/pdf/2304.01433), *[Jupiter Evolving](https://research.google/pubs/pub51587.pdf)|
+| Week 3  | Course Overview | *[How to Read a Paper](/files/course/CCR07_HowToRead.pdf) <br/> *[MLSys: The New Frontier of Machine Learning Systems](https://arxiv.org/pdf/1904.03257.pdf) | 
+| Week 4  | New Architecture | *[Empowering Azure Storage with RDMA](https://www.usenix.org/system/files/nsdi23-bai.pdf), (NSDI'23) <br/> *[A Datacenter Infrastructure Perspective for ML](/files/course/HPCA18_FacebookDCInfra.pdf), (HPCA'18) <br/> *[Optimized Network Architectures for Large Language Model Training with Billions of Parameters](https://arxiv.org/pdf/2307.12169) |
+| Week 5  | Data Parallelism | *[PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://arxiv.org/pdf/2304.11277), (VLDB'23) <br/> *[A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855) |
+| Week 6  | Model Parallelism | *[PipeDream: Generalized Pipeline Parallelism for DNN Training](https://arxiv.org/pdf/1806.03377), (SOSP'19) <br/> *[GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965), (NeurIPS'19) |
+| Week 7  | Tensor and Automated Parallelism | *[Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053) <br/> *[Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/2201.12023) |
+| Week 8  | Communicaton Library | *[A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters](https://www.usenix.org/system/files/osdi20-jiang.pdf), (OSDI'20) <br/> *[NCCL Communication Primitives](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/overview.html) |
+| Week 9  | Congestion Control | *[Congestion Control in Machine Learning Clusters](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_rajasekaran.pdf), (HotNets'22) <br/> *[Efficient Flow Scheduling in Distributed Deep Learning Training with Echelon Formation](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_pan.pdf), (HotNets'22) |
+| Week 10  | ML Workflow: Data| *[Understanding Data Storage and Ingestion for Large-scale Deep Recommendation Model Training](https://arxiv.org/pdf/2108.09373), (ISCA'22) <br/> *[Check-N-Run: a Checkpointing System for Training Deep Learning Recommendation Models](https://www.usenix.org/system/files/nsdi22-paper-eisenman.pdf), (NSDI'22) |
+| Week 11  | ML Workflow: Preproessing | *[Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines](https://arxiv.org/pdf/2202.08679), (SIGMOD'22) <br/> *[FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline](/files/course/VLDB23_FastFlow.pdf), (VLDB'23) |
+| Week 12  | ML Workflow: Job Scheduling and Energy | *[Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines](https://arxiv.org/pdf/2202.08679), (SIGMOD'22) <br/> *[Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters](https://www.usenix.org/system/files/osdi22-mohan.pdf), (OSDI'22) |
+| Week 13  | ML Workflow: Model Serving | *[Cocktail: A Multidimensional Optimization  for Model Serving in Cloud](https://www.usenix.org/system/files/nsdi22-paper-gunasekaran.pdf), (NSDI'22) |
+| Week 14  | New Hardware | *[TPUv4](https://arxiv.org/pdf/2304.01433) <br/> *[JupiterEvolving: Transforming Google's Datacenter Network via Optical Circuit Switches and Software-Defined Networking](https://research.google/pubs/pub51587.pdf), (SIGCOMM'22) <br/> *[FAERY: An FPGA-accelerated Embedding-based Retrieval System](https://www.usenix.org/system/files/osdi22-zeng.pdf), (OSDI'22) |
 | Week 15  | Final Presentations |
+
+
+Paper Reviews
+------
+The goal of the reviews is to get you comfortable of reading research papers in the software systems and networking space.
+* Students are expected to write reviews for the papers in each class. We will give scores based on the top 90% of the reviews. This means it is ok if you miss 10% of the reviews throughout the class.
+* Your reviews are due at noon one day before (Monday noon for Tuesday classes; Wednesday noon for Thursday classes). So the presenter of the paper can have time collect all your questions and we can discuss in class. For the lectures we have guest speakers, we will collect the questions and please raise your question in class.
+
+
+Project Proposal and Project Pitch Presentation
+------
+The project proposal is not graded but it serves as the good basis for your individual meeting with Minlan and for your pitch presentation. Each student should give a 10-minute talk on your project ideas. The talk should include
+
+* What problem are you solving?
+* Why it's an important problem?
+* What are the potential challenges you may face in solving the problem?
+* What are the first steps (your plan for the next month)?
+
+Midterm Project Report
+------
+* Describe the problem you plan to solve, why it is novel/unique, what the major challenges.
+* Describe the detailed design for your project and what you have implemented/evaluated so far.
+* Describe the remaining challenges, how you would address them, and your plan for the remaining time.
+* The midterm report should be about 2-4 pages and serve as a starting point for your final project report (see detailed requirements for the final report below)
+
+Final Project Presentations
+------
+This should be similar to a workshop talk. You might consider covering the following content (not necessarily in the same order):
+* What problem are you trying to solve?
+* Why is it an important problem?
+* What's your basic solution to the problem?
+* What are the challenges in the problem?
+* How did you solve these challenges? Or how do you plan to solve the challenges?
+* Some preliminary results
+* Future directions
