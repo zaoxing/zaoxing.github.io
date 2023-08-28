@@ -21,7 +21,6 @@ Prerequisites
 Recommended experiences with computer networking and software systems, including one or more of CMSC330, CMSC412, CMSC414, CMSC417, etc., or permission of the instructor. The assignments and projects assume students have familiarity with programming (e.g., Python and C/C++).
 
 
-
 Textbook
 ------
 There are no mandatory textbooks for this course, but every class will have corresponding readings from research papers. A reading list with links to the papers will be provided.
@@ -88,7 +87,7 @@ The goal of the reviews is to get you comfortable of reading research papers in 
 
 Project Proposal and Project Pitch Presentation
 ------
-The project proposal is not graded but it serves as the good basis for your individual meeting with Minlan and for your pitch presentation. Each student should give a 10-minute talk on your project ideas. The talk should include
+The project proposal is not graded but it serves as the good basis for your individual meeting with the instructor and for your pitch presentation. Each student should give a 10-minute talk on your project ideas. The talk should include
 
 * What problem are you solving?
 * Why it's an important problem?
