@@ -13,8 +13,8 @@ The course aims to explore latest advances in cloud networking and computing in 
 Instructors
 ------
 * Instructor: Prof. Alan Zaoxing Liu
-    * Class Time: Tue/Thu 2:00-3:15PM
-    * Office Hours: Thu 4-5 or by appointment
+    * Class Time: Tue/Thu 2:00-3:15PM, IRB 1207
+    * Office Hours: IRB 5138, Thu 4-5 or by appointment
 
 Prerequisites
 ------
