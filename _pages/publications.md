@@ -18,9 +18,9 @@ Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar
 
 2023
 ---
-[**SIGCOMM**] Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, On-Device Verification   
+[**SIGCOMM**] [Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, On-Device Verification](/papers/2023/SIGCOMM23_Tulkun.pdf)       
 Qiao Xiang, Chenyang Huang, Ridi Wen, Yuxin Wang, Xiwen Fan, Zaoxing Liu, Linghe Kong, Dennis Duan, Franck Le, Wei Sun     
-*to appear in ACM SIGCOMM'23*
+*in ACM SIGCOMM'23*
 
 [**NSDI**] [Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling](/papers/2023/NSDI23_Arya.pdf)  
 Zeying Zhu, Kan Wu, Zaoxing Liu   

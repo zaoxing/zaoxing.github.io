@@ -54,7 +54,8 @@ I'm broadly interested in networked and data-intensive systems. I design, implem
 
 **(Network) Analytics Algorithms and Data Systems**
 - Sketch-based Telemetry for Multicore and Distributed Systems [[OctoSketch, NSDI'24](/papers/2024/NSDI24_OctoSketch.pdf)]
-- Quantile and Tail Measurements for Multidimensional Data Streams [[Panakos, VLDB'23]()]
+- Distributed Data Plane Verification [[Tulkun, SIGCOMM'23](/papers/2023/SIGCOMM23_Tulkun.pdf)]
+- Quantile and Tail Measurements for Multidimensional Data Streams [[Panakos, VLDB'23](/papers/2023/VLDB23_Panakos.pdf)]
 - Sketch-based Telemetry for Heterogeneous/Dynamic Networks [[HeteroSketch, NSDI'22](/papers/2022/NSDI2022_HeteroSketch.pdf)]
 - Arbitary Partial Key Queries on Network Hardware [[CocoSketch, SIGCOMM'21](/papers/2021/SIGCOMM21-CocoSketch.pdf)]
 - Precise Error Estimation for Sketch Analytical Queries [[ErrorEstimator, IMC'21](/papers/2021/IMC21_ErrorEstimation.pdf)]
@@ -71,7 +72,7 @@ I'm broadly interested in networked and data-intensive systems. I design, implem
 - Distributed Load Balancing for Data Centers [[DistCache, FAST'19](/papers/2019/FAST19_DistCache.pdf)]
 - Distributed Approximate Graph Mining [[ASAP, OSDI'18](/papers/2018/OSDI18_ASAP.pdf)]
 
-**Programmable Networks / In-Network Security**
+**Programmable Networks / Network Security**
 - Trustworthy Network Telemetry on the Cloud Host [[TrustSketch, NDSS'24](/papers/2024/NDSS24_TrustSketch.pdf)]
 - High-Performance Switch-Native DDoS Defense [[Jaqen, Security'21](/papers/2021/USENIX_Security21_Jaqen.pdf)]
 - Table Extension Architecture for Programmable Switches [[TEA, SIGCOMM'20](/papers/2020/SIGCOMM20_TEA.pdf)]
