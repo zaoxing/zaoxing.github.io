@@ -18,7 +18,7 @@ Instructors
 
 Prerequisites
 ------
-Recommended experiences with computer networking and software systems, including one or more of CMSC330, CMSC412, CMSC414, CMSC417, etc., or permission of the instructor. The assignments and projects assume students have familiarity with programming (e.g., Python and C/C++).
+All levels are welcome. Recommended experiences with computer networking and software systems, including one or more of CMSC330, CMSC412, CMSC414, CMSC417, etc., or permission of the instructor. The assignments and projects assume students have familiarity with programming (e.g., Python and C/C++).
 
 
 Textbook
