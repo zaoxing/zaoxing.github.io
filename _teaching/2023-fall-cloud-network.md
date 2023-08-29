@@ -16,9 +16,16 @@ Instructors
     * Class Time: Tue/Thu 2:00-3:15PM, IRB 1207
     * Office Hours: IRB 5138, Thu 4-5 or by appointment
 
+
+Annoucements
+------
+* The classroom teaching are cancelled in the first two weeks.
+
+
 Prerequisites
 ------
 All levels are welcome. Recommended experiences with computer networking and software systems, including one or more of CMSC330, CMSC412, CMSC414, CMSC417, etc., or permission of the instructor. The assignments and projects assume students have familiarity with programming (e.g., Python and C/C++).
+
 
 
 Textbook
@@ -61,10 +68,10 @@ Tentative Course Schedule
 
 | Date    | Topics  | Readings |
 | :------: | :------: | :------  |
-| Week 1  | Administrative delay | No Class |
-| Week 2  | Administrative delay | No Class |
-| Week 3  | Course Overview | *[How to Read a Paper](/files/course/CCR07_HowToRead.pdf) <br/> *[MLSys: The New Frontier of Machine Learning Systems](https://arxiv.org/pdf/1904.03257.pdf) | 
-| Week 4  | New Architecture | *[Empowering Azure Storage with RDMA](https://www.usenix.org/system/files/nsdi23-bai.pdf), (NSDI'23) <br/> *[A Datacenter Infrastructure Perspective for ML](/files/course/HPCA18_FacebookDCInfra.pdf), (HPCA'18) <br/> *[Optimized Network Architectures for Large Language Model Training with Billions of Parameters](https://arxiv.org/pdf/2307.12169) |
+| Week 1  | Administrative delay | *No Class <br/> *(Optional) [How to Read a Paper](/files/course/CCR07_HowToRead.pdf) |
+| Week 2  | Administrative delay | *No Class <br/> *(Optional) [MLSys: The New Frontier of Machine Learning Systems](https://arxiv.org/pdf/1904.03257.pdf)|
+| Week 3  | Course Overview | *[A Datacenter Infrastructure Perspective for ML](/files/course/HPCA18_FacebookDCInfra.pdf), (HPCA'18) | 
+| Week 4  | New Architecture | *[Empowering Azure Storage with RDMA](https://www.usenix.org/system/files/nsdi23-bai.pdf), (NSDI'23) <br/> *[Optimized Network Architectures for Large Language Model Training with Billions of Parameters](https://arxiv.org/pdf/2307.12169) |
 | Week 5  | Data Parallelism | *[PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://arxiv.org/pdf/2304.11277), (VLDB'23) <br/> *[A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855) |
 | Week 6  | Model Parallelism | *[PipeDream: Generalized Pipeline Parallelism for DNN Training](https://arxiv.org/pdf/1806.03377), (SOSP'19) <br/> *[GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965), (NeurIPS'19) |
 | Week 7  | Tensor and Automated Parallelism | *[Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053) <br/> *[Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/2201.12023), (OSDI'22) |
