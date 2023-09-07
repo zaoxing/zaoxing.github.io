@@ -17,11 +17,19 @@ People
 ------
 * Lead PI: Alan (Zaoxing) Liu
 * Other PIs: Srinivas Seshan (Co-PI, CMU), Manuel Egele (Co-PI, BU)
-* PhD Students: Zeying Zhu (BU), Peiqing Chen (BU), Anup Agarwal (CMU)
+* PhD Students: Peiqing Chen (BU), Anup Agarwal (CMU)
 * Ugrad Students: Jualia Hua (BU)
 
 Publications
 ------
+[**NSDI**] OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores      
+Yinda Zhang, Peiqing Chen, Zaoxing Liu       
+*to appear in USENIX NSDI'24*
+
+[**NDSS**] TrustSketch: Trustworthy Sketch-based Telemetry on Cloud Hosts       
+Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar         
+*to appear in NDSS Symposium'24*
+
 [**NSDI**] [HeteroSketch: Coordinating Network-wide Monitoring in Heterogeneous and Dynamic Networks](/papers/2022/NSDI2022_HeteroSketch.pdf)  
 Anup Agarwal, Zaoxing Liu, Srinivasan Seshan  
 *in USENIX NSDI'22*

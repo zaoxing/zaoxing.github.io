@@ -6,11 +6,11 @@ author_profile: true
 ---
 PhD Students
 ---
-Peiqing Chen (2021-)           
-Nengneng Yu  (2023-)   
-Ayesha Naeem (2023-), co-advised w/ Orran Krieger       
-Yajie (Lesley) Zhou (2021-)         
-Zeying Zhu (2021-)       
+Peiqing Chen (2021-), UMD            
+Nengneng Yu  (2023-), UMD      
+Ayesha Naeem (2023-), BU, co-advised w/ Orran Krieger       
+Yajie (Lesley) Zhou (2021-), UMD               
+Zeying Zhu (2021-), UMD       
 
 Undergraduate Students/Visitors
 ---     
