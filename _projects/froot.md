@@ -16,7 +16,7 @@ This project proposes FROOT, a future-proof, trustworthy telemetry infrastructur
 People
 ------
 * Lead PI: Alan (Zaoxing) Liu
-* Other PIs: Srinivas Seshan (Co-PI, CMU), Manuel Egele (Co-PI, BU)
+* PIs: Srinivas Seshan (Co-PI, CMU), Manuel Egele (Co-PI, BU)
 * PhD Students: Peiqing Chen (BU), Anup Agarwal (CMU)
 * Ugrad Students: Jualia Hua (BU)
 
