@@ -70,7 +70,7 @@ Tentative Course Schedule
 | :------: | :------: | :------  |
 | Week 1  | Administrative delay | *No Class <br/> *(Optional) [How to Read a Paper](/files/course/CCR07_HowToRead.pdf) |
 | Week 2  | Administrative delay | *No Class <br/> *(Optional) [MLSys: The New Frontier of Machine Learning Systems](https://arxiv.org/pdf/1904.03257.pdf)|
-| Week 3  | Course Overview | *[A Datacenter Infrastructure Perspective for ML](/files/course/HPCA18_FacebookDCInfra.pdf), (HPCA'18) | 
+| Week 3  | Course Overview ([slides](/files/slides/818Q/1-Introduction.pdf)) | *[A Datacenter Infrastructure Perspective for ML](/files/course/HPCA18_FacebookDCInfra.pdf), (HPCA'18) | 
 | Week 4  | New Architecture | *[Empowering Azure Storage with RDMA](https://www.usenix.org/system/files/nsdi23-bai.pdf), (NSDI'23) <br/> *[Optimized Network Architectures for Large Language Model Training with Billions of Parameters](https://arxiv.org/pdf/2307.12169) |
 | Week 5  | Data Parallelism | *[PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel](https://arxiv.org/pdf/2304.11277), (VLDB'23) <br/> *[A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855) |
 | Week 6  | Model Parallelism | *[PipeDream: Generalized Pipeline Parallelism for DNN Training](https://arxiv.org/pdf/1806.03377), (SOSP'19) <br/> *[GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965), (NeurIPS'19) |
