@@ -19,6 +19,7 @@ Instructors
 
 Annoucements
 ------
+* The link to submit paper reviews is [here](https://docs.google.com/forms/d/e/1FAIpQLSds4KYFP2TNQBcjkMdBHom4HEJtfoFF7pAVvOLC6ppn3HS-uQ/viewform?usp=sf_link).
 * The classroom teaching are cancelled in the first two weeks.
 
 
