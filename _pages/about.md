@@ -14,7 +14,7 @@ I love everything networked and distributed: from *networked systems* and their 
 
 I am an Assistant Professor of [Computer Science](https://www.cs.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest". Previously, I was an Assistant Professor at Boston University since 2021. I did a postdoc at Carnegie Mellon University and obtained a Ph.D. in Computer Science from Johns Hopkins University. 
 
-***I'm looking for self-motivated students (ugrad, master's, phd) who are interested in systems, networking, and applied algorithms research.** If you are interested in working with me, drop me an email with your CV. Check out our [graduate programs](https://www.cs.umd.edu/grad/apply) at UMD CS! 
+***I'm looking for self-motivated students (ugrad, master's, phd) who are interested in systems, networking, and applied algorithms research.** If you are interested in working with me, drop me an email with your CV. Check out our [graduate programs](https://www.cs.umd.edu/grad/catalog#applying) at UMD CS! 
 
 <!-- **Feel free to contact me if you are interested in research internship opportunites.** -->
 
