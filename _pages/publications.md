@@ -18,7 +18,7 @@ Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar
 
 2023
 ---
-[**HotNets**] Towards Interactive Simulacra of Internet Investigation by Human Researchers    
+[**HotNets**] Towards Interactive Research Agents for Internet Incident Investigation    
 Yajie Zhou* , Nengneng Yu* , Zaoxing Liu           
 *to appear in HotNets'23*
 

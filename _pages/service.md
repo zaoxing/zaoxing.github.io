@@ -7,6 +7,7 @@ author_profile: true
 Organization
 ---
 * [SIGCOMM FFSPIN 2022](https://conferences.sigcomm.org/sigcomm/2022/workshop-ffspin.html) (Co-chair)
+* [N2Women SIGCOMM 2023](https://n2women.comsoc.org/mentoring/) (Mentor)
 
 Program Committees
 ---
