@@ -10,11 +10,11 @@ redirect_from:
 ---
 About me
 ======
-I love everything networked and distributed: from *networked systems* and their *security issues* to robust algorithms that can hack *large-scale systems*. I lead the FROOT lab to make systems <u>F</u>aster, more Future-p<u>ROO</u>f, and more <u>T</u>rustworthy.
+I love everything networked and distributed: from *networked systems* and their *security issues* to robust algorithms that can hack *large-scale problems*. I lead the FROOT lab to make systems <u>F</u>aster, more Future-p<u>ROO</u>f, and more <u>T</u>rustworthy. 
 
 I am an Assistant Professor of [Computer Science](https://www.cs.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest".
 
-***I'm looking for self-motivated students (ugrad, master's, phd) who are interested in systems, networking, and applied algorithms research.** If you are interested in working with me, drop me an email with your CV. Check out our [graduate programs](https://www.cs.umd.edu/grad/catalog#applying) at UMD CS! 
+***I'm looking for self-motivated students (ugrad, master's, phd) who are interested in building systems of any scale and understanding the Internet.** If you are passionate about these, check out our [graduate programs](https://www.cs.umd.edu/grad/catalog#applying) at UMD CS and drop me an email with your CV! For PhD applicants, you may out [this](/files/UMD-PhD-Recruitment.pdf).
 
 <!-- **Feel free to contact me if you are interested in research internship opportunites.** -->
 
