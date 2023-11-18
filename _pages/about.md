@@ -25,6 +25,7 @@ News
 * [08/2023]  TrustSketch to appear in [NDSS'24](https://www.ndss-symposium.org/ndss2024/). Congrats to the team!
 * [07/2023]  OctoSketch to appear in [NSDI'24](https://www.usenix.org/conference/nsdi24). Congrats to Yinda and Peiqing!    
 * [05/2023]  Tulkun to appear in [SIGCOMM'23](https://conferences.sigcomm.org/sigcomm/2023/). Congrats to the team!
+* [05/2023]  I will be joining UMD CS this fall. Excited to meet you at the DMV area!
 * [01/2023]  Panakos to appear in [VLDB'23](https://vldb.org/2023/). Congrats to the team!
 * [01/2023]  Thanks Red Hat for the 2023 Red Hat Collaboratory Research Awards!   
 * [12/2022]  Two systems Arya and Sketchovsky to appear in [NSDI'23](https://www.usenix.org/conference/nsdi23). Congrats to the team! 
