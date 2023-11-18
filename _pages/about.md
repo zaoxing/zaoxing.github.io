@@ -14,7 +14,7 @@ I love everything networked and distributed: from *networked systems* and their 
 
 I am an Assistant Professor of [Computer Science](https://www.cs.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest".
 
-***I'm looking for self-motivated students (ugrad, master's, phd) who are interested in building systems of any scale and understanding the Internet.** If you are passionate about these, check out our [graduate programs](https://www.cs.umd.edu/grad/catalog#applying) at UMD CS and drop me an email with your CV! For PhD applicants, you may out [this](/files/UMD-PhD-Recruitment.pdf).
+***I'm looking for self-motivated students (ugrad, master's, phd) who are interested in building systems of any scale and understanding the Internet.** If you are passionate about these, check out our [graduate programs](https://www.cs.umd.edu/grad/catalog#applying) at UMD CS and drop me an email with your CV! For PhD applicants, you may check out [this](/files/UMD-PhD-Recruitment.pdf).
 
 <!-- **Feel free to contact me if you are interested in research internship opportunites.** -->
 
