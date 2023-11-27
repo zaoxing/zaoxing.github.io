@@ -18,9 +18,9 @@ Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar
 
 2023
 ---
-[**HotNets**] Towards Interactive Research Agents for Internet Incident Investigation    
+[**HotNets**] [Towards Interactive Research Agents for Internet Incident Investigation](/papers/2023/HotNets23_Agent.pdf)    
 Yajie Zhou* , Nengneng Yu* , Zaoxing Liu           
-*to appear in HotNets'23*
+*in HotNets'23*
 
 [**SIGCOMM**] [Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, On-Device Verification](/papers/2023/SIGCOMM23_Tulkun.pdf)       
 Qiao Xiang, Chenyang Huang, Ridi Wen, Yuxin Wang, Xiwen Fan, Zaoxing Liu, Linghe Kong, Dennis Duan, Franck Le, Wei Sun     
