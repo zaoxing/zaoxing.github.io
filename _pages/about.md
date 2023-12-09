@@ -23,6 +23,7 @@ For PhD applicants, you may check out [this](/files/UMD-PhD-Recruitment.pdf).
 
 News
 ------
+* [12/2023]  NetMigrate to appear in [FAST'24](https://www.usenix.org/conference/fast24). Congrats to Zeying and Yibo!
 * [09/2023]  Investigation agent to appear in [HotNet'23](https://conferences.sigcomm.org/hotnets/2023/index.html). Congrats to Lesley and Nengneng!
 * [08/2023]  TrustSketch to appear in [NDSS'24](https://www.ndss-symposium.org/ndss2024/). Congrats to the team!
 * [07/2023]  OctoSketch to appear in [NSDI'24](https://www.usenix.org/conference/nsdi24). Congrats to Yinda and Peiqing!    
@@ -69,6 +70,7 @@ I'm broadly interested in networked and data-intensive systems. I design, implem
 - Future-Proof Sketch-based Telemetry [[UnivMon, SIGCOMM'16](/papers/2016/SIGCOMM16_UnivMon.pdf)]
 
 **Approximate Computing Systems**
+- In-Memory KV Store Migration with Network Support [[NetMigrate, FAST'24](/papers/2024/FAST24_NetMigrate.pdf)]
 - Apprximate Graph Mining with Decomposition-based Sampling [[Arya, NSDI'23](/papers/2023/NSDI23_Arya.pdf)]
 - General Ensembles of Sketch-Based Analytics on Hardware [[Sketchovsky, NSDI'23](/papers/2023/NSDI23_Sketchovsky.pdf)]
 - General Multidimensional Subpopulation (Data Cube) Analytics [[Hydra, VLDB'22](/papers/2022/VLDB22_Hydra.pdf)]

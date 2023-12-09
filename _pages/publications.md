@@ -7,6 +7,10 @@ author_profile: true
 
 2024
 ---
+[**FAST**] In-Memory Key-Value Store Live Migration with NetMigrate      
+Zeying Zhu, Yibo Zhao, Zaoxing Liu       
+*to appear in USENIX FAST'24*
+
 [**NSDI**] OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores      
 Yinda Zhang, Peiqing Chen, Zaoxing Liu       
 *to appear in USENIX NSDI'24*
