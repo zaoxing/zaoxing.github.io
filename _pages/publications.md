@@ -133,7 +133,7 @@ Zaoxing Liu, Tian Li, Virginia Smith, Vyas Sekar
 2018
 ---
 [**OSDI**] [ASAP: Fast, Approximate Pattern Mining at Scale](/papers/2018/OSDI18_ASAP.pdf)  
-Zaoxing Liu* (Co-first author), Anand Iyer* , Xin Jin, Shivaram Venkataraman, Vladimir Braverman, Ion Stoica              
+Anand Iyer* , Zaoxing Liu* (Co-first author), Xin Jin, Shivaram Venkataraman, Vladimir Braverman, Ion Stoica              
 *in USENIX OSDI 2018*    
 [[Blog:the morning paper](https://blog.acolyer.org/2018/11/07/asap-fast-approximate-graph-pattern-mining-at-scale/)]
 
