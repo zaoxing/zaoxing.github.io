@@ -7,17 +7,17 @@ author_profile: true
 
 2024
 ---
-[**FAST**] In-Memory Key-Value Store Live Migration with NetMigrate      
+[**FAST**] [In-Memory Key-Value Store Live Migration with NetMigrate](/papers/2024/FAST24_NetMigrate.pdf)      
 Zeying Zhu, Yibo Zhao, Zaoxing Liu       
-*to appear in USENIX FAST'24*
+*in USENIX FAST'24*
 
-[**NSDI**] OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores      
+[**NSDI**] [OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores](/papers/2024/NDSS24_TrustSketch.pdf)      
 Yinda Zhang, Peiqing Chen, Zaoxing Liu       
 *to appear in USENIX NSDI'24*
 
 [**NDSS**] TrustSketch: Trustworthy Sketch-based Telemetry on Cloud Hosts       
 Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar         
-*to appear in NDSS Symposium'24*
+*in NDSS Symposium'24*
 
 [**ICDE**] BitMatcher: Bit-level Counter Adjustment for Sketches       
 Qilong Shi, Chengjun Jia, Wenjun Li, Zaoxing Liu, Tong Yang, Jianan Ji, Gaogang Xie, Weizhe Zhang, Minlan Yu         
