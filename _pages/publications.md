@@ -11,11 +11,11 @@ author_profile: true
 Zeying Zhu, Yibo Zhao, Zaoxing Liu       
 *in USENIX FAST'24*
 
-[**NSDI**] [OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores](/papers/2024/NDSS24_TrustSketch.pdf)      
+[**NSDI**] OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores            
 Yinda Zhang, Peiqing Chen, Zaoxing Liu       
 *to appear in USENIX NSDI'24*
 
-[**NDSS**] TrustSketch: Trustworthy Sketch-based Telemetry on Cloud Hosts       
+[**NDSS**] [TrustSketch: Trustworthy Sketch-based Telemetry on Cloud Hosts](/papers/2024/NDSS24_TrustSketch.pdf)              
 Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar         
 *in NDSS Symposium'24*
 
