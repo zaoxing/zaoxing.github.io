@@ -19,6 +19,9 @@ Yinda Zhang, Peiqing Chen, Zaoxing Liu
 Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar         
 *in NDSS Symposium'24*
 
+[**ICDE**] [BitMatcher: Bit-level Counter Adjustment for Sketches]()              
+Qilong Shi, Chengjun Jia, Wenjun Li, Zaoxing Liu, Tong Yang, Jianan Ji, Gaogang Xie, Weizhe Zhang and Minlan Yu              
+*in IEEE ICDE'24*
 
 2023
 ---
