@@ -19,10 +19,6 @@ Yinda Zhang, Peiqing Chen, Zaoxing Liu
 Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar         
 *in NDSS Symposium'24*
 
-[**ICDE**] [BitMatcher: Bit-level Counter Adjustment for Sketches]()                
-Qilong Shi, Chengjun Jia, Wenjun Li, Zaoxing Liu, Tong Yang, Jianan Ji, Gaogang Xie, Weizhe Zhang and Minlan Yu              
-*in IEEE ICDE'24*
-
 [**CoRR**] [GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM](https://arxiv.org/abs/2403.05527)       
 Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao      
 *preprint in arXiv*
