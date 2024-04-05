@@ -83,7 +83,7 @@ Course Mechanics
 ------
 - **Style**: In each topic, the instructor will give one or two introductory lectures, followed by paper discussions by class participants. In addition, there will be one capstone project. Students will be required to read and review papers before the class.
 
-- **Capstone Project**: The project will be done by teams of 3 to 5 students working with a mentor, depending on the project, an industry leader and/or engineer with a relevant project, or a senior graduate student or a postdoc working on a relevant project. Projects may use the public clouds via our industry partners (e.g., Microsoft Azure, Amazon AWS.) The project is due by the end of the exam week. The project presentations will be given in the form of a final poster and a demo. There will also be demos scheduled throughout the course to demonstrate regular progress.
+- **Capstone Project**: The project is a teamwork. Projects may use the public clouds via our industry partners (e.g., Microsoft Azure, Amazon AWS.) The project presentations will be given in the form of a final poster and a demo. There will also be demos scheduled throughout the course to demonstrate regular progress.
 
 - **How to Review Papers**: Write a review in four sections, including summary, paper strengths paper weaknesses, and detailed comments.
   - Summary (points in sentence or bullet form): What program? Core novel ideas or technical contributions? Summarize approach, mechnisms, or main findings.
