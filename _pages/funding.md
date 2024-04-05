@@ -4,7 +4,7 @@ title: "Funding"
 permalink: /funding/
 author_profile: true
 ---
-Our research cannot happen without generous sponsorship from government, industry, foundations, and individual donors. To find out more about our research outcomes and current projects in need of financial support, please contact Alan Liu ([email](mailto:zaoxing@bu.edu)).
+Our research cannot happen without generous sponsorship from government, industry, foundations, and individual donors. To find out more about our research outcomes and current projects in need of financial support, please contact Alan Liu ([email](mailto:zaoxing@umd.edu)).
 
 Acknowledgements:
 ------
