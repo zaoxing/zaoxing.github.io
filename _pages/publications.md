@@ -41,10 +41,6 @@ Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste
 Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, Zaoxing Liu  
 *in VLDB'23*
 
-[**SIGCOMM**] [Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, On-Device Verification](/papers/2023/SIGCOMM23_Tulkun.pdf)       
-Qiao Xiang, Chenyang Huang, Ridi Wen, Yuxin Wang, Xiwen Fan, Zaoxing Liu, Linghe Kong, Dennis Duan, Franck Le, Wei Sun     
-*in ACM SIGCOMM'23*
-
 
 2022
 ---
