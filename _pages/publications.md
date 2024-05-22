@@ -11,9 +11,9 @@ author_profile: true
 Zeying Zhu, Yibo Zhao, Zaoxing Liu       
 *in USENIX FAST'24*
 
-[**NSDI**] OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores            
+[**NSDI**] [OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores](/papers/2024/NSDI24_OctoSketch.pdf)           
 Yinda Zhang, Peiqing Chen, Zaoxing Liu       
-*to appear in USENIX NSDI'24*
+*in USENIX NSDI'24*
 
 [**NDSS**] [TrustSketch: Trustworthy Sketch-based Telemetry on Cloud Hosts](/papers/2024/NDSS24_TrustSketch.pdf)              
 Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar         
@@ -29,10 +29,6 @@ Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna
 Yajie Zhou* , Nengneng Yu* , Zaoxing Liu           
 *in HotNets'23*
 
-[**SIGCOMM**] [Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, On-Device Verification](/papers/2023/SIGCOMM23_Tulkun.pdf)       
-Qiao Xiang, Chenyang Huang, Ridi Wen, Yuxin Wang, Xiwen Fan, Zaoxing Liu, Linghe Kong, Dennis Duan, Franck Le, Wei Sun     
-*in ACM SIGCOMM'23*
-
 [**NSDI**] [Arya: Arbitrary Graph Pattern Mining with Decomposition-based Sampling](/papers/2023/NSDI23_Arya.pdf)  
 Zeying Zhu, Kan Wu, Zaoxing Liu   
 *in USENIX NSDI'23*
@@ -45,9 +41,10 @@ Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste
 Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, Zaoxing Liu  
 *in VLDB'23*
 
-<!-- [**Revision**] [(Scalable, General Host-based Software Sketch Analytics)]()(Title altered)          
-Yinda Zhang, Peiqing Chen, Zaoxing Liu   
-*under revision* -->
+[**SIGCOMM**] [Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, On-Device Verification](/papers/2023/SIGCOMM23_Tulkun.pdf)       
+Qiao Xiang, Chenyang Huang, Ridi Wen, Yuxin Wang, Xiwen Fan, Zaoxing Liu, Linghe Kong, Dennis Duan, Franck Le, Wei Sun     
+*in ACM SIGCOMM'23*
+
 
 2022
 ---

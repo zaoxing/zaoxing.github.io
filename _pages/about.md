@@ -23,6 +23,7 @@ For PhD applicants, you may check out [this](/files/UMD-PhD-Recruitment.pdf).
 
 News
 ------
+* [05/2024]  Serving the program committees of NSDI'25, FAST'25, and IMC'24. Submit your great work!
 * [12/2023]  NetMigrate to appear in [FAST'24](https://www.usenix.org/conference/fast24). Congrats to Zeying and Yibo!
 * [09/2023]  Investigation agent to appear in [HotNet'23](https://conferences.sigcomm.org/hotnets/2023/index.html). Congrats to Lesley and Nengneng!
 * [08/2023]  TrustSketch to appear in [NDSS'24](https://www.ndss-symposium.org/ndss2024/). Congrats to the team!
