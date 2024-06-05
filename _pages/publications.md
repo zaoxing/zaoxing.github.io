@@ -19,6 +19,10 @@ Yinda Zhang, Peiqing Chen, Zaoxing Liu
 Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar         
 *in NDSS Symposium'24*
 
+[**TDSC**] [Analyzing the Benefits of Optical Topology Programming for Mitigating Link-Flood DDoS Attacks]()              
+Matthew Nance-Hall, Zaoxing Liu, Vyas Sekar, Ramakrishnan Durairajan         
+*in IEEE Transactions on Dependable and Secure Computing*
+
 [**CoRR**] [GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM](https://arxiv.org/abs/2403.05527)       
 Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao      
 *preprint in arXiv*
