@@ -23,7 +23,7 @@ Yinda Zhang, Peiqing Chen, Zaoxing Liu
 Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar         
 *in NDSS Symposium'24*
 
-[**TDSC**] [Analyzing the Benefits of Optical Topology Programming for Mitigating Link-Flood DDoS Attacks]()              
+[**TDSC**] [Analyzing the Benefits of Optical Topology Programming for Mitigating Link-Flood DDoS Attacks](/papers/2024/TDSC24_Optical.pdf)              
 Matthew Nance-Hall, Zaoxing Liu, Vyas Sekar, Ramakrishnan Durairajan         
 *in IEEE Transactions on Dependable and Secure Computing*
 
