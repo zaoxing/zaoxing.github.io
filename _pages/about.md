@@ -14,7 +14,7 @@ I love everything networked and distributed: from *networked systems* and their 
 
 I am an Assistant Professor of [Computer Science](https://www.cs.umd.edu/) at the [University of Maryland, College Park](https://www.umd.edu/). My research has won interdisciplinary recognitions, including USENIX FAST Best Paper Award, USENIX ATC "Best of Rest", and ACM STOC "Best of Rest".
 
-***I'm looking for self-motivated students (ugrad, master's, phd) who are interested in building systems of any scale and understanding the Internet.** If you are passionate about these, check out our [graduate programs](https://www.cs.umd.edu/grad/catalog#applying) at UMD CS and drop me an email with your CV! 
+***I'm always looking for self-motivated students (ugrad, master's, phd) who are interested in building systems of any scale and understanding the Internet.** If you are passionate about these, check out our [graduate programs](https://www.cs.umd.edu/grad/catalog#applying) at UMD CS and drop me an email with your CV! 
 
 For PhD applicants, you may check out [this](/files/UMD-PhD-Recruitment.pdf).
 
@@ -23,6 +23,7 @@ For PhD applicants, you may check out [this](/files/UMD-PhD-Recruitment.pdf).
 
 News
 ------
+* [08/2024]  SketchPlan to appear in [IMC'24](https://conferences.sigcomm.org/imc/2024/). Congrats to the team!
 * [05/2024]  Serving the program committees of NSDI'25, FAST'25, and IMC'24. Submit your great work!
 * [12/2023]  NetMigrate to appear in [FAST'24](https://www.usenix.org/conference/fast24). Congrats to Zeying and Yibo!
 * [09/2023]  Investigation agent to appear in [HotNet'23](https://conferences.sigcomm.org/hotnets/2023/index.html). Congrats to Lesley and Nengneng!
