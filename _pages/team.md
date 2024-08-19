@@ -6,16 +6,18 @@ author_profile: true
 ---
 PhD Students
 ---
+Jaechan An (2024-), UMD       
 Peiqing Chen (2021-), UMD            
 Nengneng Yu  (2023-), UMD      
 Ayesha Naeem (2023-), BU, co-advised w/ [Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/)       
 Yajie (Lesley) Zhou (2021-), UMD               
-Zeying Zhu (2021-), UMD       
+Zeying Zhu (2021-), UMD    
+Yibo Zhao (2024-), UMD        
 
 Undergraduate Students/Visitors
----     
-Sam Qiu  (BU, Summer 2022 -)       
-Yibo Zhao (ShanghaiTech, Spring 2022 - )     
+---    
+Kenny Wu  (UMD, Spring 2024 -)       
+Sam Qiu  (BU, Summer 2022 -)           
 
 High School Students
 ---
