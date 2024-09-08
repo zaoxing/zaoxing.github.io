@@ -27,7 +27,8 @@ Anthony Wang (Summer 2021 -> MIT)
 Alumni
 ---            
 Yaroslav Diachenko (BU Ugrad, Summer 2022), Purdue CS.     
-Julia Hua (BU Ugrad, Summer/Fall 2022)      
+Julia Hua (BU Ugrad, Summer/Fall 2022)          
+Sam Qiu (BU, Summer 2022 - Spring 2024), MS student at Penn.                
 Haoming Yi  (BU Ugrad, Spring 2022 - Spring 2023), MS student at Rice CS.     
 
 Others
