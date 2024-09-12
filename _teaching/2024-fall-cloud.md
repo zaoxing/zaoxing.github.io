@@ -37,27 +37,27 @@ Tentative Syllabus
 | 9/3 Tue | Distributed Systems | [Google File System](/files/course/SOSP03_GFS.pdf), [MapReduce](/files/course/CACM_MapReduce.pdf) | Lecture | 
 | 9/5 Thu | Big Data Frameworks | [Spark](/files/course/NSDI12_Spark.pdf), [Hive](/files/course/VLDB09_Hive.pdf) |  |
 | 9/10 Tue | A Glimpse into Cloud Computing and Scale | Guest lecture: Nick Gramsky, Microsoft |  |
-| 9/12 Thu | Overview of Virtualization | [Xen](/files/course/SOSP03_Xen.pdf)| Project Sign-up Due |
-| 9/17 Tue | In-class lab: Docker | [Container-based OS virtualization](/files/course/EuroSys07_Container.pdf)|  |
-| 9/19 Thu | Virtualization II | [Container-based OS virtualization](/files/course/EuroSys07_Container.pdf)|  |
-| 9/24 Tue | Cloud Development Experience | Guest Lecture  |[Agile-1](https://youtu.be/RJaF4owQDgg), [Agile-1.1](https://billmoyers.com/content/how-to-tell-your-story-of-self/) [Agile-2](http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/) |
+| 9/12 Thu | Overview of Virtualization | [Xen](/files/course/SOSP03_Xen.pdf)|  |
+| 9/17 Tue | Virtualization II | [Container-based OS virtualization](/files/course/EuroSys07_Container.pdf)|  |
+| 9/19 Thu | Project Discussion |  | Project Sign-up Due |
+| 9/24 Tue | Cloud Services | Guest Lecture: Yi Fang, AWS |[Agile-1](https://youtu.be/RJaF4owQDgg), [Agile-1.1](https://billmoyers.com/content/how-to-tell-your-story-of-self/) [Agile-2](http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/) |
 | 9/26 Thu | Sprint Demos 1 |  | Presentations from student groups | 
 | 10/1 Tue | Datacenter Architectures | [VL2](/files/course/SIGCOMM09_VL2.pdf), [Aquila](/files/course/NSDI22_Aquila.pdf) |  |
-| 10/3 Thu | In-class lab: Kubernetes |   |  |
+| 10/3 Thu | In-class lab: Docker |   |  |
 | 10/8 Tue | Storage Systems | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| |
 | 10/10 Thu | Storage Systems and Networking | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| |
 | 10/15 Tue | Resource Management | [Borg](/files/course/EuroSys15_Borg.pdf), [Mesos](/files/course/NSDI11_Mesos.pdf), [Kubernetes](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/pivotal/vmware-demystifying-kubernetes-overcoming-misconceptions-whitepaper.pdf) |  |
-| 10/17 Thu | Sprint Demos 2 |  | Presentations from student groups |
+| 10/17 Thu | In-class lab: Kubernates |  |  |
 | 10/22 Tue | Advacned Datacenter Networking | [DCTCP](/files/course/SIGCOMM10_DCTCP.pdf), [P4](/files/course/CCR14_P4.pdf) |  |
 | 10/24 Thu | Invited Talk |  |  |
 | 10/29 Tue | Resource Disaggregation | [InfiniSwap](/files/course/NSDI17_Infiniswap.pdf)([slides](/files/course/nsdi17_slides_gu.pdf)), [LegoOS](/files/course/OSDI18_LegoOS.pdf) |  |
-| 10/31 Thu | Milestone Demos 3 Part I | | Presentations from student groups |
-| 11/5 Tue | Milestone Demos 3 Part II | | Presentations from student groups |
+| 10/31 Thu | Milestone Demos 2 Part I | | Presentations from student groups |
+| 11/5 Tue | Milestone Demos 2 Part II | | Presentations from student groups |
 | 11/7 Thu | Midterm Exam |  |  |
 | 11/12 Tue | Distributed Systems II | [Dynamo](/files/course/SOSP07_Dynamo.pdf), [Kafka](/files/course/NetDB11_Kafka.pdf) | |
 | 11/14 Thu | Geo-distributed Services | [Spanner](https://research.google/pubs/spanner-googles-globally-distributed-database-2/) | |
 | 11/19 Tue | Serverless Computing | [Serverless](/files/course/Berkeley_Serverless.pdf) | |
-| 11/21 Thu | Sprint Demo 4 | | Presentations from student groups |
+| 11/21 Thu | Sprint Demo 3 | | Presentations from student groups |
 | 11/26 Tue | Cloud Research Talk | Guest lecture: Chang Lou, UVA| |
 | 11/28 Thu | Thanksgiving Recess |  | |
 | 12/3 Tue | Final Presentations I | | |
