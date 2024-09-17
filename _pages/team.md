@@ -17,7 +17,7 @@ Yibo Zhao (2024-), UMD
 Undergraduate Students/Visitors
 ---    
 Kenny Wu  (UMD, Spring 2024 -)       
-Sam Qiu  (BU, Summer 2022 -)           
+Patrick Gough (UMD, Spring 2024 -)           
 
 High School Students
 ---
