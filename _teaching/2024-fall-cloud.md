@@ -39,10 +39,10 @@ Tentative Syllabus
 | 9/10 Tue | A Glimpse into Cloud Computing and Scale | Guest lecture: Nick Gramsky, Microsoft |  |
 | 9/12 Thu | Overview of Virtualization | [Xen](/files/course/SOSP03_Xen.pdf)|  |
 | 9/17 Tue | Virtualization II | [Container-based OS virtualization](/files/course/EuroSys07_Container.pdf)|  |
-| 9/19 Thu | Project Discussion |  | Project Sign-up Due |
-| 9/24 Tue | Cloud Services | Guest Lecture: Yi Fang, AWS |[Agile-1](https://youtu.be/RJaF4owQDgg), [Agile-1.1](https://billmoyers.com/content/how-to-tell-your-story-of-self/) [Agile-2](http://www.deltamatrix.com/horizontal-and-vertical-user-stories-slicing-the-cake/) |
-| 9/26 Thu | Sprint Demos 1 |  | Presentations from student groups | 
-| 10/1 Tue | Datacenter Architectures | [VL2](/files/course/SIGCOMM09_VL2.pdf), [Aquila](/files/course/NSDI22_Aquila.pdf) |  |
+| 9/19 Thu | Project Discussion |  |  |
+| 9/24 Tue | Datacenter Architectures |  |   |
+| 9/26 Thu | Cloud Services | Guest Lecture: Yi Fang, AWS |   |
+| 10/1 Tue | Datacenter Architectures II | [VL2](/files/course/SIGCOMM09_VL2.pdf), [Aquila](/files/course/NSDI22_Aquila.pdf) |  |
 | 10/3 Thu | In-class lab: Docker |   |  |
 | 10/8 Tue | Storage Systems | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| |
 | 10/10 Thu | Storage Systems and Networking | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| |
