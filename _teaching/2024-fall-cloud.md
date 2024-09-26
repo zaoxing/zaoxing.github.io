@@ -41,8 +41,8 @@ Tentative Syllabus
 | 9/17 Tue | Virtualization II | [Container-based OS virtualization](/files/course/EuroSys07_Container.pdf)|  |
 | 9/19 Thu | Project Discussion |  |  |
 | 9/24 Tue | Datacenter Architectures |  |   |
-| 9/26 Thu | Cloud Services | Guest Lecture: Yi Fang, AWS |   |
-| 10/1 Tue | Datacenter Architectures II | [VL2](/files/course/SIGCOMM09_VL2.pdf), [Aquila](/files/course/NSDI22_Aquila.pdf) |  |
+| 9/26 Thu | Datacenter Architectures II | [VL2](/files/course/SIGCOMM09_VL2.pdf), [Aquila](/files/course/NSDI22_Aquila.pdf) |  |
+| 10/1 Tue | Cloud Services | Guest Lecture: Yi Fang, AWS |   |
 | 10/3 Thu | In-class lab: Docker |   |  |
 | 10/8 Tue | Storage Systems | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| |
 | 10/10 Thu | Storage Systems and Networking | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| |
