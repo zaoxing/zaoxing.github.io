@@ -42,12 +42,12 @@ Tentative Syllabus
 | 9/19 Thu | Project Discussion |  |  |
 | 9/24 Tue | Datacenter Architectures |  |   |
 | 9/26 Thu | Datacenter Architectures II | [VL2](/files/course/SIGCOMM09_VL2.pdf), [Aquila](/files/course/NSDI22_Aquila.pdf) |  |
-| 10/1 Tue | Cloud Services | Guest Lecture: Yi Fang, AWS |   |
-| 10/3 Thu | In-class lab: Docker |   |  |
+| 10/1 Tue | Cloud Services | Guest Talk: Yi Fang, AWS |   |
+| 10/3 Thu | In-class lab: Docker | Guest Lecture: Marc Lichtman, Microsoft  |  |
 | 10/8 Tue | Storage Systems | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| |
 | 10/10 Thu | Storage Systems and Networking | [Ceph](/files/course/OSDI06_Ceph.pdf), [Flat Datacenter Storage](/files/course/OSDI12_FDS.pdf)| |
 | 10/15 Tue | Resource Management | [Borg](/files/course/EuroSys15_Borg.pdf), [Mesos](/files/course/NSDI11_Mesos.pdf), [Kubernetes](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/pivotal/vmware-demystifying-kubernetes-overcoming-misconceptions-whitepaper.pdf) |  |
-| 10/17 Thu | In-class lab: Kubernates |  |  |
+| 10/17 Thu | In-class lab: Kubernates | Guest Lecture: Marc Lichtman, Microsoft |  |
 | 10/22 Tue | Advacned Datacenter Networking | [DCTCP](/files/course/SIGCOMM10_DCTCP.pdf), [P4](/files/course/CCR14_P4.pdf) |  |
 | 10/24 Thu | Invited Talk |  |  |
 | 10/29 Tue | Resource Disaggregation | [InfiniSwap](/files/course/NSDI17_Infiniswap.pdf)([slides](/files/course/nsdi17_slides_gu.pdf)), [LegoOS](/files/course/OSDI18_LegoOS.pdf) |  |
