@@ -7,7 +7,7 @@ author_profile: true
 
 2024
 ---
-[**IMC**] [Raising the Level of Abstraction for Sketch-Based Network Telemetry with SketchPlan]()            
+[**IMC**] [Raising the Level of Abstraction for Sketch-Based Network Telemetry with SketchPlan](/papers/2024/IMC24_SketchPlan.pdf)            
 Milind Srivastava, Shao-Tse Hung, Hun Namkung, Kate Lin, Zaoxing Liu, Vyas Sekar              
 *to appear in ACM/SIGCOMM IMC'24*
 
