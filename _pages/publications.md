@@ -7,6 +7,10 @@ author_profile: true
 
 2024
 ---
+[**CoRR**] [GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM](https://arxiv.org/abs/2403.05527)       
+Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao      
+*preprint in arXiv*
+
 [**IMC**] [Raising the Level of Abstraction for Sketch-Based Network Telemetry with SketchPlan](/papers/2024/IMC24_SketchPlan.pdf)            
 Milind Srivastava, Shao-Tse Hung, Hun Namkung, Kate Lin, Zaoxing Liu, Vyas Sekar              
 *to appear in ACM/SIGCOMM IMC'24*
@@ -27,9 +31,11 @@ Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar
 Matthew Nance-Hall, Zaoxing Liu, Vyas Sekar, Ramakrishnan Durairajan         
 *in IEEE Transactions on Dependable and Secure Computing*
 
-[**CoRR**] [GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM](https://arxiv.org/abs/2403.05527)       
-Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao      
-*preprint in arXiv*
+[**IC2E**] [Unleashing Performance Insights with Online Probabilistic Tracing](/papers/2024/IC2E24_Astraea.pdf)              
+Mert Toslali, Syed Qasim, Srinivasan Parthasarathy, Fabio Oliveira, Hai Huang, Gianluca Stringhini, Zaoxing Liu, Ayse K. Coskun     
+*in IEEE IC2E'24*         
+*<font color="green">Best Paper Award</font>*
+
 
 2023
 ---
