@@ -61,7 +61,7 @@ Tentative Syllabus
 | 11/14 Thu | Cloud and Serverless | [Serverless](/files/course/Berkeley_Serverless.pdf) | |
 | 11/19 Tue | Fireside Chat with Mark Shuttleworth | [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth): Founder and CEO of Cananical Ltd. | |
 | 11/21 Thu | Sprint Demo 3 | | Presentations from student groups |
-| 11/26 Tue | Cloud Research Talk | Guest lecture: Chang Lou, UVA| |
+| 11/26 Tue | Cloud System Reliability | Guest lecture: Chang Lou, UVA| |
 | 11/28 Thu | Thanksgiving Recess |  | |
 | 12/3 Tue | Final Presentations I | | |
 | 12/5 Thu | Final Presentations II | | |
