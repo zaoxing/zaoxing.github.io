@@ -55,8 +55,8 @@ Tentative Syllabus
 | 11/5 Tue | Milestone Demos 2 Part II | | Presentations from student groups |
 | 11/7 Thu | Midterm Exam |  |  |
 | 11/12 Tue | Distributed Systems II | [Dynamo](/files/course/SOSP07_Dynamo.pdf), [Kafka](/files/course/NetDB11_Kafka.pdf) | |
-| 11/14 Thu | Geo-distributed Services | [Spanner](https://research.google/pubs/spanner-googles-globally-distributed-database-2/) | |
-| 11/19 Tue | Serverless Computing | [Serverless](/files/course/Berkeley_Serverless.pdf) | |
+| 11/14 Thu | Cloud and Serverless | [Serverless](/files/course/Berkeley_Serverless.pdf) | |
+| 11/19 Tue | Fireside Chat with Mark Shuttleworth | [Mark Shuttleworth](https://en.wikipedia.org/wiki/Mark_Shuttleworth): Founder and CEO of Cananical Ltd. | |
 | 11/21 Thu | Sprint Demo 3 | | Presentations from student groups |
 | 11/26 Tue | Cloud Research Talk | Guest lecture: Chang Lou, UVA| |
 | 11/28 Thu | Thanksgiving Recess |  | |
