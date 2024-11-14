@@ -15,7 +15,10 @@ and various technologies. Each course project is solicited from open-source comm
 
 Annoucements
 ------
-- Thank you Microsoft Azure and Red Hat for agreeing to share their **cloud development experience** with our students!
+- Thank you, Mark Shuttleworth (CEO and Founder, Cananical), for sharing the thoughts on **Trusted Open Source and the Cloud**!
+- Thank you, Nick Gramsky (DC Site Lead, Microsoft), for lecturing on **Large-scale Cloud Environments**!
+- Thank you, Marc Lichtman (Principal Software Engineer, Microsoft), for lecturing on **Docker and Kubernetes**!
+- Thank you Microsoft Azure and Amazon AWS for agreeing to share their **cloud development experience** with our students!
 - Thank you Microsoft for agreeing to **sponsor our course projects with Azure credits**!
 - Please enroll **CMSC498B** and email the instructor for any questions.
 - An updated **speaker list** and project descriptions will be available before the semester starts.
