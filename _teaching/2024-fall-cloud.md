@@ -18,6 +18,7 @@ Annoucements
 - Thank you, Mark Shuttleworth (CEO and Founder, Cananical), for sharing the thoughts on **Trusted Open Source and the Cloud**!
 - Thank you, Nick Gramsky (DC Site Lead, Microsoft), for lecturing on **Large-scale Cloud Environments**!
 - Thank you, Marc Lichtman (Principal Software Engineer, Microsoft), for lecturing on **Docker and Kubernetes**!
+- Thank you, Yi Fang (Senior Software Development Manager, AWS), for lecturing on **Cloud Services**!
 - Thank you Microsoft Azure and Amazon AWS for agreeing to share their **cloud development experience** with our students!
 - Thank you Microsoft for agreeing to **sponsor our course projects with Azure credits**!
 - Please enroll **CMSC498B** and email the instructor for any questions.
