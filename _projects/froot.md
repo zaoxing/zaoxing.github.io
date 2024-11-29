@@ -24,11 +24,11 @@ Publications
 ------
 [**NSDI**] OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores      
 Yinda Zhang, Peiqing Chen, Zaoxing Liu       
-*to appear in USENIX NSDI'24*
+*in USENIX NSDI'24*
 
 [**NDSS**] TrustSketch: Trustworthy Sketch-based Telemetry on Cloud Hosts       
 Zhuo Cheng, Maria Apostolaki, Zaoxing Liu, Vyas Sekar         
-*to appear in NDSS Symposium'24*
+*in NDSS Symposium'24*
 
 [**NSDI**] [HeteroSketch: Coordinating Network-wide Monitoring in Heterogeneous and Dynamic Networks](/papers/2022/NSDI2022_HeteroSketch.pdf)  
 Anup Agarwal, Zaoxing Liu, Srinivasan Seshan  
@@ -49,3 +49,7 @@ Software
 Outreach
 ------
 [Red Hat Summer Research Award](https://www.bu.edu/rhcollab/2022/04/14/red-hat-collaboratory-announces-2022-student-research-projects/)
+
+Educational Materials
+------
+[Cloud Computing](https://zaoxing.github.io/teaching/2024-fall-cloud)

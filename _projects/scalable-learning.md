@@ -9,17 +9,28 @@ The transition to 5G is expected to witness not only an emergence of new applica
 
 The proposed research outcomes will be systems, algorithms, and data analytics workflows that will inform the design and management of next generation critical wireless infrastructures. The approaches developed will enable ISPs to better apportion resources and enable better performance for emerging augmented reality applications for societal benefit (e.g., disaster response and management). In addition, the approaches can enable the discovery and profiling of new threats, which will have significant implications on national security. The proposed education activities are expected to provide students with a comprehensive training in networking, security, system building, and data science. Thus, there is significant potential for broader impact in terms of contributions to workforce development in an area of national need.
 
-**Funding Source**: NSF [CNS-2106946](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106946), 10/1/2021 to 9/30/2025
+**Funding Source**:        
+NSF [CNS-2106946](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106946), 10/1/2021 to 10/31/2024         
+NSF [CNS-2415758](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2415758), 3/1/2021 to 9/30/2025
+
+
 
 People
 ------
-* BU PI: Alan (Zaoxing) Liu
+* UMD PI: Alan (Zaoxing) Liu
 * All PIs: Srikanth Krishnamurthy (Lead, UCI), Evangelos Papalexakis (UCI), Vladimir Braverman (Rice), Vyas Sekar (CMU)
-* PhD Students: Yajie Zhou (BU), Antonis Manousis (CMU)
-* Ugrad Students: Nengneng Yu, Haoming Yi
+* PhD Students: Yajie Zhou (UMD), Nengneng Yu (UMD)
 
 Publications
 ------
+[**CoRR**] [GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM](https://arxiv.org/abs/2403.05527)       
+Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao      
+*preprint in arXiv*
+
+[**IMC**] [Raising the Level of Abstraction for Sketch-Based Network Telemetry with SketchPlan](/papers/2024/IMC24_SketchPlan.pdf)            
+Milind Srivastava, Shao-Tse Hung, Hun Namkung, Kate Lin, Zaoxing Liu, Vyas Sekar              
+*to appear in ACM/SIGCOMM IMC'24*
+
 [**NSDI**] [Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches](/papers/2023/NSDI23_Sketchovsky.pdf)  
 Hun Namkung, Zaoxing Liu, Daehyeok Kim, Vyas Sekar, Peter Steenkiste   
 *in USENIX NSDI'23*
@@ -46,3 +57,7 @@ Software
 [**Hydra**] [Github](https://github.com/antonis-m/HYDRA_VLDB)
 
 [**Sketchovsky**] [Github](https://github.com/Sketchovsky)
+
+Educational Materials
+------
+[**Cloud Computing**] [Webpage](https://zaoxing.github.io/teaching/2024-fall-cloud)
