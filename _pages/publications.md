@@ -13,7 +13,7 @@ Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna
 
 [**IMC**] [Raising the Level of Abstraction for Sketch-Based Network Telemetry with SketchPlan](/papers/2024/IMC24_SketchPlan.pdf)            
 Milind Srivastava, Shao-Tse Hung, Hun Namkung, Kate Lin, Zaoxing Liu, Vyas Sekar              
-*to appear in ACM/SIGCOMM IMC'24*
+*in ACM/SIGCOMM IMC'24*
 
 [**FAST**] [In-Memory Key-Value Store Live Migration with NetMigrate](/papers/2024/FAST24_NetMigrate.pdf)      
 Zeying Zhu, Yibo Zhao, Zaoxing Liu       
