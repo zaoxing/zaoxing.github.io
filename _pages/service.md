@@ -13,7 +13,7 @@ Organization
 
 Program Committees
 ---
-* 2025: [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2025/), [NSDI](https://www.usenix.org/conference/nsdi25), [FAST](https://www.usenix.org/conference/fast25), [IMC](https://conferences.sigcomm.org/imc/2025/), [WWW](https://www2025.thewebconf.org/)
+* 2025: [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2025/), [NSDI](https://www.usenix.org/conference/nsdi25), [FAST](https://www.usenix.org/conference/fast25), [IMC](https://conferences.sigcomm.org/imc/2025/)
 * 2024: [NSDI](https://www.usenix.org/conference/nsdi24/call-for-papers), [CCS](https://www.sigsac.org/ccs/CCS2024/), [CoNEXT](https://conferences.sigcomm.org/co-next/2024/), [IMC](https://conferences.sigcomm.org/imc/2024/), [APNET](https://conferences.sigcomm.org/events/apnet2024/)
 * 2023: [NSDI](https://www.usenix.org/conference/nsdi23/call-for-papers), [CCS](https://www.sigsac.org/ccs/CCS2023/), [ICNP](https://icnp23.cs.ucr.edu/), [APNET](https://conferences.sigcomm.org/events/apnet2023/), [P4 Workshop](https://opennetworking.org/events/2023-p4-workshop/), [EuroP4](https://opennetworking.org/events/euro-p4-2023/)
 * 2022: [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2022/tpc.html), [NSDI](https://www.usenix.org/conference/nsdi22/call-for-papers), [CCS](https://www.sigsac.org/ccs/CCS2022/program-committee.html), [IMC](https://conferences.sigcomm.org/imc/2022), [ICNP](https://icnp22.cs.ucr.edu/), [EuroP4](https://opennetworking.org/events/euro-p4-2022/), [PAM](https://pam2022.nl/), [APNET](https://conferences.sigcomm.org/events/apnet2022/index.html)
