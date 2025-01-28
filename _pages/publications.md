@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+2025
+---
+[**ASPLOS**] [OctoCache: Caching Voxels for Accelerating 3D Occupancy Mapping in Autonomous Systems]()       
+Peiqing Chen, Minghao Li, Zishen Wan, Yu-Shun Hsiao, Minlan Yu, Vijay Janapa Reddi, Zaoxing Liu  
+*to appear in ASPLOS'25*
+
 2024
 ---
 [**CoRR**] [GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM](https://arxiv.org/abs/2403.05527)       
