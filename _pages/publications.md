@@ -7,9 +7,14 @@ author_profile: true
 
 2025
 ---
-[**ASPLOS**] [OctoCache: Caching Voxels for Accelerating 3D Occupancy Mapping in Autonomous Systems]()       
+[**ASPLOS**] [OctoCache: Caching Voxels for Accelerating 3D Occupancy Mapping in Autonomous Systems]()        
 Peiqing Chen, Minghao Li, Zishen Wan, Yu-Shun Hsiao, Minlan Yu, Vijay Janapa Reddi, Zaoxing Liu  
 *to appear in ASPLOS'25*
+
+[**CSUR**] [Compact Data Structures for Network Telemetry]()       
+Shir Landau Feibish, Zaoxing Liu, Jennifer Rexford    
+*to appear in ACM Computing Surveys*
+
 
 2024
 ---
