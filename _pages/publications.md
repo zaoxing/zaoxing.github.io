@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+Preprint
+---
+[**CoRR**] [GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM](https://arxiv.org/abs/2403.05527)       
+Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao      
+*preprint in arXiv*
+
+
 2025
 ---
 [**ASPLOS**] [OctoCache: Caching Voxels for Accelerating 3D Occupancy Mapping in Autonomous Systems]()        
@@ -18,17 +25,13 @@ Shir Landau Feibish, Zaoxing Liu, Jennifer Rexford
 
 2024
 ---
-[**CoRR**] [GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM](https://arxiv.org/abs/2403.05527)       
-Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna, Tuo Zhao      
-*preprint in arXiv*
+[**FAST**] [In-Memory Key-Value Store Live Migration with NetMigrate](/papers/2024/FAST24_NetMigrate.pdf)      
+Zeying Zhu, Yibo Zhao, Zaoxing Liu       
+*in USENIX FAST'24*
 
 [**IMC**] [Raising the Level of Abstraction for Sketch-Based Network Telemetry with SketchPlan](/papers/2024/IMC24_SketchPlan.pdf)            
 Milind Srivastava, Shao-Tse Hung, Hun Namkung, Kate Lin, Zaoxing Liu, Vyas Sekar              
 *in ACM/SIGCOMM IMC'24*
-
-[**FAST**] [In-Memory Key-Value Store Live Migration with NetMigrate](/papers/2024/FAST24_NetMigrate.pdf)      
-Zeying Zhu, Yibo Zhao, Zaoxing Liu       
-*in USENIX FAST'24*
 
 [**NSDI**] [OctoSketch: Enabling Real-Time, Continuous Network Monitoring over Multiple Cores](/papers/2024/NSDI24_OctoSketch.pdf)           
 Yinda Zhang, Peiqing Chen, Zaoxing Liu       
