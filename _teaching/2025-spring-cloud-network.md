@@ -65,8 +65,8 @@ Seminar Schedule (Keep Updating)
 | :------: | :------: | :------  |
 | Tue 1/28  | Course Overview ([slides](/files/slides/818Q/1-Introduction.pdf)) | *[A Datacenter Infrastructure Perspective for ML](/files/course/HPCA18_FacebookDCInfra.pdf), (HPCA'18) | 
 | Thu 1/30  | Project Review ([slides]()) |  | 
-| Tue 2/4  | Visitor Talk ([link](https://umd.zoom.us/my/meetliu)), Fuheng Zhao, UCSB | Talk: Advancing Approximate Queries with Innovative Data Summaries and Generative Models |
-| Thu 2/6  | Time-serive DB |  |
+| Tue 2/4  | Visitor Talk, Fuheng Zhao, UCSB | Talk: Advancing Approximate Queries with Innovative Data Summaries and Generative Models |
+| Thu 2/6  | Time-series DB + NCCL |  |
 | Tue 2/11 | New Stuff  | *[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437), *[GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965), (NeurIPS'19)|
 | Thu 2/13 | New Stuff  | *[DeepSeek-R1 Technical Report](https://arxiv.org/abs/2501.12948) |
 
