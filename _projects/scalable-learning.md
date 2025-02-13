@@ -9,8 +9,7 @@ The transition to 5G is expected to witness not only an emergence of new applica
 
 The proposed research outcomes will be systems, algorithms, and data analytics workflows that will inform the design and management of next generation critical wireless infrastructures. The approaches developed will enable ISPs to better apportion resources and enable better performance for emerging augmented reality applications for societal benefit (e.g., disaster response and management). In addition, the approaches can enable the discovery and profiling of new threats, which will have significant implications on national security. The proposed education activities are expected to provide students with a comprehensive training in networking, security, system building, and data science. Thus, there is significant potential for broader impact in terms of contributions to workforce development in an area of national need.
 
-**Funding Source**:        
-NSF [CNS-2106946](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2106946), 10/1/2021 to 10/31/2024         
+**Funding Source**:                
 NSF [CNS-2415758](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2415758), 3/1/2021 to 9/30/2025
 
 
