@@ -20,6 +20,7 @@ Instructors
 Annoucements
 ------
 * Week of 2/3/25, we will assign the first reading of the semester, [DeepSeek-V3](https://arxiv.org/abs/2412.19437) tech report. 
+* Paper review link is [here](https://docs.google.com/forms/d/e/1FAIpQLSds4KYFP2TNQBcjkMdBHom4HEJtfoFF7pAVvOLC6ppn3HS-uQ/viewform?usp=sf_link).
 
 
 Prerequisites
