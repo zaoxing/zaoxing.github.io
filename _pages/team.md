@@ -17,7 +17,8 @@ Yibo Zhao (2024-), UMD
 Undergraduate Students/Visitors
 ---    
 Kenny Wu  (UMD, Spring 2024 -)       
-Patrick Gough (UMD, Spring 2024 -)           
+Patrick Gough (UMD, Spring 2024 -)          
+Eric Wang (UMD, Spring 2025 -)     
 
 High School Students
 ---
