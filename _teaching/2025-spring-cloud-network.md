@@ -19,6 +19,7 @@ Instructors
 
 Annoucements
 ------
+* Week of 2/17/25, the reading will be [Megatron-LM](https://arxiv.org/abs/1909.08053). 
 * Week of 2/3/25, we will assign the first reading of the semester, [DeepSeek-V3](https://arxiv.org/abs/2412.19437) tech report. 
 * Paper review link is [here](https://docs.google.com/forms/d/e/1FAIpQLSds4KYFP2TNQBcjkMdBHom4HEJtfoFF7pAVvOLC6ppn3HS-uQ/viewform?usp=sf_link).
 
@@ -71,6 +72,7 @@ Seminar Schedule (Keep Updating)
 | Tue 2/11 | Data Parallelism  | *[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437), |
 | Thu 2/13 | Pipeline Parallelism  | *[GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965) (NeurIPS'19), *[DeepSeek-R1 Technical Report](https://arxiv.org/abs/2501.12948) |
 | Tue 2/18 | Transformer Model + Hybrid Parallelism  |  |
+| Thu 2/20 | Hybrid Parallelism  | [Megatron-LM](https://arxiv.org/abs/1909.08053) |
 
 
 Paper Reviews
