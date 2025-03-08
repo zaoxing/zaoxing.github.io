@@ -22,5 +22,6 @@ Program Committees
 
 Proposal Review Panels
 ---
+* 2025: NSF   
 * 2023: NSF    
 * 2021: NSF
