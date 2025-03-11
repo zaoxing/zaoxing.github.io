@@ -73,6 +73,13 @@ Seminar Schedule (Keep Updating)
 | Thu 2/13 | Pipeline Parallelism  | *[GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965) (NeurIPS'19), *[DeepSeek-R1 Technical Report](https://arxiv.org/abs/2501.12948) |
 | Tue 2/18 | Transformer Model + Hybrid Parallelism  |  |
 | Thu 2/20 | Hybrid Parallelism  | [Megatron-LM](https://arxiv.org/abs/1909.08053) |
+| Tue 2/25 | Hardware Backend  |  |
+| Thu 2/27 | Model Serving | *[vLLM](https://arxiv.org/abs/2309.06180) |
+| Tue 3/4 | Model Serving  | *[SGLang](https://arxiv.org/abs/2312.07104) |
+| Thu 3/6 | ML Sparsity  |  |
+| Tue 3/11 | Collective Communications  |  |
+| Thu 3/13 | Speculative Decoding  | *[Speculative Decoding](https://arxiv.org/abs/2211.17192) |
+
 
 
 Paper Reviews
