@@ -81,6 +81,8 @@ Seminar Schedule (Keep Updating)
 | Thu 3/6 | ML Sparsity  |  |
 | Tue 3/11 | Collective Communications  |  |
 | Thu 3/13 | Speculative Decoding  | *[Speculative Decoding](https://arxiv.org/abs/2211.17192) |
+| Tue 3/18 | Spring Break |  |
+| Thu 3/20 | Spring Break |  |
 
 
 
