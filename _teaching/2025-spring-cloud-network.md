@@ -19,6 +19,7 @@ Instructors
 
 Annoucements
 ------
+* Week of 3/24/25, the project proposal upload link is [here](https://forms.gle/gYYDULoxeZzCF5k29).
 * Week of 3/10/25, the reading will be [Speculative Decoding](https://arxiv.org/abs/2211.17192).
 * Week of 2/17/25, the reading will be [Megatron-LM](https://arxiv.org/abs/1909.08053). 
 * Week of 2/3/25, we will assign the first reading of the semester, [DeepSeek-V3](https://arxiv.org/abs/2412.19437) tech report. 
