@@ -18,9 +18,9 @@ Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna
 Peiqing Chen, Minghao Li, Zishen Wan, Yu-Shun Hsiao, Minlan Yu, Vijay Janapa Reddi, Zaoxing Liu  
 *to appear in ASPLOS'25*
 
-[**CSUR**] [Compact Data Structures for Network Telemetry]()       
+[**CSUR**] [Compact Data Structures for Network Telemetry](/papers/2025/Telemetry_Survey_CSUR.pdf)       
 Shir Landau Feibish, Zaoxing Liu, Jennifer Rexford    
-*to appear in ACM Computing Surveys*
+*in ACM Computing Surveys*
 
 
 2024
