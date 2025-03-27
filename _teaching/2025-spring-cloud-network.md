@@ -84,6 +84,8 @@ Seminar Schedule (Keep Updating)
 | Thu 3/13 | Speculative Decoding  | *[Speculative Decoding](https://arxiv.org/abs/2211.17192) |
 | Tue 3/18 | Spring Break |  |
 | Thu 3/20 | Spring Break |  |
+| Tue 3/25 | RLHF | *[RLHF](https://arxiv.org/abs/2203.02155) |
+| Thu 3/27 | Visitor Talk | *[CacheGen](https://arxiv.org/abs/2310.07240) |
 
 
 
