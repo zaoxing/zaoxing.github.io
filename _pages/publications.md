@@ -18,6 +18,10 @@ Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna
 Peiqing Chen, Minghao Li, Zishen Wan, Yu-Shun Hsiao, Minlan Yu, Vijay Janapa Reddi, Zaoxing Liu  
 *to appear in ASPLOS'25*
 
+[**SIGMETRICS**] [Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability]()        
+Jonathan Chamberlain, Jilin Zheng, Zeying Zhu, Zaoxing Liu, David Starobinski 
+*to appear in SIGMETRICS'25*
+
 [**CSUR**] [Compact Data Structures for Network Telemetry](/papers/2025/Telemetry_Survey_CSUR.pdf)       
 Shir Landau Feibish, Zaoxing Liu, Jennifer Rexford    
 *in ACM Computing Surveys*

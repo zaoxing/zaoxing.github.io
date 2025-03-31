@@ -30,7 +30,7 @@ Alumni
 Yaroslav Diachenko (BU Ugrad, Summer 2022), Purdue CS.     
 Julia Hua (BU Ugrad, Summer/Fall 2022)          
 Sam Qiu (BU, Summer 2022 - Spring 2024), MS student at Penn.                
-Haoming Yi  (BU Ugrad, Spring 2022 - Spring 2023), MS student at Rice CS.     
+Haoming Yi  (BU Ugrad, Spring 2022 - Spring 2023), MS student at Waterloo CS.     
 
 Others
 ---
@@ -44,5 +44,4 @@ I have also worked closely with:
 [Yinda Zhang](https://yindazhang.github.io/) (UChicago -> UPenn, advised by Vincent Liu)    
 [Zhuo Cheng]() (CMU, advised by Brandon Lucia)    
 [Fuheng Zhao](https://zhaofuheng.github.io/) (UCSB, advised by Divyakant Agrawal and Amr El Abbadi)
-
 
