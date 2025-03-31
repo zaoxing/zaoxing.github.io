@@ -86,6 +86,11 @@ Seminar Schedule (Keep Updating)
 | Thu 3/20 | Spring Break |  |
 | Tue 3/25 | RLHF | *[RLHF](https://arxiv.org/abs/2203.02155) |
 | Thu 3/27 | Visitor Talk | *[CacheGen](https://arxiv.org/abs/2310.07240) |
+| Tue 4/1 | Presentation + Discussion | *[AttentionSinks](https://arxiv.org/abs/2309.17453) |
+| Thu 4/3 | Collective Communication | *[TACCL](https://www.usenix.org/conference/nsdi23/presentation/shah)|
+| Tue 4/8 | Large-Scale Communication | *[TE-CCL](https://dl.acm.org/doi/10.1145/3651890.3672249), *[MetaRDMA](https://dl.acm.org/doi/abs/10.1145/3651890.3672233) |
+| Thu 4/10 | Model Improvements | *[DeepSeekMath](https://arxiv.org/abs/2402.03300), *[Few-shot](https://arxiv.org/abs/2012.15723) |
+| Tue 4/15 | Project Review |  |
 
 
 
