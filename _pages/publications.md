@@ -14,13 +14,13 @@ Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna
 
 2025
 ---
-[**ASPLOS**] [OctoCache: Caching Voxels for Accelerating 3D Occupancy Mapping in Autonomous Systems]()        
+[**ASPLOS**] [OctoCache: Caching Voxels for Accelerating 3D Occupancy Mapping in Autonomous Systems](/papers/2025/ASPLOS25_OctoCache.pdf)        
 Peiqing Chen, Minghao Li, Zishen Wan, Yu-Shun Hsiao, Minlan Yu, Vijay Janapa Reddi, Zaoxing Liu  
-*to appear in ASPLOS'25*
+*in ASPLOS'25*
 
-[**SIGMETRICS**] [Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability]()        
+[**SIGMETRICS**] [Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability](/papers/2025/SIGMETRICS25_EDoS.pdf)        
 Jonathan Chamberlain, Jilin Zheng, Zeying Zhu, Zaoxing Liu, David Starobinski   
-*to appear in SIGMETRICS'25*
+*in SIGMETRICS'25*
 
 [**CSUR**] [Compact Data Structures for Network Telemetry](/papers/2025/Telemetry_Survey_CSUR.pdf)       
 Shir Landau Feibish, Zaoxing Liu, Jennifer Rexford     
