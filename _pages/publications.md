@@ -14,6 +14,10 @@ Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna
 
 2025
 ---
+[**VLDB**] [Approximation-First Timeseries Monitoring Query At Scale]()        
+Zeying Zhu, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu   
+*to appear in VLDB'25*
+
 [**ASPLOS**] [OctoCache: Caching Voxels for Accelerating 3D Occupancy Mapping in Autonomous Systems](/papers/2025/ASPLOS25_OctoCache.pdf)        
 Peiqing Chen, Minghao Li, Zishen Wan, Yu-Shun Hsiao, Minlan Yu, Vijay Janapa Reddi, Zaoxing Liu  
 *in ASPLOS'25*
