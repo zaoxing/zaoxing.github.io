@@ -92,7 +92,9 @@ Seminar Schedule (Keep Updating)
 | Thu 4/10 | Project Review | *[Few-shot](https://arxiv.org/abs/2012.15723) |
 | Tue 4/15 | Model Improvements | *[DeepSeekMath](https://arxiv.org/abs/2402.03300) |
 | Thu 4/17 | Model Improvements | *[Few-shot](https://arxiv.org/abs/2012.15723), *[LLM-as-a-Judge](https://arxiv.org/abs/2306.05685) |
-| Tue 4/22 | Project Update |  |
+| Tue 4/22 | Model Training II | *[DeepSpeed](https://dl.acm.org/doi/10.1145/3394486.3406703) |
+| Thu 4/24 | Visitor Talk | Yunming Xiao, University of Michigan |
+
 
 
 
