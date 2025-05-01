@@ -98,8 +98,7 @@ Seminar Schedule (Keep Updating)
 | Thu 5/1 | Project Review |  |
 | Tue 5/6 | Model Training II | *[DAPPLE](https://arxiv.org/pdf/2007.01045), *[ZeRO](https://arxiv.org/abs/1910.02054) |
 | Thu 5/8 | Timeseries DB + Final Project | *[InfluxDB](https://cs.ulb.ac.be/public/_media/teaching/influxdb_2017.pdf) |
-| Tue 5/13 | Final Project Presentation |  |
-
+| Tue 5/13 | Final Project Presentation | Happy Summer! |
 
 
 
