@@ -7,7 +7,8 @@ author_profile: true
 PhD Students
 ---
 Jaechan An (2024-), UMD       
-Peiqing Chen (2021-), UMD            
+Peiqing Chen (2021-), UMD  
+Wei Wang (2024-), UMD        
 Nengneng Yu  (2023-), UMD      
 Ayesha Naeem (2023-), BU, co-advised w/ [Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/)       
 Yajie (Lesley) Zhou (2021-), UMD               
