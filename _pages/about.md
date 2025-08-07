@@ -23,6 +23,7 @@ For PhD applicants, you may check out [this](/files/UMD-PhD-Recruitment.pdf).
 
 News
 ------
+* [06/2025]  PromSketch to appear in [VLDB'25](https://vldb.org/2025/). Congrats to Zeying, Jonathan, and the team!
 * [01/2025]  OctoCache to appear in [ASPLOS'25](https://www.asplos-conference.org/asplos2025/). Congrats to Peiqing and the team!
 * [08/2024]  SketchPlan to appear in [IMC'24](https://conferences.sigcomm.org/imc/2024/). Congrats to the team!
 * [05/2024]  Serving the program committees of NSDI'25, FAST'25, and IMC'24. Submit your great work!

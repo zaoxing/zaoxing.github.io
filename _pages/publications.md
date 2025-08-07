@@ -14,7 +14,7 @@ Hao Kang, Qingru Zhang, Souvik Kundu, Geonhwa Jeong, Zaoxing Liu, Tushar Krishna
 
 2025
 ---
-[**VLDB**] [Approximation-First Timeseries Monitoring Query At Scale]()        
+[**VLDB**] [Approximation-First Timeseries Monitoring Query At Scale](/papers/2025/VLDB25_PromSketch.pdf)        
 Zeying Zhu, Jonathan Chamberlain, Kenny Wu, David Starobinski, Zaoxing Liu   
 *to appear in VLDB'25*
 
